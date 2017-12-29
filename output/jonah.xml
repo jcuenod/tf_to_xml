@@ -1,0 +1,3490 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<book id="Jonah">
+  <sentence n="1215880">
+    <milestone unit="verse" id="Jonah.1.1">Jonah.1.1</milestone>
+    <p>וַֽיְהִי֙ דְּבַר־יְהוָ֔ה אֶל־יֹונָ֥ה בֶן־אֲמִתַּ֖י לֵאמֹֽר׃ </p>
+    <wg n="487365" class="WayX">
+      <wg n="827625" class="CP">
+        <w n="298555" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="827626" class="VP">
+        <w n="298556" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יְהִי֙</w>
+      </wg>
+      <wg n="827627" class="NP">
+        <w n="298557" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="c">דְּבַר</w>
+        <w n="298558" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+      <wg n="827628" class="PP">
+        <w n="298559" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298560" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֥ה</w>
+        <w n="298561" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶן</w>
+        <w n="298562" lemma="אמתי" partOfSpeech="nmpr" number="sg" gender="m" state="a">אֲמִתַּ֖י</w>
+      </wg>
+    </wg>
+    <wg n="487366" class="InfC" role="Adju">
+      <wg n="827629" class="VP">
+        <w n="298563" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="298564" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215881">
+    <milestone unit="verse" id="Jonah.1.2">Jonah.1.2</milestone>
+    <p>ק֠וּם </p>
+    <wg n="487367" class="ZIm0">
+      <wg n="827630" class="VP">
+        <w n="298565" lemma="קום" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">ק֠וּם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215882">
+    <milestone unit="verse" id="Jonah.1.2">Jonah.1.2</milestone>
+    <p>לֵ֧ךְ אֶל־נִֽינְוֵ֛ה הָעִ֥יר הַגְּדֹולָ֖ה </p>
+    <wg n="487368" class="ZIm0">
+      <wg n="827631" class="VP">
+        <w n="298566" lemma="הלך" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">לֵ֧ךְ</w>
+      </wg>
+      <wg n="827632" class="PP">
+        <w n="298567" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298568" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִֽינְוֵ֛ה</w>
+        <w n="298569" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="298570" lemma="עיר" partOfSpeech="subs" number="sg" gender="f" state="a">עִ֥יר</w>
+        <w n="298571" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298572" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְּדֹולָ֖ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215883">
+    <milestone unit="verse" id="Jonah.1.2">Jonah.1.2</milestone>
+    <p>וּקְרָ֣א עָלֶ֑יהָ </p>
+    <wg n="487369" class="WIm0">
+      <wg n="827633" class="CP">
+        <w n="298573" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="827634" class="VP">
+        <w n="298574" lemma="קרא" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">קְרָ֣א</w>
+      </wg>
+      <wg n="827635" class="PP">
+        <w n="298575" lemma="על" partOfSpeech="prep">עָלֶ֑יהָ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215884">
+    <milestone unit="verse" id="Jonah.1.2">Jonah.1.2</milestone>
+    <p>כִּֽי־עָלְתָ֥ה רָעָתָ֖ם לְפָנָֽי׃ </p>
+    <wg n="487370" class="xQtX">
+      <wg n="827636" class="CP">
+        <w n="298576" lemma="כי" partOfSpeech="conj">כִּֽי</w>
+      </wg>
+      <wg n="827637" class="VP">
+        <w n="298577" lemma="עלה" partOfSpeech="verb" person="3" number="sg" gender="f" tense="perf" stem="qal">עָלְתָ֥ה</w>
+      </wg>
+      <wg n="827638" class="NP">
+        <w n="298578" lemma="רעה" partOfSpeech="subs" number="sg" gender="f" state="a">רָעָתָ֖ם</w>
+      </wg>
+      <wg n="827639" class="PP">
+        <w n="298579" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="298580" lemma="פנה" partOfSpeech="subs" number="pl" gender="m" state="a">פָנָֽי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215885">
+    <milestone unit="verse" id="Jonah.1.3">Jonah.1.3</milestone>
+    <p>וַיָּ֤קָם יֹונָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָ֑ה </p>
+    <wg n="487371" class="WayX">
+      <wg n="827640" class="CP">
+        <w n="298581" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827641" class="VP">
+        <w n="298582" lemma="קום" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יָּ֤קָם</w>
+      </wg>
+      <wg n="827642" class="PrNP">
+        <w n="298583" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָה֙</w>
+      </wg>
+    </wg>
+    <wg n="487372" class="InfC" role="Adju">
+      <wg n="827643" class="VP">
+        <w n="298584" lemma="ל" partOfSpeech="prep">לִ</w>
+        <w n="298585" lemma="ברח" partOfSpeech="verb" tense="infc" stem="qal" state="a">בְרֹ֣חַ</w>
+      </wg>
+      <wg n="827644" class="AdvP">
+        <w n="298586" lemma="תרשׁישׁ" partOfSpeech="nmpr" number="sg" state="a">תַּרְשִׁ֔ישָׁה</w>
+      </wg>
+      <wg n="827645" class="PP">
+        <w n="298587" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298588" lemma="ל" partOfSpeech="prep">לִּ</w>
+        <w n="298589" lemma="פנה" partOfSpeech="subs" number="pl" gender="m" state="c">פְנֵ֖י</w>
+        <w n="298590" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215886">
+    <milestone unit="verse" id="Jonah.1.3">Jonah.1.3</milestone>
+    <p>וַיֵּ֨רֶד יָפֹ֜ו </p>
+    <wg n="487373" class="Way0">
+      <wg n="827646" class="CP">
+        <w n="298591" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827647" class="VP">
+        <w n="298592" lemma="ירד" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֵּ֨רֶד</w>
+      </wg>
+      <wg n="827648" class="PrNP">
+        <w n="298593" lemma="יפו" partOfSpeech="nmpr" number="sg" state="a">יָפֹ֜ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215887">
+    <milestone unit="verse" id="Jonah.1.3">Jonah.1.3</milestone>
+    <p>וַיִּמְצָ֥א אָנִיָּ֣ה׀ בָּאָ֣ה תַרְשִׁ֗ישׁ </p>
+    <wg n="487374" class="Way0">
+      <wg n="827649" class="CP">
+        <w n="298594" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827650" class="VP">
+        <w n="298595" lemma="מצא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּמְצָ֥א</w>
+      </wg>
+      <wg n="827651" class="NP">
+        <w n="298596" lemma="אניה" partOfSpeech="subs" number="sg" gender="f" state="a">אָנִיָּ֣ה</w>
+      </wg>
+    </wg>
+    <wg n="487375" class="Ptcp" role="Attr">
+      <wg n="827652" class="VP">
+        <w n="298597" lemma="בוא" partOfSpeech="verb" number="sg" gender="f" tense="ptca" stem="qal" state="a">בָּאָ֣ה</w>
+      </wg>
+      <wg n="827653" class="PrNP">
+        <w n="298598" lemma="תרשׁישׁ" partOfSpeech="nmpr" number="sg" state="a">תַרְשִׁ֗ישׁ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215888">
+    <milestone unit="verse" id="Jonah.1.3">Jonah.1.3</milestone>
+    <p>וַיִּתֵּ֨ן שְׂכָרָ֜הּ </p>
+    <wg n="487376" class="Way0">
+      <wg n="827654" class="CP">
+        <w n="298599" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827655" class="VP">
+        <w n="298600" lemma="נתן" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּתֵּ֨ן</w>
+      </wg>
+      <wg n="827656" class="NP">
+        <w n="298601" lemma="שׂכר" partOfSpeech="subs" number="sg" gender="m" state="a">שְׂכָרָ֜הּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215889">
+    <milestone unit="verse" id="Jonah.1.3">Jonah.1.3</milestone>
+    <p>וַיֵּ֤רֶד בָּהּ֙ לָבֹ֤וא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָֽה׃ </p>
+    <wg n="487377" class="Way0">
+      <wg n="827657" class="CP">
+        <w n="298602" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827658" class="VP">
+        <w n="298603" lemma="ירד" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֵּ֤רֶד</w>
+      </wg>
+      <wg n="827659" class="PP">
+        <w n="298604" lemma="ב" partOfSpeech="prep">בָּהּ֙</w>
+      </wg>
+    </wg>
+    <wg n="487378" class="InfC" role="Adju">
+      <wg n="827660" class="VP">
+        <w n="298605" lemma="ל" partOfSpeech="prep">לָ</w>
+        <w n="298606" lemma="בוא" partOfSpeech="verb" tense="infc" stem="qal" state="a">בֹ֤וא</w>
+      </wg>
+      <wg n="827661" class="PP">
+        <w n="298607" lemma="עם" partOfSpeech="prep">עִמָּהֶם֙</w>
+      </wg>
+      <wg n="827662" class="AdvP">
+        <w n="298608" lemma="תרשׁישׁ" partOfSpeech="nmpr" number="sg" state="a">תַּרְשִׁ֔ישָׁה</w>
+      </wg>
+      <wg n="827663" class="PP">
+        <w n="298609" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298610" lemma="ל" partOfSpeech="prep">לִּ</w>
+        <w n="298611" lemma="פנה" partOfSpeech="subs" number="pl" gender="m" state="c">פְנֵ֖י</w>
+        <w n="298612" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215890">
+    <milestone unit="verse" id="Jonah.1.4">Jonah.1.4</milestone>
+    <p>וַֽיהוָ֗ה הֵטִ֤יל רֽוּחַ־גְּדֹולָה֙ אֶל־הַיָּ֔ם </p>
+    <wg n="487379" class="WXQt">
+      <wg n="827664" class="CP">
+        <w n="298613" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="827665" class="PrNP">
+        <w n="298614" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יהוָ֗ה</w>
+      </wg>
+      <wg n="827666" class="VP">
+        <w n="298615" lemma="טול" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="hif">הֵטִ֤יל</w>
+      </wg>
+      <wg n="827667" class="NP">
+        <w n="298616" lemma="רוח" partOfSpeech="subs" number="sg" state="a">רֽוּחַ</w>
+        <w n="298617" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְּדֹולָה֙</w>
+      </wg>
+      <wg n="827668" class="PP">
+        <w n="298618" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298619" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298620" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֔ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215891">
+    <milestone unit="verse" id="Jonah.1.4">Jonah.1.4</milestone>
+    <p>וַיְהִ֥י סַֽעַר־גָּדֹ֖ול בַּיָּ֑ם </p>
+    <wg n="487380" class="WayX">
+      <wg n="827669" class="CP">
+        <w n="298621" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827670" class="VP">
+        <w n="298622" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יְהִ֥י</w>
+      </wg>
+      <wg n="827671" class="NP">
+        <w n="298623" lemma="סער" partOfSpeech="subs" number="sg" gender="m" state="a">סַֽעַר</w>
+        <w n="298624" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֖ול</w>
+      </wg>
+      <wg n="827672" class="PP">
+        <w n="298625" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="298626" lemma="ה" partOfSpeech="art"></w>
+        <w n="298627" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215892">
+    <milestone unit="verse" id="Jonah.1.4">Jonah.1.4</milestone>
+    <p>וְהָ֣אֳנִיָּ֔ה חִשְּׁבָ֖ה לְהִשָּׁבֵֽר׃ </p>
+    <wg n="487381" class="WXQt">
+      <wg n="827673" class="CP">
+        <w n="298628" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827674" class="NP">
+        <w n="298629" lemma="ה" partOfSpeech="art">הָ֣</w>
+        <w n="298630" lemma="אניה" partOfSpeech="subs" number="sg" gender="f" state="a">אֳנִיָּ֔ה</w>
+      </wg>
+      <wg n="827675" class="VP">
+        <w n="298631" lemma="חשׁב" partOfSpeech="verb" person="3" number="sg" gender="f" tense="perf" stem="piel">חִשְּׁבָ֖ה</w>
+      </wg>
+    </wg>
+    <wg n="487382" class="InfC" role="Adju">
+      <wg n="827676" class="VP">
+        <w n="298632" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="298633" lemma="שׁבר" partOfSpeech="verb" tense="infc" stem="nif" state="a">הִשָּׁבֵֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215893">
+    <milestone unit="verse" id="Jonah.1.5">Jonah.1.5</milestone>
+    <p>וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים </p>
+    <wg n="487383" class="WayX">
+      <wg n="827677" class="CP">
+        <w n="298634" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827678" class="VP">
+        <w n="298635" lemma="ירא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּֽירְא֣וּ</w>
+      </wg>
+      <wg n="827679" class="NP">
+        <w n="298636" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298637" lemma="מלח" partOfSpeech="subs" number="pl" gender="m" state="a">מַּלָּחִ֗ים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215894">
+    <milestone unit="verse" id="Jonah.1.5">Jonah.1.5</milestone>
+    <p>וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל־אֱלֹהָיו֒ </p>
+    <wg n="487384" class="Way0">
+      <wg n="827680" class="CP">
+        <w n="298638" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="827681" class="VP">
+        <w n="298639" lemma="זעק" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּזְעֲקוּ֮</w>
+      </wg>
+    </wg>
+    <wg n="487385" class="Ellp" role="Adju">
+      <wg n="827682" class="NP">
+        <w n="298640" lemma="אישׁ" partOfSpeech="subs" number="sg" gender="m" state="a">אִ֣ישׁ</w>
+      </wg>
+      <wg n="827683" class="PP">
+        <w n="298641" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298642" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהָיו֒</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215895">
+    <milestone unit="verse" id="Jonah.1.5">Jonah.1.5</milestone>
+    <p>וַיָּטִ֨לוּ אֶת־הַכֵּלִ֜ים אֲשֶׁ֤ר בָּֽאֳנִיָּה֙ אֶל־הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם </p>
+    <wg n="487386" class="Way0">
+      <wg n="827684" class="CP">
+        <w n="298643" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827685" class="VP">
+        <w n="298644" lemma="טול" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="hif">יָּטִ֨לוּ</w>
+      </wg>
+      <wg n="827686" class="PP">
+        <w n="298645" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="298646" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298647" lemma="כלי" partOfSpeech="subs" number="pl" gender="m" state="a">כֵּלִ֜ים</w>
+      </wg>
+      <wg n="827689" class="PP">
+        <w n="298652" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298653" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298654" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֔ם</w>
+      </wg>
+    </wg>
+    <wg n="487387" class="NmCl" role="Attr">
+      <wg n="827687" class="CP">
+        <w n="298648" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֤ר</w>
+      </wg>
+      <wg n="827688" class="PP">
+        <w n="298649" lemma="ב" partOfSpeech="prep">בָּֽ</w>
+        <w n="298650" lemma="ה" partOfSpeech="art"></w>
+        <w n="298651" lemma="אניה" partOfSpeech="subs" number="sg" gender="f" state="a">אֳנִיָּה֙</w>
+      </wg>
+    </wg>
+    <wg n="487388" class="InfC" role="Adju">
+      <wg n="827690" class="VP">
+        <w n="298655" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="298656" lemma="קלל" partOfSpeech="verb" tense="infc" stem="hif" state="a">הָקֵ֖ל</w>
+      </wg>
+      <wg n="827691" class="PP">
+        <w n="298657" lemma="מן" partOfSpeech="prep">מֵֽ</w>
+        <w n="298658" lemma="על" partOfSpeech="prep">עֲלֵיהֶ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215896">
+    <milestone unit="verse" id="Jonah.1.5">Jonah.1.5</milestone>
+    <p>וְיֹונָ֗ה יָרַד֙ אֶל־יַרְכְּתֵ֣י הַסְּפִינָ֔ה </p>
+    <wg n="487389" class="WXQt">
+      <wg n="827692" class="CP">
+        <w n="298659" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827693" class="PrNP">
+        <w n="298660" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֗ה</w>
+      </wg>
+      <wg n="827694" class="VP">
+        <w n="298661" lemma="ירד" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">יָרַד֙</w>
+      </wg>
+      <wg n="827695" class="PP">
+        <w n="298662" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298663" lemma="ירכה" partOfSpeech="subs" number="du" gender="f" state="c">יַרְכְּתֵ֣י</w>
+        <w n="298664" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298665" lemma="ספינה" partOfSpeech="subs" number="sg" gender="f" state="a">סְּפִינָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215897">
+    <milestone unit="verse" id="Jonah.1.5">Jonah.1.5</milestone>
+    <p>וַיִּשְׁכַּ֖ב </p>
+    <wg n="487390" class="Way0">
+      <wg n="827696" class="CP">
+        <w n="298666" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827697" class="VP">
+        <w n="298667" lemma="שׁכב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּשְׁכַּ֖ב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215898">
+    <milestone unit="verse" id="Jonah.1.5">Jonah.1.5</milestone>
+    <p>וַיֵּרָדַֽם׃ </p>
+    <wg n="487391" class="Way0">
+      <wg n="827698" class="CP">
+        <w n="298668" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827699" class="VP">
+        <w n="298669" lemma="רדם" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="nif">יֵּרָדַֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215899">
+    <milestone unit="verse" id="Jonah.1.6">Jonah.1.6</milestone>
+    <p>וַיִּקְרַ֤ב אֵלָיו֙ רַ֣ב הַחֹבֵ֔ל </p>
+    <wg n="487392" class="WayX">
+      <wg n="827700" class="CP">
+        <w n="298670" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827701" class="VP">
+        <w n="298671" lemma="קרב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּקְרַ֤ב</w>
+      </wg>
+      <wg n="827702" class="PP">
+        <w n="298672" lemma="אל" partOfSpeech="prep">אֵלָיו֙</w>
+      </wg>
+      <wg n="827703" class="NP">
+        <w n="298673" lemma="רב" partOfSpeech="subs" number="sg" gender="m" state="c">רַ֣ב</w>
+        <w n="298674" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298675" lemma="חבל" partOfSpeech="subs" number="sg" gender="m" state="a">חֹבֵ֔ל</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215900">
+    <milestone unit="verse" id="Jonah.1.6">Jonah.1.6</milestone>
+    <p>וַיֹּ֥אמֶר לֹ֖ו </p>
+    <wg n="487393" class="Way0">
+      <wg n="827704" class="CP">
+        <w n="298676" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827705" class="VP">
+        <w n="298677" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֥אמֶר</w>
+      </wg>
+      <wg n="827706" class="PP">
+        <w n="298678" lemma="ל" partOfSpeech="prep">לֹ֖ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215901">
+    <milestone unit="verse" id="Jonah.1.6">Jonah.1.6</milestone>
+    <p>מַה־לְּךָ֣ נִרְדָּ֑ם </p>
+    <wg n="487394" class="NmCl">
+      <wg n="827707" class="IPrP">
+        <w n="298679" lemma="מה" partOfSpeech="prin">מַה</w>
+      </wg>
+      <wg n="827708" class="PP">
+        <w n="298680" lemma="ל" partOfSpeech="prep">לְּךָ֣</w>
+      </wg>
+    </wg>
+    <wg n="487395" class="Ptcp" role="Attr">
+      <wg n="827709" class="VP">
+        <w n="298681" lemma="רדם" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="nif" state="a">נִרְדָּ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215902">
+    <milestone unit="verse" id="Jonah.1.6">Jonah.1.6</milestone>
+    <p>ק֚וּם </p>
+    <wg n="487396" class="ZIm0">
+      <wg n="827710" class="VP">
+        <w n="298682" lemma="קום" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">ק֚וּם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215903">
+    <milestone unit="verse" id="Jonah.1.6">Jonah.1.6</milestone>
+    <p>קְרָ֣א אֶל־אֱלֹהֶ֔יךָ </p>
+    <wg n="487397" class="ZIm0">
+      <wg n="827711" class="VP">
+        <w n="298683" lemma="קרא" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">קְרָ֣א</w>
+      </wg>
+      <wg n="827712" class="PP">
+        <w n="298684" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298685" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהֶ֔יךָ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215904">
+    <milestone unit="verse" id="Jonah.1.6">Jonah.1.6</milestone>
+    <p>אוּלַ֞י יִתְעַשֵּׁ֧ת הָאֱלֹהִ֛ים לָ֖נוּ </p>
+    <wg n="487398" class="xYqX">
+      <wg n="827713" class="AdvP">
+        <w n="298686" lemma="אולי" partOfSpeech="advb">אוּלַ֞י</w>
+      </wg>
+      <wg n="827714" class="VP">
+        <w n="298687" lemma="עשׁת" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="hit">יִתְעַשֵּׁ֧ת</w>
+      </wg>
+      <wg n="827715" class="NP">
+        <w n="298688" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="298689" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהִ֛ים</w>
+      </wg>
+      <wg n="827716" class="PP">
+        <w n="298690" lemma="ל" partOfSpeech="prep">לָ֖נוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215905">
+    <milestone unit="verse" id="Jonah.1.6">Jonah.1.6</milestone>
+    <p>וְלֹ֥א נֹאבֵֽד׃ </p>
+    <wg n="487399" class="WxY0">
+      <wg n="827717" class="CP">
+        <w n="298691" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827718" class="NegP">
+        <w n="298692" lemma="לא" partOfSpeech="nega">לֹ֥א</w>
+      </wg>
+      <wg n="827719" class="VP">
+        <w n="298693" lemma="אבד" partOfSpeech="verb" person="1" number="pl" tense="impf" stem="qal">נֹאבֵֽד</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215906">
+    <milestone unit="verse" id="Jonah.1.7">Jonah.1.7</milestone>
+    <p>וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ </p>
+    <wg n="487400" class="Way0">
+      <wg n="827720" class="CP">
+        <w n="298694" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827721" class="VP">
+        <w n="298695" lemma="אמר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יֹּאמְר֞וּ</w>
+      </wg>
+    </wg>
+    <wg n="487401" class="Ellp" role="Adju">
+      <wg n="827722" class="NP">
+        <w n="298696" lemma="אישׁ" partOfSpeech="subs" number="sg" gender="m" state="a">אִ֣ישׁ</w>
+      </wg>
+      <wg n="827723" class="PP">
+        <w n="298697" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298698" lemma="רע" partOfSpeech="subs" number="sg" gender="m" state="a">רֵעֵ֗הוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215907">
+    <milestone unit="verse" id="Jonah.1.7">Jonah.1.7</milestone>
+    <p>לְכוּ֙ </p>
+    <wg n="487402" class="ZIm0">
+      <wg n="827724" class="VP">
+        <w n="298699" lemma="הלך" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">לְכוּ֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215908">
+    <milestone unit="verse" id="Jonah.1.7">Jonah.1.7</milestone>
+    <p>וְנַפִּ֣ילָה גֹֽורָלֹ֔ות </p>
+    <wg n="487403" class="WYq0">
+      <wg n="827725" class="CP">
+        <w n="298700" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827726" class="VP">
+        <w n="298701" lemma="נפל" partOfSpeech="verb" person="1" number="pl" tense="impf" stem="hif">נַפִּ֣ילָה</w>
+      </wg>
+      <wg n="827727" class="NP">
+        <w n="298702" lemma="גורל" partOfSpeech="subs" number="pl" gender="m" state="a">גֹֽורָלֹ֔ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215909">
+    <milestone unit="verse" id="Jonah.1.7">Jonah.1.7</milestone>
+    <p>וְנֵ֣דְעָ֔ה בְּשֶׁלְּמִ֛י הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ </p>
+    <wg n="487404" class="WYq0">
+      <wg n="827728" class="CP">
+        <w n="298703" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827729" class="VP">
+        <w n="298704" lemma="ידע" partOfSpeech="verb" person="1" number="pl" tense="impf" stem="qal">נֵ֣דְעָ֔ה</w>
+      </wg>
+    </wg>
+    <wg n="487405" class="NmCl" role="Objc">
+      <wg n="827730" class="PP">
+        <w n="298705" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="298706" lemma="שׁ" partOfSpeech="conj">שֶׁ</w>
+        <w n="298707" lemma="ל" partOfSpeech="prep">לְּ</w>
+        <w n="298708" lemma="מי" partOfSpeech="prin">מִ֛י</w>
+      </wg>
+      <wg n="827731" class="NP">
+        <w n="298709" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="298710" lemma="רעה" partOfSpeech="subs" number="sg" gender="f" state="a">רָעָ֥ה</w>
+        <w n="298711" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298712" lemma="זאת" partOfSpeech="prde" number="sg" gender="f">זֹּ֖את</w>
+      </wg>
+      <wg n="827732" class="PP">
+        <w n="298713" lemma="ל" partOfSpeech="prep">לָ֑נוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215910">
+    <milestone unit="verse" id="Jonah.1.7">Jonah.1.7</milestone>
+    <p>וַיַּפִּ֨לוּ֙ גֹּֽורָלֹ֔ות </p>
+    <wg n="487406" class="Way0">
+      <wg n="827733" class="CP">
+        <w n="298714" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827734" class="VP">
+        <w n="298715" lemma="נפל" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="hif">יַּפִּ֨לוּ֙</w>
+      </wg>
+      <wg n="827735" class="NP">
+        <w n="298716" lemma="גורל" partOfSpeech="subs" number="pl" gender="m" state="a">גֹּֽורָלֹ֔ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215911">
+    <milestone unit="verse" id="Jonah.1.7">Jonah.1.7</milestone>
+    <p>וַיִּפֹּ֥ל הַגֹּורָ֖ל עַל־יֹונָֽה׃ </p>
+    <wg n="487407" class="WayX">
+      <wg n="827736" class="CP">
+        <w n="298717" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827737" class="VP">
+        <w n="298718" lemma="נפל" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּפֹּ֥ל</w>
+      </wg>
+      <wg n="827738" class="NP">
+        <w n="298719" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298720" lemma="גורל" partOfSpeech="subs" number="sg" gender="m" state="a">גֹּורָ֖ל</w>
+      </wg>
+      <wg n="827739" class="PP">
+        <w n="298721" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="298722" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215912">
+    <milestone unit="verse" id="Jonah.1.8">Jonah.1.8</milestone>
+    <p>וַיֹּאמְר֣וּ אֵלָ֔יו </p>
+    <wg n="487408" class="Way0">
+      <wg n="827740" class="CP">
+        <w n="298723" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827741" class="VP">
+        <w n="298724" lemma="אמר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יֹּאמְר֣וּ</w>
+      </wg>
+      <wg n="827742" class="PP">
+        <w n="298725" lemma="אל" partOfSpeech="prep">אֵלָ֔יו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215913">
+    <milestone unit="verse" id="Jonah.1.8">Jonah.1.8</milestone>
+    <p>הַגִּידָה־נָּ֣א לָ֔נוּ בַּאֲשֶׁ֛ר לְמִי־הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ </p>
+    <wg n="487409" class="ZIm0">
+      <wg n="827743" class="VP">
+        <w n="298726" lemma="נגד" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="hif">הַגִּידָה</w>
+      </wg>
+      <wg n="827744" class="InjP">
+        <w n="298727" lemma="נא" partOfSpeech="intj">נָּ֣א</w>
+      </wg>
+      <wg n="827745" class="PP">
+        <w n="298728" lemma="ל" partOfSpeech="prep">לָ֔נוּ</w>
+      </wg>
+    </wg>
+    <wg n="487410" class="NmCl" role="Objc">
+      <wg n="827746" class="PP">
+        <w n="298729" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="298730" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֛ר</w>
+        <w n="298731" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="298732" lemma="מי" partOfSpeech="prin">מִי</w>
+      </wg>
+      <wg n="827747" class="NP">
+        <w n="298733" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="298734" lemma="רעה" partOfSpeech="subs" number="sg" gender="f" state="a">רָעָ֥ה</w>
+        <w n="298735" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298736" lemma="זאת" partOfSpeech="prde" number="sg" gender="f">זֹּ֖את</w>
+      </wg>
+      <wg n="827748" class="PP">
+        <w n="298737" lemma="ל" partOfSpeech="prep">לָ֑נוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215914">
+    <milestone unit="verse" id="Jonah.1.8">Jonah.1.8</milestone>
+    <p>מַה־מְּלַאכְתְּךָ֙ </p>
+    <wg n="487411" class="NmCl">
+      <wg n="827749" class="IPrP">
+        <w n="298738" lemma="מה" partOfSpeech="prin">מַה</w>
+      </wg>
+      <wg n="827750" class="NP">
+        <w n="298739" lemma="מלאכת" partOfSpeech="subs" number="sg" gender="f" state="a">מְּלַאכְתְּךָ֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215915">
+    <milestone unit="verse" id="Jonah.1.8">Jonah.1.8</milestone>
+    <p>וּמֵאַ֣יִן תָּבֹ֔וא </p>
+    <wg n="487412" class="WxY0">
+      <wg n="827751" class="CP">
+        <w n="298740" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="827752" class="PP">
+        <w n="298741" lemma="מן" partOfSpeech="prep">מֵ</w>
+        <w n="298742" lemma="אין" partOfSpeech="inrg">אַ֣יִן</w>
+      </wg>
+      <wg n="827753" class="VP">
+        <w n="298743" lemma="בוא" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="qal">תָּבֹ֔וא</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215916">
+    <milestone unit="verse" id="Jonah.1.8">Jonah.1.8</milestone>
+    <p>מָ֣ה אַרְצֶ֔ךָ </p>
+    <wg n="487413" class="NmCl">
+      <wg n="827754" class="IPrP">
+        <w n="298744" lemma="מה" partOfSpeech="prin">מָ֣ה</w>
+      </wg>
+      <wg n="827755" class="NP">
+        <w n="298745" lemma="ארץ" partOfSpeech="subs" number="sg" state="a">אַרְצֶ֔ךָ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215917">
+    <milestone unit="verse" id="Jonah.1.8">Jonah.1.8</milestone>
+    <p>וְאֵֽי־מִזֶּ֥ה עַ֖ם אָֽתָּה׃ </p>
+    <wg n="487414" class="NmCl">
+      <wg n="827756" class="CP">
+        <w n="298746" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827757" class="InrP">
+        <w n="298747" lemma="אי" partOfSpeech="inrg">אֵֽי</w>
+        <w n="298748" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298749" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֥ה</w>
+      </wg>
+      <wg n="827758" class="NP">
+        <w n="298750" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="a">עַ֖ם</w>
+      </wg>
+      <wg n="827759" class="PPrP">
+        <w n="298751" lemma="אתה" partOfSpeech="prps" person="2" number="sg" gender="m">אָֽתָּה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215918">
+    <milestone unit="verse" id="Jonah.1.9">Jonah.1.9</milestone>
+    <p>וַיֹּ֥אמֶר אֲלֵיהֶ֖ם </p>
+    <wg n="487415" class="Way0">
+      <wg n="827760" class="CP">
+        <w n="298752" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827761" class="VP">
+        <w n="298753" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֥אמֶר</w>
+      </wg>
+      <wg n="827762" class="PP">
+        <w n="298754" lemma="אל" partOfSpeech="prep">אֲלֵיהֶ֖ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215919">
+    <milestone unit="verse" id="Jonah.1.9">Jonah.1.9</milestone>
+    <p>עִבְרִ֣י אָנֹ֑כִי </p>
+    <wg n="487416" class="NmCl">
+      <wg n="827763" class="NP">
+        <w n="298755" lemma="עברי" partOfSpeech="adjv" number="sg" gender="m" state="a">עִבְרִ֣י</w>
+      </wg>
+      <wg n="827764" class="PPrP">
+        <w n="298756" lemma="אנכי" partOfSpeech="prps" person="1" number="sg">אָנֹ֑כִי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215920">
+    <milestone unit="verse" id="Jonah.1.9">Jonah.1.9</milestone>
+    <p>וְאֶת־יְהוָ֞ה אֱלֹהֵ֤י הַשָּׁמַ֨יִם֙ אֲנִ֣י יָרֵ֔א אֲשֶׁר־עָשָׂ֥ה אֶת־הַיָּ֖ם וְאֶת־הַיַּבָּשָֽׁה׃ </p>
+    <wg n="487417" class="Ptcp">
+      <wg n="827765" class="CP">
+        <w n="298757" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827766" class="PP">
+        <w n="298758" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="298759" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֞ה</w>
+        <w n="298760" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="c">אֱלֹהֵ֤י</w>
+        <w n="298761" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298762" lemma="שׁמים" partOfSpeech="subs" number="pl" gender="m" state="a">שָּׁמַ֨יִם֙</w>
+      </wg>
+      <wg n="827767" class="PPrP">
+        <w n="298763" lemma="אני" partOfSpeech="prps" person="1" number="sg">אֲנִ֣י</w>
+      </wg>
+      <wg n="827768" class="VP">
+        <w n="298764" lemma="ירא" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">יָרֵ֔א</w>
+      </wg>
+    </wg>
+    <wg n="487418" class="xQt0" role="Attr">
+      <wg n="827769" class="CP">
+        <w n="298765" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁר</w>
+      </wg>
+      <wg n="827770" class="VP">
+        <w n="298766" lemma="עשׂה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">עָשָׂ֥ה</w>
+      </wg>
+      <wg n="827771" class="PP">
+        <w n="298767" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="298768" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298769" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֖ם</w>
+        <w n="298770" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="298771" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="298772" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298773" lemma="יבשׁה" partOfSpeech="subs" number="sg" gender="f" state="a">יַּבָּשָֽׁה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215921">
+    <milestone unit="verse" id="Jonah.1.10">Jonah.1.10</milestone>
+    <p>וַיִּֽירְא֤וּ הָֽאֲנָשִׁים֙ יִרְאָ֣ה גְדֹולָ֔ה </p>
+    <wg n="487419" class="WayX">
+      <wg n="827772" class="CP">
+        <w n="298774" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827773" class="VP">
+        <w n="298775" lemma="ירא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּֽירְא֤וּ</w>
+      </wg>
+      <wg n="827774" class="NP">
+        <w n="298776" lemma="ה" partOfSpeech="art">הָֽ</w>
+        <w n="298777" lemma="אישׁ" partOfSpeech="subs" number="pl" gender="m" state="a">אֲנָשִׁים֙</w>
+      </wg>
+      <wg n="827775" class="NP">
+        <w n="298778" lemma="יראה" partOfSpeech="subs" number="sg" gender="f" state="a">יִרְאָ֣ה</w>
+        <w n="298779" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְדֹולָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215922">
+    <milestone unit="verse" id="Jonah.1.10">Jonah.1.10</milestone>
+    <p>וַיֹּאמְר֥וּ אֵלָ֖יו </p>
+    <wg n="487420" class="Way0">
+      <wg n="827776" class="CP">
+        <w n="298780" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827777" class="VP">
+        <w n="298781" lemma="אמר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יֹּאמְר֥וּ</w>
+      </wg>
+      <wg n="827778" class="PP">
+        <w n="298782" lemma="אל" partOfSpeech="prep">אֵלָ֖יו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215923">
+    <milestone unit="verse" id="Jonah.1.10">Jonah.1.10</milestone>
+    <p>מַה־זֹּ֣את עָשִׂ֑יתָ </p>
+    <wg n="487421" class="xQt0">
+      <wg n="827779" class="IPrP">
+        <w n="298783" lemma="מה" partOfSpeech="prin">מַה</w>
+        <w n="298784" lemma="זאת" partOfSpeech="prde" number="sg" gender="f">זֹּ֣את</w>
+      </wg>
+      <wg n="827780" class="VP">
+        <w n="298785" lemma="עשׂה" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="qal">עָשִׂ֑יתָ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215924">
+    <milestone unit="verse" id="Jonah.1.10">Jonah.1.10</milestone>
+    <p>כִּֽי־יָדְע֣וּ הָאֲנָשִׁ֗ים כִּֽי־מִלִּפְנֵ֤י יְהוָה֙ ה֣וּא בֹרֵ֔חַ כִּ֥י הִגִּ֖יד לָהֶֽם׃ </p>
+    <wg n="487422" class="xQtX">
+      <wg n="827781" class="CP">
+        <w n="298786" lemma="כי" partOfSpeech="conj">כִּֽי</w>
+      </wg>
+      <wg n="827782" class="VP">
+        <w n="298787" lemma="ידע" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">יָדְע֣וּ</w>
+      </wg>
+      <wg n="827783" class="NP">
+        <w n="298788" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="298789" lemma="אישׁ" partOfSpeech="subs" number="pl" gender="m" state="a">אֲנָשִׁ֗ים</w>
+      </wg>
+    </wg>
+    <wg n="487423" class="Ptcp" role="Objc">
+      <wg n="827784" class="CP">
+        <w n="298790" lemma="כי" partOfSpeech="conj">כִּֽי</w>
+      </wg>
+      <wg n="827785" class="PP">
+        <w n="298791" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298792" lemma="ל" partOfSpeech="prep">לִּ</w>
+        <w n="298793" lemma="פנה" partOfSpeech="subs" number="pl" gender="m" state="c">פְנֵ֤י</w>
+        <w n="298794" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָה֙</w>
+      </wg>
+      <wg n="827786" class="PPrP">
+        <w n="298795" lemma="הוא" partOfSpeech="prps" person="3" number="sg" gender="m">ה֣וּא</w>
+      </wg>
+      <wg n="827787" class="VP">
+        <w n="298796" lemma="ברח" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">בֹרֵ֔חַ</w>
+      </wg>
+    </wg>
+    <wg n="487424" class="xQt0" role="Adju">
+      <wg n="827788" class="CP">
+        <w n="298797" lemma="כי" partOfSpeech="conj">כִּ֥י</w>
+      </wg>
+      <wg n="827789" class="VP">
+        <w n="298798" lemma="נגד" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="hif">הִגִּ֖יד</w>
+      </wg>
+      <wg n="827790" class="PP">
+        <w n="298799" lemma="ל" partOfSpeech="prep">לָהֶֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215925">
+    <milestone unit="verse" id="Jonah.1.11">Jonah.1.11</milestone>
+    <p>וַיֹּאמְר֤וּ אֵלָיו֙ </p>
+    <wg n="487425" class="Way0">
+      <wg n="827791" class="CP">
+        <w n="298800" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827792" class="VP">
+        <w n="298801" lemma="אמר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יֹּאמְר֤וּ</w>
+      </wg>
+      <wg n="827793" class="PP">
+        <w n="298802" lemma="אל" partOfSpeech="prep">אֵלָיו֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215926">
+    <milestone unit="verse" id="Jonah.1.11">Jonah.1.11</milestone>
+    <p>מַה־נַּ֣עֲשֶׂה לָּ֔ךְ </p>
+    <wg n="487426" class="xYq0">
+      <wg n="827794" class="IPrP">
+        <w n="298803" lemma="מה" partOfSpeech="prin">מַה</w>
+      </wg>
+      <wg n="827795" class="VP">
+        <w n="298804" lemma="עשׂה" partOfSpeech="verb" person="1" number="pl" tense="impf" stem="qal">נַּ֣עֲשֶׂה</w>
+      </wg>
+      <wg n="827796" class="PP">
+        <w n="298805" lemma="ל" partOfSpeech="prep">לָּ֔ךְ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215927">
+    <milestone unit="verse" id="Jonah.1.11">Jonah.1.11</milestone>
+    <p>וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעָלֵ֑ינוּ </p>
+    <wg n="487427" class="WYqX">
+      <wg n="827797" class="CP">
+        <w n="298806" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827798" class="VP">
+        <w n="298807" lemma="שׁתק" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִשְׁתֹּ֥ק</w>
+      </wg>
+      <wg n="827799" class="NP">
+        <w n="298808" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298809" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֖ם</w>
+      </wg>
+      <wg n="827800" class="PP">
+        <w n="298810" lemma="מן" partOfSpeech="prep">מֵֽ</w>
+        <w n="298811" lemma="על" partOfSpeech="prep">עָלֵ֑ינוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215928">
+    <milestone unit="verse" id="Jonah.1.11">Jonah.1.11</milestone>
+    <p>כִּ֥י הַיָּ֖ם הֹולֵ֥ךְ וְסֹעֵֽר׃ </p>
+    <wg n="487428" class="Ptcp">
+      <wg n="827801" class="CP">
+        <w n="298812" lemma="כי" partOfSpeech="conj">כִּ֥י</w>
+      </wg>
+      <wg n="827802" class="NP">
+        <w n="298813" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298814" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֖ם</w>
+      </wg>
+      <wg n="827803" class="VP">
+        <w n="298815" lemma="הלך" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">הֹולֵ֥ךְ</w>
+      </wg>
+    </wg>
+    <wg n="487429" class="Ptcp" role="Coor">
+      <wg n="827804" class="CP">
+        <w n="298816" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827805" class="VP">
+        <w n="298817" lemma="סער" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">סֹעֵֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215929">
+    <milestone unit="verse" id="Jonah.1.12">Jonah.1.12</milestone>
+    <p>וַיֹּ֣אמֶר אֲלֵיהֶ֗ם </p>
+    <wg n="487430" class="Way0">
+      <wg n="827806" class="CP">
+        <w n="298818" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827807" class="VP">
+        <w n="298819" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֣אמֶר</w>
+      </wg>
+      <wg n="827808" class="PP">
+        <w n="298820" lemma="אל" partOfSpeech="prep">אֲלֵיהֶ֗ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215930">
+    <milestone unit="verse" id="Jonah.1.12">Jonah.1.12</milestone>
+    <p>שָׂא֨וּנִי֙ </p>
+    <wg n="487431" class="ZIm0">
+      <wg n="827809" class="VP">
+        <w n="298821" lemma="נשׂא" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">שָׂא֨וּנִי֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215931">
+    <milestone unit="verse" id="Jonah.1.12">Jonah.1.12</milestone>
+    <p>וַהֲטִילֻ֣נִי אֶל־הַיָּ֔ם </p>
+    <wg n="487432" class="WIm0">
+      <wg n="827810" class="CP">
+        <w n="298822" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827811" class="VP">
+        <w n="298823" lemma="טול" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="hif">הֲטִילֻ֣נִי</w>
+      </wg>
+      <wg n="827812" class="PP">
+        <w n="298824" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298825" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298826" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֔ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215932">
+    <milestone unit="verse" id="Jonah.1.12">Jonah.1.12</milestone>
+    <p>וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעֲלֵיכֶ֑ם </p>
+    <wg n="487433" class="WYqX">
+      <wg n="827813" class="CP">
+        <w n="298827" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827814" class="VP">
+        <w n="298828" lemma="שׁתק" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִשְׁתֹּ֥ק</w>
+      </wg>
+      <wg n="827815" class="NP">
+        <w n="298829" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298830" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֖ם</w>
+      </wg>
+      <wg n="827816" class="PP">
+        <w n="298831" lemma="מן" partOfSpeech="prep">מֵֽ</w>
+        <w n="298832" lemma="על" partOfSpeech="prep">עֲלֵיכֶ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215933">
+    <milestone unit="verse" id="Jonah.1.12">Jonah.1.12</milestone>
+    <p>כִּ֚י יֹודֵ֣עַ אָ֔נִי כִּ֣י בְשֶׁלִּ֔י הַסַּ֧עַר הַגָּדֹ֛ול הַזֶּ֖ה עֲלֵיכֶֽם׃ </p>
+    <wg n="487434" class="Ptcp">
+      <wg n="827817" class="CP">
+        <w n="298833" lemma="כי" partOfSpeech="conj">כִּ֚י</w>
+      </wg>
+      <wg n="827818" class="VP">
+        <w n="298834" lemma="ידע" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">יֹודֵ֣עַ</w>
+      </wg>
+      <wg n="827819" class="PPrP">
+        <w n="298835" lemma="אני" partOfSpeech="prps" person="1" number="sg">אָ֔נִי</w>
+      </wg>
+    </wg>
+    <wg n="487435" class="NmCl" role="Objc">
+      <wg n="827820" class="CP">
+        <w n="298836" lemma="כי" partOfSpeech="conj">כִּ֣י</w>
+      </wg>
+      <wg n="827821" class="PP">
+        <w n="298837" lemma="ב" partOfSpeech="prep">בְ</w>
+        <w n="298838" lemma="שׁ" partOfSpeech="conj">שֶׁ</w>
+        <w n="298839" lemma="ל" partOfSpeech="prep">לִּ֔י</w>
+      </wg>
+      <wg n="827822" class="NP">
+        <w n="298840" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298841" lemma="סער" partOfSpeech="subs" number="sg" gender="m" state="a">סַּ֧עַר</w>
+        <w n="298842" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298843" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֛ול</w>
+        <w n="298844" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298845" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֖ה</w>
+      </wg>
+      <wg n="827823" class="PP">
+        <w n="298846" lemma="על" partOfSpeech="prep">עֲלֵיכֶֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215934">
+    <milestone unit="verse" id="Jonah.1.13">Jonah.1.13</milestone>
+    <p>וַיַּחְתְּר֣וּ הָאֲנָשִׁ֗ים לְהָשִׁ֛יב אֶל־הַיַּבָּשָׁ֖ה </p>
+    <wg n="487436" class="WayX">
+      <wg n="827824" class="CP">
+        <w n="298847" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827825" class="VP">
+        <w n="298848" lemma="חתר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יַּחְתְּר֣וּ</w>
+      </wg>
+      <wg n="827826" class="NP">
+        <w n="298849" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="298850" lemma="אישׁ" partOfSpeech="subs" number="pl" gender="m" state="a">אֲנָשִׁ֗ים</w>
+      </wg>
+    </wg>
+    <wg n="487437" class="InfC" role="Adju">
+      <wg n="827827" class="VP">
+        <w n="298851" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="298852" lemma="שׁוב" partOfSpeech="verb" tense="infc" stem="hif" state="a">הָשִׁ֛יב</w>
+      </wg>
+      <wg n="827828" class="PP">
+        <w n="298853" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298854" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298855" lemma="יבשׁה" partOfSpeech="subs" number="sg" gender="f" state="a">יַּבָּשָׁ֖ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215935">
+    <milestone unit="verse" id="Jonah.1.13">Jonah.1.13</milestone>
+    <p>וְלֹ֣א יָכֹ֑לוּ </p>
+    <wg n="487438" class="WxQ0">
+      <wg n="827829" class="CP">
+        <w n="298856" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827830" class="NegP">
+        <w n="298857" lemma="לא" partOfSpeech="nega">לֹ֣א</w>
+      </wg>
+      <wg n="827831" class="VP">
+        <w n="298858" lemma="יכל" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">יָכֹ֑לוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215936">
+    <milestone unit="verse" id="Jonah.1.13">Jonah.1.13</milestone>
+    <p>כִּ֣י הַיָּ֔ם הֹולֵ֥ךְ וְסֹעֵ֖ר עֲלֵיהֶֽם׃ </p>
+    <wg n="487439" class="Ptcp">
+      <wg n="827832" class="CP">
+        <w n="298859" lemma="כי" partOfSpeech="conj">כִּ֣י</w>
+      </wg>
+      <wg n="827833" class="NP">
+        <w n="298860" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298861" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֔ם</w>
+      </wg>
+      <wg n="827834" class="VP">
+        <w n="298862" lemma="הלך" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">הֹולֵ֥ךְ</w>
+      </wg>
+    </wg>
+    <wg n="487440" class="Ptcp" role="Coor">
+      <wg n="827835" class="CP">
+        <w n="298863" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827836" class="VP">
+        <w n="298864" lemma="סער" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">סֹעֵ֖ר</w>
+      </wg>
+      <wg n="827837" class="PP">
+        <w n="298865" lemma="על" partOfSpeech="prep">עֲלֵיהֶֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215937">
+    <milestone unit="verse" id="Jonah.1.14">Jonah.1.14</milestone>
+    <p>וַיִּקְרְא֨וּ אֶל־יְהוָ֜ה </p>
+    <wg n="487441" class="Way0">
+      <wg n="827838" class="CP">
+        <w n="298866" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827839" class="VP">
+        <w n="298867" lemma="קרא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּקְרְא֨וּ</w>
+      </wg>
+      <wg n="827840" class="PP">
+        <w n="298868" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298869" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֜ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215938">
+    <milestone unit="verse" id="Jonah.1.14">Jonah.1.14</milestone>
+    <p>וַיֹּאמְר֗וּ </p>
+    <wg n="487442" class="Way0">
+      <wg n="827841" class="CP">
+        <w n="298870" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827842" class="VP">
+        <w n="298871" lemma="אמר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יֹּאמְר֗וּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215939">
+    <milestone unit="verse" id="Jonah.1.14">Jonah.1.14</milestone>
+    <p>אָנָּ֤ה יְהוָה֙ </p>
+    <wg n="487443" class="NmCl">
+      <wg n="827843" class="InjP">
+        <w n="298872" lemma="אנא" partOfSpeech="intj">אָנָּ֤ה</w>
+      </wg>
+      <wg n="827844" class="PrNP">
+        <w n="298873" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָה֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215940">
+    <milestone unit="verse" id="Jonah.1.14">Jonah.1.14</milestone>
+    <p>אַל־נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ הַזֶּ֔ה </p>
+    <wg n="487444" class="xYq0">
+      <wg n="827845" class="NegP">
+        <w n="298874" lemma="אל" partOfSpeech="nega">אַל</w>
+      </wg>
+      <wg n="827846" class="InjP">
+        <w n="298875" lemma="נא" partOfSpeech="intj">נָ֣א</w>
+      </wg>
+      <wg n="827847" class="VP">
+        <w n="298876" lemma="אבד" partOfSpeech="verb" person="1" number="pl" tense="impf" stem="qal">נֹאבְדָ֗ה</w>
+      </wg>
+      <wg n="827848" class="PP">
+        <w n="298877" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="298878" lemma="נפשׁ" partOfSpeech="subs" number="sg" gender="f" state="c">נֶ֨פֶשׁ֙</w>
+        <w n="298879" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="298880" lemma="אישׁ" partOfSpeech="subs" number="sg" gender="m" state="a">אִ֣ישׁ</w>
+        <w n="298881" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298882" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215941">
+    <milestone unit="verse" id="Jonah.1.14">Jonah.1.14</milestone>
+    <p>וְאַל־תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא </p>
+    <wg n="487445" class="WxY0">
+      <wg n="827849" class="CP">
+        <w n="298883" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827850" class="NegP">
+        <w n="298884" lemma="אל" partOfSpeech="nega">אַל</w>
+      </wg>
+      <wg n="827851" class="VP">
+        <w n="298885" lemma="נתן" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="qal">תִּתֵּ֥ן</w>
+      </wg>
+      <wg n="827852" class="PP">
+        <w n="298886" lemma="על" partOfSpeech="prep">עָלֵ֖ינוּ</w>
+      </wg>
+      <wg n="827853" class="NP">
+        <w n="298887" lemma="דם" partOfSpeech="subs" number="sg" gender="m" state="a">דָּ֣ם</w>
+        <w n="298888" lemma="נקי" partOfSpeech="adjv" number="sg" gender="m" state="a">נָקִ֑יא</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215942">
+    <milestone unit="verse" id="Jonah.1.14">Jonah.1.14</milestone>
+    <p>כִּֽי־אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ׃ </p>
+    <wg n="487446" class="XQtl">
+      <wg n="827854" class="CP">
+        <w n="298889" lemma="כי" partOfSpeech="conj">כִּֽי</w>
+      </wg>
+      <wg n="827855" class="PPrP">
+        <w n="298890" lemma="אתה" partOfSpeech="prps" person="2" number="sg" gender="m">אַתָּ֣ה</w>
+      </wg>
+      <wg n="827859" class="VP">
+        <w n="298895" lemma="עשׂה" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="qal">עָשִֽׂיתָ</w>
+      </wg>
+    </wg>
+    <wg n="487447" class="Voct">
+      <wg n="827856" class="PrNP">
+        <w n="298891" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+    </wg>
+    <wg n="487448" class="xQt0" role="Adju">
+      <wg n="827857" class="CP">
+        <w n="298892" lemma="כ" partOfSpeech="prep">כַּ</w>
+        <w n="298893" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֥ר</w>
+      </wg>
+      <wg n="827858" class="VP">
+        <w n="298894" lemma="חפץ" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="qal">חָפַ֖צְתָּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215943">
+    <milestone unit="verse" id="Jonah.1.15">Jonah.1.15</milestone>
+    <p>וַיִּשְׂאוּ֙ אֶת־יֹונָ֔ה </p>
+    <wg n="487449" class="Way0">
+      <wg n="827860" class="CP">
+        <w n="298896" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827861" class="VP">
+        <w n="298897" lemma="נשׂא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּשְׂאוּ֙</w>
+      </wg>
+      <wg n="827862" class="PP">
+        <w n="298898" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="298899" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215944">
+    <milestone unit="verse" id="Jonah.1.15">Jonah.1.15</milestone>
+    <p>וַיְטִלֻ֖הוּ אֶל־הַיָּ֑ם </p>
+    <wg n="487450" class="Way0">
+      <wg n="827863" class="CP">
+        <w n="298900" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827864" class="VP">
+        <w n="298901" lemma="טול" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="hif">יְטִלֻ֖הוּ</w>
+      </wg>
+      <wg n="827865" class="PP">
+        <w n="298902" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298903" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298904" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215945">
+    <milestone unit="verse" id="Jonah.1.15">Jonah.1.15</milestone>
+    <p>וַיַּעֲמֹ֥ד הַיָּ֖ם מִזַּעְפֹּֽו׃ </p>
+    <wg n="487451" class="WayX">
+      <wg n="827866" class="CP">
+        <w n="298905" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827867" class="VP">
+        <w n="298906" lemma="עמד" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יַּעֲמֹ֥ד</w>
+      </wg>
+      <wg n="827868" class="NP">
+        <w n="298907" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298908" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֖ם</w>
+      </wg>
+      <wg n="827869" class="PP">
+        <w n="298909" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298910" lemma="זעף" partOfSpeech="subs" number="sg" gender="m" state="a">זַּעְפֹּֽו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215946">
+    <milestone unit="verse" id="Jonah.1.16">Jonah.1.16</milestone>
+    <p>וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדֹולָ֖ה אֶת־יְהוָ֑ה </p>
+    <wg n="487452" class="WayX">
+      <wg n="827870" class="CP">
+        <w n="298911" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827871" class="VP">
+        <w n="298912" lemma="ירא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּֽירְא֧וּ</w>
+      </wg>
+      <wg n="827872" class="NP">
+        <w n="298913" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="298914" lemma="אישׁ" partOfSpeech="subs" number="pl" gender="m" state="a">אֲנָשִׁ֛ים</w>
+      </wg>
+      <wg n="827873" class="NP">
+        <w n="298915" lemma="יראה" partOfSpeech="subs" number="sg" gender="f" state="a">יִרְאָ֥ה</w>
+        <w n="298916" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְדֹולָ֖ה</w>
+      </wg>
+      <wg n="827874" class="PP">
+        <w n="298917" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="298918" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215947">
+    <milestone unit="verse" id="Jonah.1.16">Jonah.1.16</milestone>
+    <p>וַיִּֽזְבְּחוּ־זֶ֨בַח֙ לַֽיהוָ֔ה </p>
+    <wg n="487453" class="Way0">
+      <wg n="827875" class="CP">
+        <w n="298919" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827876" class="VP">
+        <w n="298920" lemma="זבח" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּֽזְבְּחוּ</w>
+      </wg>
+      <wg n="827877" class="NP">
+        <w n="298921" lemma="זבח" partOfSpeech="subs" number="sg" gender="m" state="a">זֶ֨בַח֙</w>
+      </wg>
+      <wg n="827878" class="PP">
+        <w n="298922" lemma="ל" partOfSpeech="prep">לַֽ</w>
+        <w n="298923" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יהוָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215948">
+    <milestone unit="verse" id="Jonah.1.16">Jonah.1.16</milestone>
+    <p>וַֽיִּדְּר֖וּ נְדָרִֽים׃ </p>
+    <wg n="487454" class="Way0">
+      <wg n="827879" class="CP">
+        <w n="298924" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="827880" class="VP">
+        <w n="298925" lemma="נדר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּדְּר֖וּ</w>
+      </wg>
+      <wg n="827881" class="NP">
+        <w n="298926" lemma="נדר" partOfSpeech="subs" number="pl" gender="m" state="a">נְדָרִֽים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215949">
+    <milestone unit="verse" id="Jonah.2.1">Jonah.2.1</milestone>
+    <p>וַיְמַ֤ן יְהוָה֙ דָּ֣ג גָּדֹ֔ול לִבְלֹ֖עַ אֶת־יֹונָ֑ה </p>
+    <wg n="487455" class="WayX">
+      <wg n="827882" class="CP">
+        <w n="298927" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827883" class="VP">
+        <w n="298928" lemma="מנה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="piel">יְמַ֤ן</w>
+      </wg>
+      <wg n="827884" class="PrNP">
+        <w n="298929" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָה֙</w>
+      </wg>
+      <wg n="827885" class="NP">
+        <w n="298930" lemma="דג" partOfSpeech="subs" number="sg" gender="m" state="a">דָּ֣ג</w>
+        <w n="298931" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֔ול</w>
+      </wg>
+    </wg>
+    <wg n="487456" class="InfC" role="Adju">
+      <wg n="827886" class="VP">
+        <w n="298932" lemma="ל" partOfSpeech="prep">לִ</w>
+        <w n="298933" lemma="בלע" partOfSpeech="verb" tense="infc" stem="qal" state="a">בְלֹ֖עַ</w>
+      </wg>
+      <wg n="827887" class="PP">
+        <w n="298934" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="298935" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215950">
+    <milestone unit="verse" id="Jonah.2.1">Jonah.2.1</milestone>
+    <p>וַיְהִ֤י יֹונָה֙ בִּמְעֵ֣י הַדָּ֔ג שְׁלֹשָׁ֥ה יָמִ֖ים וּשְׁלֹשָׁ֥ה לֵילֹֽות׃ </p>
+    <wg n="487457" class="WayX">
+      <wg n="827888" class="CP">
+        <w n="298936" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827889" class="VP">
+        <w n="298937" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יְהִ֤י</w>
+      </wg>
+      <wg n="827890" class="PrNP">
+        <w n="298938" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָה֙</w>
+      </wg>
+      <wg n="827891" class="PP">
+        <w n="298939" lemma="ב" partOfSpeech="prep">בִּ</w>
+        <w n="298940" lemma="מעים" partOfSpeech="subs" number="pl" gender="m" state="c">מְעֵ֣י</w>
+        <w n="298941" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298942" lemma="דג" partOfSpeech="subs" number="sg" gender="m" state="a">דָּ֔ג</w>
+      </wg>
+      <wg n="827892" class="NP">
+        <w n="298943" lemma="שׁלשׁ" partOfSpeech="subs" number="sg" gender="f" state="a">שְׁלֹשָׁ֥ה</w>
+        <w n="298944" lemma="יום" partOfSpeech="subs" number="pl" gender="m" state="a">יָמִ֖ים</w>
+        <w n="298945" lemma="ו" partOfSpeech="conj">וּ</w>
+        <w n="298946" lemma="שׁלשׁ" partOfSpeech="subs" number="sg" gender="f" state="a">שְׁלֹשָׁ֥ה</w>
+        <w n="298947" lemma="לילה" partOfSpeech="subs" number="pl" gender="m" state="a">לֵילֹֽות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215951">
+    <milestone unit="verse" id="Jonah.2.2">Jonah.2.2</milestone>
+    <p>וַיִּתְפַּלֵּ֣ל יֹונָ֔ה אֶל־יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה׃ </p>
+    <wg n="487458" class="WayX">
+      <wg n="827893" class="CP">
+        <w n="298948" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827894" class="VP">
+        <w n="298949" lemma="פלל" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hit">יִּתְפַּלֵּ֣ל</w>
+      </wg>
+      <wg n="827895" class="PrNP">
+        <w n="298950" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֔ה</w>
+      </wg>
+      <wg n="827896" class="PP">
+        <w n="298951" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298952" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֖ה</w>
+        <w n="298953" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהָ֑יו</w>
+      </wg>
+      <wg n="827897" class="PP">
+        <w n="298954" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298955" lemma="מעים" partOfSpeech="subs" number="pl" gender="m" state="c">מְּעֵ֖י</w>
+        <w n="298956" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="298957" lemma="דגה" partOfSpeech="subs" number="sg" gender="f" state="a">דָּגָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215952">
+    <milestone unit="verse" id="Jonah.2.3">Jonah.2.3</milestone>
+    <p>וַיֹּ֗אמֶר </p>
+    <wg n="487459" class="Way0">
+      <wg n="827898" class="CP">
+        <w n="298958" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827899" class="VP">
+        <w n="298959" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֗אמֶר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215953">
+    <milestone unit="verse" id="Jonah.2.3">Jonah.2.3</milestone>
+    <p>קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל־יְהוָ֖ה </p>
+    <wg n="487460" class="ZQt0">
+      <wg n="827900" class="VP">
+        <w n="298960" lemma="קרא" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">קָ֠רָאתִי</w>
+      </wg>
+      <wg n="827901" class="PP">
+        <w n="298961" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298962" lemma="צרה" partOfSpeech="subs" number="sg" gender="f" state="a">צָּ֥רָה</w>
+      </wg>
+      <wg n="827902" class="PP">
+        <w n="298963" lemma="ל" partOfSpeech="prep">לִ֛י</w>
+      </wg>
+      <wg n="827903" class="PP">
+        <w n="298964" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="298965" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֖ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215954">
+    <milestone unit="verse" id="Jonah.2.3">Jonah.2.3</milestone>
+    <p>וַֽיַּעֲנֵ֑נִי </p>
+    <wg n="487461" class="Way0">
+      <wg n="827904" class="CP">
+        <w n="298966" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="827905" class="VP">
+        <w n="298967" lemma="ענה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יַּעֲנֵ֑נִי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215955">
+    <milestone unit="verse" id="Jonah.2.3">Jonah.2.3</milestone>
+    <p>מִבֶּ֧טֶן שְׁאֹ֛ול שִׁוַּ֖עְתִּי </p>
+    <wg n="487462" class="xQt0">
+      <wg n="827906" class="PP">
+        <w n="298968" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298969" lemma="בטן" partOfSpeech="subs" number="sg" gender="f" state="c">בֶּ֧טֶן</w>
+        <w n="298970" lemma="שׁאול" partOfSpeech="subs" number="sg" state="a">שְׁאֹ֛ול</w>
+      </wg>
+      <wg n="827907" class="VP">
+        <w n="298971" lemma="שׁוע" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="piel">שִׁוַּ֖עְתִּי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215956">
+    <milestone unit="verse" id="Jonah.2.3">Jonah.2.3</milestone>
+    <p>שָׁמַ֥עְתָּ קֹולִֽי׃ </p>
+    <wg n="487463" class="ZQt0">
+      <wg n="827908" class="VP">
+        <w n="298972" lemma="שׁמע" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="qal">שָׁמַ֥עְתָּ</w>
+      </wg>
+      <wg n="827909" class="NP">
+        <w n="298973" lemma="קול" partOfSpeech="subs" number="sg" gender="m" state="a">קֹולִֽי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215957">
+    <milestone unit="verse" id="Jonah.2.4">Jonah.2.4</milestone>
+    <p>וַתַּשְׁלִיכֵ֤נִי מְצוּלָה֙ בִּלְבַ֣ב יַמִּ֔ים </p>
+    <wg n="487464" class="Way0">
+      <wg n="827910" class="CP">
+        <w n="298974" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827911" class="VP">
+        <w n="298975" lemma="שׁלך" partOfSpeech="verb" person="2" number="sg" gender="m" tense="wayq" stem="hif">תַּשְׁלִיכֵ֤נִי</w>
+      </wg>
+      <wg n="827912" class="NP">
+        <w n="298976" lemma="מצולה" partOfSpeech="subs" number="sg" gender="f" state="a">מְצוּלָה֙</w>
+      </wg>
+      <wg n="827913" class="PP">
+        <w n="298977" lemma="ב" partOfSpeech="prep">בִּ</w>
+        <w n="298978" lemma="לבב" partOfSpeech="subs" number="sg" gender="m" state="c">לְבַ֣ב</w>
+        <w n="298979" lemma="ים" partOfSpeech="subs" number="pl" gender="m" state="a">יַמִּ֔ים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215958">
+    <milestone unit="verse" id="Jonah.2.4">Jonah.2.4</milestone>
+    <p>וְנָהָ֖ר יְסֹבְבֵ֑נִי </p>
+    <wg n="487465" class="WXYq">
+      <wg n="827914" class="CP">
+        <w n="298980" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="827915" class="NP">
+        <w n="298981" lemma="נהר" partOfSpeech="subs" number="sg" gender="m" state="a">נָהָ֖ר</w>
+      </wg>
+      <wg n="827916" class="VP">
+        <w n="298982" lemma="סבב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="piel">יְסֹבְבֵ֑נִי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215959">
+    <milestone unit="verse" id="Jonah.2.4">Jonah.2.4</milestone>
+    <p>כָּל־מִשְׁבָּרֶ֥יךָ וְגַלֶּ֖יךָ עָלַ֥י עָבָֽרוּ׃ </p>
+    <wg n="487466" class="XQtl">
+      <wg n="827917" class="NP">
+        <w n="298983" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָּל</w>
+        <w n="298984" lemma="משׁבר" partOfSpeech="subs" number="pl" gender="m" state="a">מִשְׁבָּרֶ֥יךָ</w>
+        <w n="298985" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="298986" lemma="גל" partOfSpeech="subs" number="pl" gender="m" state="a">גַלֶּ֖יךָ</w>
+      </wg>
+      <wg n="827918" class="PP">
+        <w n="298987" lemma="על" partOfSpeech="prep">עָלַ֥י</w>
+      </wg>
+      <wg n="827919" class="VP">
+        <w n="298988" lemma="עבר" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">עָבָֽרוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215960">
+    <milestone unit="verse" id="Jonah.2.5">Jonah.2.5</milestone>
+    <p>וַאֲנִ֣י אָמַ֔רְתִּי </p>
+    <wg n="487467" class="WXQt">
+      <wg n="827920" class="CP">
+        <w n="298989" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827921" class="PPrP">
+        <w n="298990" lemma="אני" partOfSpeech="prps" person="1" number="sg">אֲנִ֣י</w>
+      </wg>
+      <wg n="827922" class="VP">
+        <w n="298991" lemma="אמר" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">אָמַ֔רְתִּי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215961">
+    <milestone unit="verse" id="Jonah.2.5">Jonah.2.5</milestone>
+    <p>נִגְרַ֖שְׁתִּי מִנֶּ֣גֶד עֵינֶ֑יךָ </p>
+    <wg n="487468" class="ZQt0">
+      <wg n="827923" class="VP">
+        <w n="298992" lemma="גרשׁ" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="nif">נִגְרַ֖שְׁתִּי</w>
+      </wg>
+      <wg n="827924" class="PP">
+        <w n="298993" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="298994" lemma="נגד" partOfSpeech="subs" number="sg" gender="m" state="c">נֶּ֣גֶד</w>
+        <w n="298995" lemma="עין" partOfSpeech="subs" number="du" gender="f" state="a">עֵינֶ֑יךָ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215962">
+    <milestone unit="verse" id="Jonah.2.5">Jonah.2.5</milestone>
+    <p>אַ֚ךְ אֹוסִ֣יף לְהַבִּ֔יט אֶל־הֵיכַ֖ל קָדְשֶֽׁךָ׃ </p>
+    <wg n="487469" class="xYq0">
+      <wg n="827925" class="AdvP">
+        <w n="298996" lemma="אך" partOfSpeech="advb">אַ֚ךְ</w>
+      </wg>
+      <wg n="827926" class="VP">
+        <w n="298997" lemma="יסף" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="hif">אֹוסִ֣יף</w>
+      </wg>
+    </wg>
+    <wg n="487470" class="InfC" role="Adju">
+      <wg n="827927" class="VP">
+        <w n="298998" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="298999" lemma="נבט" partOfSpeech="verb" tense="infc" stem="hif" state="a">הַבִּ֔יט</w>
+      </wg>
+      <wg n="827928" class="PP">
+        <w n="299000" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299001" lemma="היכל" partOfSpeech="subs" number="sg" gender="m" state="c">הֵיכַ֖ל</w>
+        <w n="299002" lemma="קדשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">קָדְשֶֽׁךָ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215963">
+    <milestone unit="verse" id="Jonah.2.6">Jonah.2.6</milestone>
+    <p>אֲפָפ֤וּנִי מַ֨יִם֙ עַד־נֶ֔פֶשׁ </p>
+    <wg n="487471" class="ZQtX">
+      <wg n="827929" class="VP">
+        <w n="299003" lemma="אפף" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">אֲפָפ֤וּנִי</w>
+      </wg>
+      <wg n="827930" class="NP">
+        <w n="299004" lemma="מים" partOfSpeech="subs" number="pl" gender="m" state="a">מַ֨יִם֙</w>
+      </wg>
+      <wg n="827931" class="PP">
+        <w n="299005" lemma="עד" partOfSpeech="prep">עַד</w>
+        <w n="299006" lemma="נפשׁ" partOfSpeech="subs" number="sg" gender="f" state="a">נֶ֔פֶשׁ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215964">
+    <milestone unit="verse" id="Jonah.2.6">Jonah.2.6</milestone>
+    <p>תְּהֹ֖ום יְסֹבְבֵ֑נִי </p>
+    <wg n="487472" class="XYqt">
+      <wg n="827932" class="NP">
+        <w n="299007" lemma="תהום" partOfSpeech="subs" number="sg" gender="f" state="a">תְּהֹ֖ום</w>
+      </wg>
+      <wg n="827933" class="VP">
+        <w n="299008" lemma="סבב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="piel">יְסֹבְבֵ֑נִי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215965">
+    <milestone unit="verse" id="Jonah.2.6">Jonah.2.6</milestone>
+    <p>ס֖וּף חָב֥וּשׁ לְרֹאשִֽׁי׃ </p>
+    <wg n="487473" class="Ptcp">
+      <wg n="827934" class="NP">
+        <w n="299009" lemma="סוף" partOfSpeech="subs" number="sg" gender="m" state="a">ס֖וּף</w>
+      </wg>
+      <wg n="827935" class="VP">
+        <w n="299010" lemma="חבשׁ" partOfSpeech="verb" number="sg" gender="m" tense="ptcp" stem="qal" state="a">חָב֥וּשׁ</w>
+      </wg>
+      <wg n="827936" class="PP">
+        <w n="299011" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="299012" lemma="ראשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">רֹאשִֽׁי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215966">
+    <milestone unit="verse" id="Jonah.2.7">Jonah.2.7</milestone>
+    <p>לְקִצְבֵ֤י הָרִים֙ יָרַ֔דְתִּי </p>
+    <wg n="487474" class="xQt0">
+      <wg n="827937" class="PP">
+        <w n="299013" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="299014" lemma="קצב" partOfSpeech="subs" number="pl" gender="m" state="c">קִצְבֵ֤י</w>
+        <w n="299015" lemma="הר" partOfSpeech="subs" number="pl" gender="m" state="a">הָרִים֙</w>
+      </wg>
+      <wg n="827938" class="VP">
+        <w n="299016" lemma="ירד" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">יָרַ֔דְתִּי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215967">
+    <milestone unit="verse" id="Jonah.2.7">Jonah.2.7</milestone>
+    <p>הָאָ֛רֶץ בְּרִחֶ֥יהָ בַעֲדִ֖י לְעֹולָ֑ם </p>
+    <wg n="487475" class="CPen">
+      <wg n="827939" class="NP">
+        <w n="299017" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299018" lemma="ארץ" partOfSpeech="subs" number="sg" state="a">אָ֛רֶץ</w>
+      </wg>
+    </wg>
+    <wg n="487476" class="NmCl" role="Resu">
+      <wg n="827940" class="NP">
+        <w n="299019" lemma="בריח" partOfSpeech="subs" number="pl" gender="m" state="a">בְּרִחֶ֥יהָ</w>
+      </wg>
+      <wg n="827941" class="PP">
+        <w n="299020" lemma="בעד" partOfSpeech="subs" number="sg" state="a">בַעֲדִ֖י</w>
+      </wg>
+      <wg n="827942" class="PP">
+        <w n="299021" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="299022" lemma="עולם" partOfSpeech="subs" number="sg" gender="m" state="a">עֹולָ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215968">
+    <milestone unit="verse" id="Jonah.2.7">Jonah.2.7</milestone>
+    <p>וַתַּ֧עַל מִשַּׁ֛חַת חַיַּ֖י יְהוָ֥ה אֱלֹהָֽי׃ </p>
+    <wg n="487477" class="Way0">
+      <wg n="827943" class="CP">
+        <w n="299023" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827944" class="VP">
+        <w n="299024" lemma="עלה" partOfSpeech="verb" person="2" number="sg" gender="m" tense="wayq" stem="hif">תַּ֧עַל</w>
+      </wg>
+      <wg n="827945" class="PP">
+        <w n="299025" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="299026" lemma="שׁחת" partOfSpeech="subs" number="sg" gender="f" state="a">שַּׁ֛חַת</w>
+      </wg>
+      <wg n="827946" class="NP">
+        <w n="299027" lemma="חיים" partOfSpeech="subs" number="pl" gender="m" state="a">חַיַּ֖י</w>
+      </wg>
+    </wg>
+    <wg n="487478" class="Voct">
+      <wg n="827947" class="PrNP">
+        <w n="299028" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֥ה</w>
+        <w n="299029" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהָֽי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215969">
+    <milestone unit="verse" id="Jonah.2.8">Jonah.2.8</milestone>
+    <p>בְּהִתְעַטֵּ֤ף עָלַי֙ נַפְשִׁ֔י אֶת־יְהוָ֖ה זָכָ֑רְתִּי </p>
+    <wg n="487479" class="InfC" role="Adju">
+      <wg n="827948" class="VP">
+        <w n="299030" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="299031" lemma="עטף" partOfSpeech="verb" tense="infc" stem="hit" state="a">הִתְעַטֵּ֤ף</w>
+      </wg>
+      <wg n="827949" class="PP">
+        <w n="299032" lemma="על" partOfSpeech="prep">עָלַי֙</w>
+      </wg>
+      <wg n="827950" class="NP">
+        <w n="299033" lemma="נפשׁ" partOfSpeech="subs" number="sg" gender="f" state="a">נַפְשִׁ֔י</w>
+      </wg>
+    </wg>
+    <wg n="487480" class="xQt0">
+      <wg n="827951" class="PP">
+        <w n="299034" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="299035" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֖ה</w>
+      </wg>
+      <wg n="827952" class="VP">
+        <w n="299036" lemma="זכר" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">זָכָ֑רְתִּי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215970">
+    <milestone unit="verse" id="Jonah.2.8">Jonah.2.8</milestone>
+    <p>וַתָּבֹ֤וא אֵלֶ֨יךָ֙ תְּפִלָּתִ֔י אֶל־הֵיכַ֖ל קָדְשֶֽׁךָ׃ </p>
+    <wg n="487481" class="WayX">
+      <wg n="827953" class="CP">
+        <w n="299037" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827954" class="VP">
+        <w n="299038" lemma="בוא" partOfSpeech="verb" person="3" number="sg" gender="f" tense="wayq" stem="qal">תָּבֹ֤וא</w>
+      </wg>
+      <wg n="827955" class="PP">
+        <w n="299039" lemma="אל" partOfSpeech="prep">אֵלֶ֨יךָ֙</w>
+        <w n="299041" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299042" lemma="היכל" partOfSpeech="subs" number="sg" gender="m" state="c">הֵיכַ֖ל</w>
+        <w n="299043" lemma="קדשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">קָדְשֶֽׁךָ</w>
+      </wg>
+      <wg n="827956" class="NP">
+        <w n="299040" lemma="תפלה" partOfSpeech="subs" number="sg" gender="f" state="a">תְּפִלָּתִ֔י</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215971">
+    <milestone unit="verse" id="Jonah.2.9">Jonah.2.9</milestone>
+    <p>מְשַׁמְּרִ֖ים הַבְלֵי־שָׁ֑וְא חַסְדָּ֖ם יַעֲזֹֽבוּ׃ </p>
+    <wg n="487482" class="Ptcp" role="Subj">
+      <wg n="827957" class="VP">
+        <w n="299044" lemma="שׁמר" partOfSpeech="verb" number="pl" gender="m" tense="ptca" stem="piel" state="a">מְשַׁמְּרִ֖ים</w>
+      </wg>
+      <wg n="827958" class="NP">
+        <w n="299045" lemma="הבל" partOfSpeech="subs" number="pl" gender="m" state="c">הַבְלֵי</w>
+        <w n="299046" lemma="שׁוא" partOfSpeech="subs" number="sg" gender="m" state="a">שָׁ֑וְא</w>
+      </wg>
+    </wg>
+    <wg n="487483" class="XYqt">
+      <wg n="827959" class="NP">
+        <w n="299047" lemma="חסד" partOfSpeech="subs" number="sg" gender="m" state="a">חַסְדָּ֖ם</w>
+      </wg>
+      <wg n="827960" class="VP">
+        <w n="299048" lemma="עזב" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal">יַעֲזֹֽבוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215972">
+    <milestone unit="verse" id="Jonah.2.10">Jonah.2.10</milestone>
+    <p>וַאֲנִ֗י בְּקֹ֤ול תֹּודָה֙ אֶזְבְּחָה־לָּ֔ךְ </p>
+    <wg n="487484" class="CPen">
+      <wg n="827961" class="CP">
+        <w n="299049" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827962" class="PPrP">
+        <w n="299050" lemma="אני" partOfSpeech="prps" person="1" number="sg">אֲנִ֗י</w>
+      </wg>
+    </wg>
+    <wg n="487485" class="xYq0" role="Resu">
+      <wg n="827963" class="PP">
+        <w n="299051" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="299052" lemma="קול" partOfSpeech="subs" number="sg" gender="m" state="c">קֹ֤ול</w>
+        <w n="299053" lemma="תודה" partOfSpeech="subs" number="sg" gender="f" state="a">תֹּודָה֙</w>
+      </wg>
+      <wg n="827964" class="VP">
+        <w n="299054" lemma="זבח" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="qal">אֶזְבְּחָה</w>
+      </wg>
+      <wg n="827965" class="PP">
+        <w n="299055" lemma="ל" partOfSpeech="prep">לָּ֔ךְ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215973">
+    <milestone unit="verse" id="Jonah.2.10">Jonah.2.10</milestone>
+    <p>אֲשֶׁ֥ר נָדַ֖רְתִּי אֲשַׁלֵּ֑מָה </p>
+    <wg n="487486" class="xQt0" role="Objc">
+      <wg n="827966" class="CP">
+        <w n="299056" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֥ר</w>
+      </wg>
+      <wg n="827967" class="VP">
+        <w n="299057" lemma="נדר" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">נָדַ֖רְתִּי</w>
+      </wg>
+    </wg>
+    <wg n="487487" class="xYq0">
+      <wg n="827968" class="VP">
+        <w n="299058" lemma="שׁלם" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="piel">אֲשַׁלֵּ֑מָה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215974">
+    <milestone unit="verse" id="Jonah.2.10">Jonah.2.10</milestone>
+    <p>יְשׁוּעָ֖תָה לַיהוָֽה׃ ס </p>
+    <wg n="487488" class="NmCl">
+      <wg n="827969" class="NP">
+        <w n="299059" lemma="ישׁועה" partOfSpeech="subs" number="sg" gender="f" state="a">יְשׁוּעָ֖תָה</w>
+      </wg>
+      <wg n="827970" class="PP">
+        <w n="299060" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="299061" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יהוָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215975">
+    <milestone unit="verse" id="Jonah.2.11">Jonah.2.11</milestone>
+    <p>וַיֹּ֥אמֶר יְהוָ֖ה לַדָּ֑ג </p>
+    <wg n="487489" class="WayX">
+      <wg n="827971" class="CP">
+        <w n="299062" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827972" class="VP">
+        <w n="299063" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֥אמֶר</w>
+      </wg>
+      <wg n="827973" class="PrNP">
+        <w n="299064" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֖ה</w>
+      </wg>
+      <wg n="827974" class="PP">
+        <w n="299065" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="299066" lemma="ה" partOfSpeech="art"></w>
+        <w n="299067" lemma="דג" partOfSpeech="subs" number="sg" gender="m" state="a">דָּ֑ג</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215976">
+    <milestone unit="verse" id="Jonah.2.11">Jonah.2.11</milestone>
+    <p>וַיָּקֵ֥א אֶת־יֹונָ֖ה אֶל־הַיַּבָּשָֽׁה׃ פ </p>
+    <wg n="487490" class="Way0">
+      <wg n="827975" class="CP">
+        <w n="299068" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827976" class="VP">
+        <w n="299069" lemma="קיא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hif">יָּקֵ֥א</w>
+      </wg>
+      <wg n="827977" class="PP">
+        <w n="299070" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="299071" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֖ה</w>
+      </wg>
+      <wg n="827978" class="PP">
+        <w n="299072" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299073" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299074" lemma="יבשׁה" partOfSpeech="subs" number="sg" gender="f" state="a">יַּבָּשָֽׁה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215977">
+    <milestone unit="verse" id="Jonah.3.1">Jonah.3.1</milestone>
+    <p>וַיְהִ֧י דְבַר־יְהוָ֛ה אֶל־יֹונָ֖ה שֵׁנִ֥ית לֵאמֹֽר׃ </p>
+    <wg n="487491" class="WayX">
+      <wg n="827979" class="CP">
+        <w n="299075" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827980" class="VP">
+        <w n="299076" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יְהִ֧י</w>
+      </wg>
+      <wg n="827981" class="NP">
+        <w n="299077" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="c">דְבַר</w>
+        <w n="299078" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֛ה</w>
+      </wg>
+      <wg n="827982" class="PP">
+        <w n="299079" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299080" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֖ה</w>
+      </wg>
+      <wg n="827983" class="AdvP">
+        <w n="299081" lemma="שׁני" partOfSpeech="adjv" number="sg" gender="f" state="a">שֵׁנִ֥ית</w>
+      </wg>
+    </wg>
+    <wg n="487492" class="InfC" role="Adju">
+      <wg n="827984" class="VP">
+        <w n="299082" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="299083" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215978">
+    <milestone unit="verse" id="Jonah.3.2">Jonah.3.2</milestone>
+    <p>ק֛וּם </p>
+    <wg n="487493" class="ZIm0">
+      <wg n="827985" class="VP">
+        <w n="299084" lemma="קום" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">ק֛וּם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215979">
+    <milestone unit="verse" id="Jonah.3.2">Jonah.3.2</milestone>
+    <p>לֵ֥ךְ אֶל־נִֽינְוֵ֖ה הָעִ֣יר הַגְּדֹולָ֑ה </p>
+    <wg n="487494" class="ZIm0">
+      <wg n="827986" class="VP">
+        <w n="299085" lemma="הלך" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">לֵ֥ךְ</w>
+      </wg>
+      <wg n="827987" class="PP">
+        <w n="299086" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299087" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִֽינְוֵ֖ה</w>
+        <w n="299088" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299089" lemma="עיר" partOfSpeech="subs" number="sg" gender="f" state="a">עִ֣יר</w>
+        <w n="299090" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299091" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְּדֹולָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215980">
+    <milestone unit="verse" id="Jonah.3.2">Jonah.3.2</milestone>
+    <p>וִּקְרָ֤א אֵלֶ֨יהָ֙ אֶת־הַקְּרִיאָ֔ה אֲשֶׁ֥ר אָנֹכִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃ </p>
+    <wg n="487495" class="WIm0">
+      <wg n="827988" class="CP">
+        <w n="299092" lemma="ו" partOfSpeech="conj">וִּ</w>
+      </wg>
+      <wg n="827989" class="VP">
+        <w n="299093" lemma="קרא" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">קְרָ֤א</w>
+      </wg>
+      <wg n="827990" class="PP">
+        <w n="299094" lemma="אל" partOfSpeech="prep">אֵלֶ֨יהָ֙</w>
+      </wg>
+      <wg n="827991" class="PP">
+        <w n="299095" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="299096" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299097" lemma="קריאה" partOfSpeech="subs" number="sg" gender="f" state="a">קְּרִיאָ֔ה</w>
+      </wg>
+    </wg>
+    <wg n="487496" class="Ptcp" role="Attr">
+      <wg n="827992" class="CP">
+        <w n="299098" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֥ר</w>
+      </wg>
+      <wg n="827993" class="PPrP">
+        <w n="299099" lemma="אנכי" partOfSpeech="prps" person="1" number="sg">אָנֹכִ֖י</w>
+      </wg>
+      <wg n="827994" class="VP">
+        <w n="299100" lemma="דבר" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">דֹּבֵ֥ר</w>
+      </wg>
+      <wg n="827995" class="PP">
+        <w n="299101" lemma="אל" partOfSpeech="prep">אֵלֶֽיךָ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215981">
+    <milestone unit="verse" id="Jonah.3.3">Jonah.3.3</milestone>
+    <p>וַיָּ֣קָם יֹונָ֗ה </p>
+    <wg n="487497" class="WayX">
+      <wg n="827996" class="CP">
+        <w n="299102" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="827997" class="VP">
+        <w n="299103" lemma="קום" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יָּ֣קָם</w>
+      </wg>
+      <wg n="827998" class="PrNP">
+        <w n="299104" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֗ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215982">
+    <milestone unit="verse" id="Jonah.3.3">Jonah.3.3</milestone>
+    <p>וַיֵּ֛לֶךְ אֶל־נִֽינְוֶ֖ה כִּדְבַ֣ר יְהוָ֑ה </p>
+    <wg n="487498" class="Way0">
+      <wg n="827999" class="CP">
+        <w n="299105" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828000" class="VP">
+        <w n="299106" lemma="הלך" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֵּ֛לֶךְ</w>
+      </wg>
+      <wg n="828001" class="PP">
+        <w n="299107" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299108" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִֽינְוֶ֖ה</w>
+      </wg>
+      <wg n="828002" class="PP">
+        <w n="299109" lemma="כ" partOfSpeech="prep">כִּ</w>
+        <w n="299110" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="c">דְבַ֣ר</w>
+        <w n="299111" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215983">
+    <milestone unit="verse" id="Jonah.3.3">Jonah.3.3</milestone>
+    <p>וְנִֽינְוֵ֗ה הָיְתָ֤ה עִיר־גְּדֹולָה֙ לֵֽאלֹהִ֔ים מַהֲלַ֖ךְ שְׁלֹ֥שֶׁת יָמִֽים׃ </p>
+    <wg n="487499" class="WXQt">
+      <wg n="828003" class="CP">
+        <w n="299112" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828004" class="PrNP">
+        <w n="299113" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִֽינְוֵ֗ה</w>
+      </wg>
+      <wg n="828005" class="VP">
+        <w n="299114" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="f" tense="perf" stem="qal">הָיְתָ֤ה</w>
+      </wg>
+      <wg n="828006" class="NP">
+        <w n="299115" lemma="עיר" partOfSpeech="subs" number="sg" gender="f" state="a">עִיר</w>
+        <w n="299116" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְּדֹולָה֙</w>
+      </wg>
+      <wg n="828007" class="PP">
+        <w n="299117" lemma="ל" partOfSpeech="prep">לֵֽ</w>
+        <w n="299118" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אלֹהִ֔ים</w>
+      </wg>
+    </wg>
+    <wg n="487500" class="NmCl" role="Coor">
+      <wg n="828008" class="NP">
+        <w n="299119" lemma="מהלך" partOfSpeech="subs" number="sg" gender="m" state="c">מַהֲלַ֖ךְ</w>
+        <w n="299120" lemma="שׁלשׁ" partOfSpeech="subs" number="sg" gender="f" state="c">שְׁלֹ֥שֶׁת</w>
+        <w n="299121" lemma="יום" partOfSpeech="subs" number="pl" gender="m" state="a">יָמִֽים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215984">
+    <milestone unit="verse" id="Jonah.3.4">Jonah.3.4</milestone>
+    <p>וַיָּ֤חֶל יֹונָה֙ לָבֹ֣וא בָעִ֔יר מַהֲלַ֖ךְ יֹ֣ום אֶחָ֑ד </p>
+    <wg n="487501" class="WayX">
+      <wg n="828009" class="CP">
+        <w n="299122" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828010" class="VP">
+        <w n="299123" lemma="חלל" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hif">יָּ֤חֶל</w>
+      </wg>
+      <wg n="828011" class="PrNP">
+        <w n="299124" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָה֙</w>
+      </wg>
+    </wg>
+    <wg n="487502" class="InfC" role="Adju">
+      <wg n="828012" class="VP">
+        <w n="299125" lemma="ל" partOfSpeech="prep">לָ</w>
+        <w n="299126" lemma="בוא" partOfSpeech="verb" tense="infc" stem="qal" state="a">בֹ֣וא</w>
+      </wg>
+      <wg n="828013" class="PP">
+        <w n="299127" lemma="ב" partOfSpeech="prep">בָ</w>
+        <w n="299128" lemma="ה" partOfSpeech="art"></w>
+        <w n="299129" lemma="עיר" partOfSpeech="subs" number="sg" gender="f" state="a">עִ֔יר</w>
+      </wg>
+      <wg n="828014" class="NP">
+        <w n="299130" lemma="מהלך" partOfSpeech="subs" number="sg" gender="m" state="c">מַהֲלַ֖ךְ</w>
+        <w n="299131" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="a">יֹ֣ום</w>
+        <w n="299132" lemma="אחד" partOfSpeech="subs" number="sg" state="a">אֶחָ֑ד</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215985">
+    <milestone unit="verse" id="Jonah.3.4">Jonah.3.4</milestone>
+    <p>וַיִּקְרָא֙ </p>
+    <wg n="487503" class="Way0">
+      <wg n="828015" class="CP">
+        <w n="299133" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828016" class="VP">
+        <w n="299134" lemma="קרא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּקְרָא֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215986">
+    <milestone unit="verse" id="Jonah.3.4">Jonah.3.4</milestone>
+    <p>וַיֹּאמַ֔ר </p>
+    <wg n="487504" class="Way0">
+      <wg n="828017" class="CP">
+        <w n="299135" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828018" class="VP">
+        <w n="299136" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּאמַ֔ר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215987">
+    <milestone unit="verse" id="Jonah.3.4">Jonah.3.4</milestone>
+    <p>עֹ֚וד אַרְבָּעִ֣ים יֹ֔ום </p>
+    <wg n="487505" class="NmCl">
+      <wg n="828019" class="AdvP">
+        <w n="299137" lemma="עוד" partOfSpeech="subs" number="sg" gender="m" state="a">עֹ֚וד</w>
+      </wg>
+      <wg n="828020" class="NP">
+        <w n="299138" lemma="ארבע" partOfSpeech="subs" number="pl" gender="m" state="a">אַרְבָּעִ֣ים</w>
+        <w n="299139" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="a">יֹ֔ום</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215988">
+    <milestone unit="verse" id="Jonah.3.4">Jonah.3.4</milestone>
+    <p>וְנִֽינְוֵ֖ה נֶהְפָּֽכֶת׃ </p>
+    <wg n="487506" class="Ptcp">
+      <wg n="828021" class="CP">
+        <w n="299140" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828022" class="PrNP">
+        <w n="299141" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִֽינְוֵ֖ה</w>
+      </wg>
+      <wg n="828023" class="VP">
+        <w n="299142" lemma="הפך" partOfSpeech="verb" number="sg" gender="f" tense="ptca" stem="nif" state="a">נֶהְפָּֽכֶת</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215989">
+    <milestone unit="verse" id="Jonah.3.5">Jonah.3.5</milestone>
+    <p>וַֽיַּאֲמִ֛ינוּ אַנְשֵׁ֥י נִֽינְוֵ֖ה בֵּֽאלֹהִ֑ים </p>
+    <wg n="487507" class="WayX">
+      <wg n="828024" class="CP">
+        <w n="299143" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="828025" class="VP">
+        <w n="299144" lemma="אמן" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="hif">יַּאֲמִ֛ינוּ</w>
+      </wg>
+      <wg n="828026" class="NP">
+        <w n="299145" lemma="אישׁ" partOfSpeech="subs" number="pl" gender="m" state="c">אַנְשֵׁ֥י</w>
+        <w n="299146" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִֽינְוֵ֖ה</w>
+      </wg>
+      <wg n="828027" class="PP">
+        <w n="299147" lemma="ב" partOfSpeech="prep">בֵּֽ</w>
+        <w n="299148" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אלֹהִ֑ים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215990">
+    <milestone unit="verse" id="Jonah.3.5">Jonah.3.5</milestone>
+    <p>וַיִּקְרְאוּ־צֹום֙ </p>
+    <wg n="487508" class="Way0">
+      <wg n="828028" class="CP">
+        <w n="299149" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828029" class="VP">
+        <w n="299150" lemma="קרא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּקְרְאוּ</w>
+      </wg>
+      <wg n="828030" class="NP">
+        <w n="299151" lemma="צום" partOfSpeech="subs" number="sg" gender="m" state="a">צֹום֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215991">
+    <milestone unit="verse" id="Jonah.3.5">Jonah.3.5</milestone>
+    <p>וַיִּלְבְּשׁ֣וּ שַׂקִּ֔ים מִגְּדֹולָ֖ם וְעַד־קְטַנָּֽם׃ </p>
+    <wg n="487509" class="Way0">
+      <wg n="828031" class="CP">
+        <w n="299152" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828032" class="VP">
+        <w n="299153" lemma="לבשׁ" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּלְבְּשׁ֣וּ</w>
+      </wg>
+      <wg n="828033" class="NP">
+        <w n="299154" lemma="שׂק" partOfSpeech="subs" number="pl" gender="m" state="a">שַׂקִּ֔ים</w>
+      </wg>
+      <wg n="828034" class="PP">
+        <w n="299155" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="299156" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גְּדֹולָ֖ם</w>
+        <w n="299157" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="299158" lemma="עד" partOfSpeech="prep">עַד</w>
+        <w n="299159" lemma="קטן" partOfSpeech="adjv" number="sg" gender="m" state="a">קְטַנָּֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215992">
+    <milestone unit="verse" id="Jonah.3.6">Jonah.3.6</milestone>
+    <p>וַיִּגַּ֤ע הַדָּבָר֙ אֶל־מֶ֣לֶך נִֽינְוֵ֔ה </p>
+    <wg n="487510" class="WayX">
+      <wg n="828035" class="CP">
+        <w n="299160" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828036" class="VP">
+        <w n="299161" lemma="נגע" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּגַּ֤ע</w>
+      </wg>
+      <wg n="828037" class="NP">
+        <w n="299162" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299163" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="a">דָּבָר֙</w>
+      </wg>
+      <wg n="828038" class="PP">
+        <w n="299164" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299165" lemma="מלך" partOfSpeech="subs" number="sg" gender="m" state="c">מֶ֣לֶך</w>
+        <w n="299166" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִֽינְוֵ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215993">
+    <milestone unit="verse" id="Jonah.3.6">Jonah.3.6</milestone>
+    <p>וַיָּ֨קָם֙ מִכִּסְאֹ֔ו </p>
+    <wg n="487511" class="Way0">
+      <wg n="828039" class="CP">
+        <w n="299167" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828040" class="VP">
+        <w n="299168" lemma="קום" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יָּ֨קָם֙</w>
+      </wg>
+      <wg n="828041" class="PP">
+        <w n="299169" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="299170" lemma="כסא" partOfSpeech="subs" number="sg" gender="m" state="a">כִּסְאֹ֔ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215994">
+    <milestone unit="verse" id="Jonah.3.6">Jonah.3.6</milestone>
+    <p>וַיַּעֲבֵ֥ר אַדַּרְתֹּ֖ו מֵֽעָלָ֑יו </p>
+    <wg n="487512" class="Way0">
+      <wg n="828042" class="CP">
+        <w n="299171" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828043" class="VP">
+        <w n="299172" lemma="עבר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hif">יַּעֲבֵ֥ר</w>
+      </wg>
+      <wg n="828044" class="NP">
+        <w n="299173" lemma="אדרת" partOfSpeech="subs" number="sg" gender="f" state="a">אַדַּרְתֹּ֖ו</w>
+      </wg>
+      <wg n="828045" class="PP">
+        <w n="299174" lemma="מן" partOfSpeech="prep">מֵֽ</w>
+        <w n="299175" lemma="על" partOfSpeech="prep">עָלָ֑יו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215995">
+    <milestone unit="verse" id="Jonah.3.6">Jonah.3.6</milestone>
+    <p>וַיְכַ֣ס שַׂ֔ק </p>
+    <wg n="487513" class="Way0">
+      <wg n="828046" class="CP">
+        <w n="299176" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828047" class="VP">
+        <w n="299177" lemma="כסה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="piel">יְכַ֣ס</w>
+      </wg>
+      <wg n="828048" class="NP">
+        <w n="299178" lemma="שׂק" partOfSpeech="subs" number="sg" gender="m" state="a">שַׂ֔ק</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215996">
+    <milestone unit="verse" id="Jonah.3.6">Jonah.3.6</milestone>
+    <p>וַיֵּ֖שֶׁב עַל־הָאֵֽפֶר׃ </p>
+    <wg n="487514" class="Way0">
+      <wg n="828049" class="CP">
+        <w n="299179" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828050" class="VP">
+        <w n="299180" lemma="ישׁב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֵּ֖שֶׁב</w>
+      </wg>
+      <wg n="828051" class="PP">
+        <w n="299181" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299182" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299183" lemma="אפר" partOfSpeech="subs" number="sg" gender="m" state="a">אֵֽפֶר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215997">
+    <milestone unit="verse" id="Jonah.3.7">Jonah.3.7</milestone>
+    <p>וַיַּזְעֵ֗ק </p>
+    <wg n="487515" class="Way0">
+      <wg n="828052" class="CP">
+        <w n="299184" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828053" class="VP">
+        <w n="299185" lemma="זעק" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hif">יַּזְעֵ֗ק</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215998">
+    <milestone unit="verse" id="Jonah.3.7">Jonah.3.7</milestone>
+    <p>וַיֹּ֨אמֶר֙ </p>
+    <wg n="487516" class="Way0">
+      <wg n="828054" class="CP">
+        <w n="299186" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828055" class="VP">
+        <w n="299187" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֨אמֶר֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1215999">
+    <milestone unit="verse" id="Jonah.3.7">Jonah.3.7</milestone>
+    <p>בְּנִֽינְוֵ֔ה מִטַּ֧עַם הַמֶּ֛לֶךְ וּגְדֹלָ֖יו לֵאמֹ֑ר </p>
+    <wg n="487517" class="NmCl">
+      <wg n="828056" class="PP">
+        <w n="299188" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="299189" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִֽינְוֵ֔ה</w>
+      </wg>
+      <wg n="828057" class="PP">
+        <w n="299190" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="299191" lemma="טעם" partOfSpeech="subs" number="sg" gender="m" state="c">טַּ֧עַם</w>
+        <w n="299192" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299193" lemma="מלך" partOfSpeech="subs" number="sg" gender="m" state="a">מֶּ֛לֶךְ</w>
+        <w n="299194" lemma="ו" partOfSpeech="conj">וּ</w>
+        <w n="299195" lemma="גדול" partOfSpeech="adjv" number="pl" gender="m" state="a">גְדֹלָ֖יו</w>
+      </wg>
+    </wg>
+    <wg n="487518" class="InfC" role="Adju">
+      <wg n="828058" class="VP">
+        <w n="299196" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="299197" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹ֑ר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216000">
+    <milestone unit="verse" id="Jonah.3.7">Jonah.3.7</milestone>
+    <p>הָאָדָ֨ם וְהַבְּהֵמָ֜ה הַבָּקָ֣ר וְהַצֹּ֗אן אַֽל־יִטְעֲמוּ֙ מְא֔וּמָה </p>
+    <wg n="487519" class="XYqt">
+      <wg n="828059" class="NP">
+        <w n="299198" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299199" lemma="אדם" partOfSpeech="subs" number="sg" gender="m" state="a">אָדָ֨ם</w>
+        <w n="299200" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="299201" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299202" lemma="בהמה" partOfSpeech="subs" number="sg" gender="f" state="a">בְּהֵמָ֜ה</w>
+        <w n="299203" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299204" lemma="בקר" partOfSpeech="subs" number="sg" state="a">בָּקָ֣ר</w>
+        <w n="299205" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="299206" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299207" lemma="צאן" partOfSpeech="subs" number="sg" state="a">צֹּ֗אן</w>
+      </wg>
+      <wg n="828060" class="NegP">
+        <w n="299208" lemma="אל" partOfSpeech="nega">אַֽל</w>
+      </wg>
+      <wg n="828061" class="VP">
+        <w n="299209" lemma="טעם" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal">יִטְעֲמוּ֙</w>
+      </wg>
+      <wg n="828062" class="NP">
+        <w n="299210" lemma="מאומה" partOfSpeech="subs" number="sg" gender="f" state="a">מְא֔וּמָה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216001">
+    <milestone unit="verse" id="Jonah.3.7">Jonah.3.7</milestone>
+    <p>אַ֨ל־יִרְע֔וּ </p>
+    <wg n="487520" class="xYq0">
+      <wg n="828063" class="NegP">
+        <w n="299211" lemma="אל" partOfSpeech="nega">אַ֨ל</w>
+      </wg>
+      <wg n="828064" class="VP">
+        <w n="299212" lemma="רעה" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal">יִרְע֔וּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216002">
+    <milestone unit="verse" id="Jonah.3.7">Jonah.3.7</milestone>
+    <p>וּמַ֖יִם אַל־יִשְׁתּֽוּ׃ </p>
+    <wg n="487521" class="WxY0">
+      <wg n="828065" class="CP">
+        <w n="299213" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="828066" class="NP">
+        <w n="299214" lemma="מים" partOfSpeech="subs" number="pl" gender="m" state="a">מַ֖יִם</w>
+      </wg>
+      <wg n="828067" class="NegP">
+        <w n="299215" lemma="אל" partOfSpeech="nega">אַל</w>
+      </wg>
+      <wg n="828068" class="VP">
+        <w n="299216" lemma="שׁתה" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal">יִשְׁתּֽוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216003">
+    <milestone unit="verse" id="Jonah.3.8">Jonah.3.8</milestone>
+    <p>וְיִתְכַּסּ֣וּ שַׂקִּ֗ים הָֽאָדָם֙ וְהַבְּהֵמָ֔ה </p>
+    <wg n="487522" class="WYqX">
+      <wg n="828069" class="CP">
+        <w n="299217" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828070" class="VP">
+        <w n="299218" lemma="כסה" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="hit">יִתְכַּסּ֣וּ</w>
+      </wg>
+      <wg n="828071" class="NP">
+        <w n="299219" lemma="שׂק" partOfSpeech="subs" number="pl" gender="m" state="a">שַׂקִּ֗ים</w>
+      </wg>
+      <wg n="828072" class="NP">
+        <w n="299220" lemma="ה" partOfSpeech="art">הָֽ</w>
+        <w n="299221" lemma="אדם" partOfSpeech="subs" number="sg" gender="m" state="a">אָדָם֙</w>
+        <w n="299222" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="299223" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299224" lemma="בהמה" partOfSpeech="subs" number="sg" gender="f" state="a">בְּהֵמָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216004">
+    <milestone unit="verse" id="Jonah.3.8">Jonah.3.8</milestone>
+    <p>וְיִקְרְא֥וּ אֶל־אֱלֹהִ֖ים בְּחָזְקָ֑ה </p>
+    <wg n="487523" class="WYq0">
+      <wg n="828073" class="CP">
+        <w n="299225" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828074" class="VP">
+        <w n="299226" lemma="קרא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal">יִקְרְא֥וּ</w>
+      </wg>
+      <wg n="828075" class="PP">
+        <w n="299227" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299228" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהִ֖ים</w>
+      </wg>
+      <wg n="828076" class="PP">
+        <w n="299229" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="299230" lemma="חזקה" partOfSpeech="subs" number="sg" gender="f" state="a">חָזְקָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216005">
+    <milestone unit="verse" id="Jonah.3.8">Jonah.3.8</milestone>
+    <p>וְיָשֻׁ֗בוּ אִ֚ישׁ מִדַּרְכֹּ֣ו הָֽרָעָ֔ה וּמִן־הֶחָמָ֖ס אֲשֶׁ֥ר בְּכַפֵּיהֶֽם׃ </p>
+    <wg n="487524" class="WYq0">
+      <wg n="828077" class="CP">
+        <w n="299231" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828078" class="VP">
+        <w n="299232" lemma="שׁוב" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal">יָשֻׁ֗בוּ</w>
+      </wg>
+    </wg>
+    <wg n="487525" class="Ellp" role="Adju">
+      <wg n="828079" class="NP">
+        <w n="299233" lemma="אישׁ" partOfSpeech="subs" number="sg" gender="m" state="a">אִ֚ישׁ</w>
+      </wg>
+      <wg n="828080" class="PP">
+        <w n="299234" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="299235" lemma="דרך" partOfSpeech="subs" number="sg" state="a">דַּרְכֹּ֣ו</w>
+        <w n="299236" lemma="ה" partOfSpeech="art">הָֽ</w>
+        <w n="299237" lemma="רע" partOfSpeech="adjv" number="sg" gender="f" state="a">רָעָ֔ה</w>
+        <w n="299238" lemma="ו" partOfSpeech="conj">וּ</w>
+        <w n="299239" lemma="מן" partOfSpeech="prep">מִן</w>
+        <w n="299240" lemma="ה" partOfSpeech="art">הֶ</w>
+        <w n="299241" lemma="חמס" partOfSpeech="subs" number="sg" gender="m" state="a">חָמָ֖ס</w>
+      </wg>
+    </wg>
+    <wg n="487526" class="NmCl" role="Attr">
+      <wg n="828081" class="CP">
+        <w n="299242" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֥ר</w>
+      </wg>
+      <wg n="828082" class="PP">
+        <w n="299243" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="299244" lemma="כף" partOfSpeech="subs" number="du" gender="f" state="a">כַפֵּיהֶֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216006">
+    <milestone unit="verse" id="Jonah.3.9">Jonah.3.9</milestone>
+    <p>מִֽי־יֹודֵ֣עַ </p>
+    <wg n="487527" class="Ptcp">
+      <wg n="828083" class="IPrP">
+        <w n="299245" lemma="מי" partOfSpeech="prin">מִֽי</w>
+      </wg>
+      <wg n="828084" class="VP">
+        <w n="299246" lemma="ידע" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a">יֹודֵ֣עַ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216007">
+    <milestone unit="verse" id="Jonah.3.9">Jonah.3.9</milestone>
+    <p>יָשׁ֔וּב </p>
+    <wg n="487528" class="ZYq0">
+      <wg n="828085" class="VP">
+        <w n="299247" lemma="שׁוב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יָשׁ֔וּב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216008">
+    <milestone unit="verse" id="Jonah.3.9">Jonah.3.9</milestone>
+    <p>וְנִחַ֖ם הָאֱלֹהִ֑ים </p>
+    <wg n="487529" class="WQtX">
+      <wg n="828086" class="CP">
+        <w n="299248" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828087" class="VP">
+        <w n="299249" lemma="נחם" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="nif">נִחַ֖ם</w>
+      </wg>
+      <wg n="828088" class="NP">
+        <w n="299250" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299251" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהִ֑ים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216009">
+    <milestone unit="verse" id="Jonah.3.9">Jonah.3.9</milestone>
+    <p>וְשָׁ֛ב מֵחֲרֹ֥ון אַפֹּ֖ו </p>
+    <wg n="487530" class="WQt0">
+      <wg n="828089" class="CP">
+        <w n="299252" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828090" class="VP">
+        <w n="299253" lemma="שׁוב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">שָׁ֛ב</w>
+      </wg>
+      <wg n="828091" class="PP">
+        <w n="299254" lemma="מן" partOfSpeech="prep">מֵ</w>
+        <w n="299255" lemma="חרון" partOfSpeech="subs" number="sg" gender="m" state="c">חֲרֹ֥ון</w>
+        <w n="299256" lemma="אף" partOfSpeech="subs" number="sg" gender="m" state="a">אַפֹּ֖ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216010">
+    <milestone unit="verse" id="Jonah.3.9">Jonah.3.9</milestone>
+    <p>וְלֹ֥א נֹאבֵֽד׃ </p>
+    <wg n="487531" class="WxY0">
+      <wg n="828092" class="CP">
+        <w n="299257" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828093" class="NegP">
+        <w n="299258" lemma="לא" partOfSpeech="nega">לֹ֥א</w>
+      </wg>
+      <wg n="828094" class="VP">
+        <w n="299259" lemma="אבד" partOfSpeech="verb" person="1" number="pl" tense="impf" stem="qal">נֹאבֵֽד</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216011">
+    <milestone unit="verse" id="Jonah.3.10">Jonah.3.10</milestone>
+    <p>וַיַּ֤רְא הָֽאֱלֹהִים֙ אֶֽת־מַ֣עֲשֵׂיהֶ֔ם כִּי־שָׁ֖בוּ מִדַּרְכָּ֣ם הָרָעָ֑ה </p>
+    <wg n="487532" class="WayX">
+      <wg n="828095" class="CP">
+        <w n="299260" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828096" class="VP">
+        <w n="299261" lemma="ראה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יַּ֤רְא</w>
+      </wg>
+      <wg n="828097" class="NP">
+        <w n="299262" lemma="ה" partOfSpeech="art">הָֽ</w>
+        <w n="299263" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהִים֙</w>
+      </wg>
+      <wg n="828098" class="PP">
+        <w n="299264" lemma="את" partOfSpeech="prep">אֶֽת</w>
+        <w n="299265" lemma="מעשׂה" partOfSpeech="subs" number="pl" gender="m" state="a">מַ֣עֲשֵׂיהֶ֔ם</w>
+      </wg>
+    </wg>
+    <wg n="487533" class="xQt0" role="Objc">
+      <wg n="828099" class="CP">
+        <w n="299266" lemma="כי" partOfSpeech="conj">כִּי</w>
+      </wg>
+      <wg n="828100" class="VP">
+        <w n="299267" lemma="שׁוב" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">שָׁ֖בוּ</w>
+      </wg>
+      <wg n="828101" class="PP">
+        <w n="299268" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="299269" lemma="דרך" partOfSpeech="subs" number="sg" state="a">דַּרְכָּ֣ם</w>
+        <w n="299270" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299271" lemma="רע" partOfSpeech="adjv" number="sg" gender="f" state="a">רָעָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216012">
+    <milestone unit="verse" id="Jonah.3.10">Jonah.3.10</milestone>
+    <p>וַיִּנָּ֣חֶם הָאֱלֹהִ֗ים עַל־הָרָעָ֛ה אֲשֶׁר־דִּבֶּ֥ר לַעֲשֹׂות־לָהֶ֖ם </p>
+    <wg n="487534" class="WayX">
+      <wg n="828102" class="CP">
+        <w n="299272" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828103" class="VP">
+        <w n="299273" lemma="נחם" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="nif">יִּנָּ֣חֶם</w>
+      </wg>
+      <wg n="828104" class="NP">
+        <w n="299274" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299275" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהִ֗ים</w>
+      </wg>
+      <wg n="828105" class="PP">
+        <w n="299276" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299277" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299278" lemma="רעה" partOfSpeech="subs" number="sg" gender="f" state="a">רָעָ֛ה</w>
+      </wg>
+    </wg>
+    <wg n="487535" class="xQt0" role="Attr">
+      <wg n="828106" class="CP">
+        <w n="299279" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁר</w>
+      </wg>
+      <wg n="828107" class="VP">
+        <w n="299280" lemma="דבר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="piel">דִּבֶּ֥ר</w>
+      </wg>
+    </wg>
+    <wg n="487536" class="InfC" role="Adju">
+      <wg n="828108" class="VP">
+        <w n="299281" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="299282" lemma="עשׂה" partOfSpeech="verb" tense="infc" stem="qal" state="a">עֲשֹׂות</w>
+      </wg>
+      <wg n="828109" class="PP">
+        <w n="299283" lemma="ל" partOfSpeech="prep">לָהֶ֖ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216013">
+    <milestone unit="verse" id="Jonah.3.10">Jonah.3.10</milestone>
+    <p>וְלֹ֥א עָשָֽׂה׃ </p>
+    <wg n="487537" class="WxQ0">
+      <wg n="828110" class="CP">
+        <w n="299284" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828111" class="NegP">
+        <w n="299285" lemma="לא" partOfSpeech="nega">לֹ֥א</w>
+      </wg>
+      <wg n="828112" class="VP">
+        <w n="299286" lemma="עשׂה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">עָשָֽׂה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216014">
+    <milestone unit="verse" id="Jonah.4.1">Jonah.4.1</milestone>
+    <p>וַיֵּ֥רַע אֶל־יֹונָ֖ה רָעָ֣ה גְדֹולָ֑ה </p>
+    <wg n="487538" class="Way0">
+      <wg n="828113" class="CP">
+        <w n="299287" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828114" class="VP">
+        <w n="299288" lemma="רעע" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֵּ֥רַע</w>
+      </wg>
+      <wg n="828115" class="PP">
+        <w n="299289" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299290" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֖ה</w>
+      </wg>
+      <wg n="828116" class="NP">
+        <w n="299291" lemma="רעה" partOfSpeech="subs" number="sg" gender="f" state="a">רָעָ֣ה</w>
+        <w n="299292" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְדֹולָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216015">
+    <milestone unit="verse" id="Jonah.4.1">Jonah.4.1</milestone>
+    <p>וַיִּ֖חַר לֹֽו׃ </p>
+    <wg n="487539" class="Way0">
+      <wg n="828117" class="CP">
+        <w n="299293" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828118" class="VP">
+        <w n="299294" lemma="חרה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּ֖חַר</w>
+      </wg>
+      <wg n="828119" class="PP">
+        <w n="299295" lemma="ל" partOfSpeech="prep">לֹֽו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216016">
+    <milestone unit="verse" id="Jonah.4.2">Jonah.4.2</milestone>
+    <p>וַיִּתְפַּלֵּ֨ל אֶל־יְהוָ֜ה </p>
+    <wg n="487540" class="Way0">
+      <wg n="828120" class="CP">
+        <w n="299296" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828121" class="VP">
+        <w n="299297" lemma="פלל" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hit">יִּתְפַּלֵּ֨ל</w>
+      </wg>
+      <wg n="828122" class="PP">
+        <w n="299298" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299299" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֜ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216017">
+    <milestone unit="verse" id="Jonah.4.2">Jonah.4.2</milestone>
+    <p>וַיֹּאמַ֗ר </p>
+    <wg n="487541" class="Way0">
+      <wg n="828123" class="CP">
+        <w n="299300" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828124" class="VP">
+        <w n="299301" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּאמַ֗ר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216018">
+    <milestone unit="verse" id="Jonah.4.2">Jonah.4.2</milestone>
+    <p>אָנָּ֤ה יְהוָה֙ </p>
+    <wg n="487542" class="NmCl">
+      <wg n="828125" class="InjP">
+        <w n="299302" lemma="אנא" partOfSpeech="intj">אָנָּ֤ה</w>
+      </wg>
+      <wg n="828126" class="PrNP">
+        <w n="299303" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָה֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216019">
+    <milestone unit="verse" id="Jonah.4.2">Jonah.4.2</milestone>
+    <p>הֲלֹוא־זֶ֣ה דְבָרִ֗י עַד־הֱיֹותִי֙ עַל־אַדְמָתִ֔י </p>
+    <wg n="487543" class="NmCl">
+      <wg n="828127" class="InrP">
+        <w n="299304" lemma="ה" partOfSpeech="inrg">הֲ</w>
+      </wg>
+      <wg n="828128" class="NegP">
+        <w n="299305" lemma="לא" partOfSpeech="nega">לֹוא</w>
+      </wg>
+      <wg n="828129" class="DPrP">
+        <w n="299306" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶ֣ה</w>
+      </wg>
+      <wg n="828130" class="NP">
+        <w n="299307" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="a">דְבָרִ֗י</w>
+      </wg>
+    </wg>
+    <wg n="487544" class="InfC" role="Adju">
+      <wg n="828131" class="VP">
+        <w n="299308" lemma="עד" partOfSpeech="prep">עַד</w>
+        <w n="299309" lemma="היה" partOfSpeech="verb" tense="infc" stem="qal" state="a">הֱיֹותִי֙</w>
+      </wg>
+      <wg n="828132" class="PP">
+        <w n="299310" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299311" lemma="אדמה" partOfSpeech="subs" number="sg" gender="f" state="a">אַדְמָתִ֔י</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216020">
+    <milestone unit="verse" id="Jonah.4.2">Jonah.4.2</milestone>
+    <p>עַל־כֵּ֥ן קִדַּ֖מְתִּי לִבְרֹ֣חַ תַּרְשִׁ֑ישָׁה </p>
+    <wg n="487545" class="xQt0">
+      <wg n="828133" class="PP">
+        <w n="299312" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299313" lemma="כן" partOfSpeech="advb">כֵּ֥ן</w>
+      </wg>
+      <wg n="828134" class="VP">
+        <w n="299314" lemma="קדם" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="piel">קִדַּ֖מְתִּי</w>
+      </wg>
+    </wg>
+    <wg n="487546" class="InfC" role="Adju">
+      <wg n="828135" class="VP">
+        <w n="299315" lemma="ל" partOfSpeech="prep">לִ</w>
+        <w n="299316" lemma="ברח" partOfSpeech="verb" tense="infc" stem="qal" state="a">בְרֹ֣חַ</w>
+      </wg>
+      <wg n="828136" class="AdvP">
+        <w n="299317" lemma="תרשׁישׁ" partOfSpeech="nmpr" number="sg" state="a">תַּרְשִׁ֑ישָׁה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216021">
+    <milestone unit="verse" id="Jonah.4.2">Jonah.4.2</milestone>
+    <p>כִּ֣י יָדַ֗עְתִּי כִּ֤י אַתָּה֙ אֵֽל־חַנּ֣וּן וְרַח֔וּם אֶ֤רֶךְ אַפַּ֨יִם֙ וְרַב־חֶ֔סֶד </p>
+    <wg n="487547" class="xQt0">
+      <wg n="828137" class="CP">
+        <w n="299318" lemma="כי" partOfSpeech="conj">כִּ֣י</w>
+      </wg>
+      <wg n="828138" class="VP">
+        <w n="299319" lemma="ידע" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">יָדַ֗עְתִּי</w>
+      </wg>
+    </wg>
+    <wg n="487548" class="NmCl" role="Objc">
+      <wg n="828139" class="CP">
+        <w n="299320" lemma="כי" partOfSpeech="conj">כִּ֤י</w>
+      </wg>
+      <wg n="828140" class="PPrP">
+        <w n="299321" lemma="אתה" partOfSpeech="prps" person="2" number="sg" gender="m">אַתָּה֙</w>
+      </wg>
+      <wg n="828141" class="NP">
+        <w n="299322" lemma="אל" partOfSpeech="subs" number="sg" gender="m" state="a">אֵֽל</w>
+        <w n="299323" lemma="חנון" partOfSpeech="adjv" number="sg" gender="m" state="a">חַנּ֣וּן</w>
+        <w n="299324" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="299325" lemma="רחום" partOfSpeech="adjv" number="sg" gender="m" state="a">רַח֔וּם</w>
+      </wg>
+    </wg>
+    <wg n="487549" class="AjCl" role="Attr">
+      <wg n="828142" class="AdjP">
+        <w n="299326" lemma="ארך" partOfSpeech="adjv" number="sg" gender="m" state="c">אֶ֤רֶךְ</w>
+        <w n="299327" lemma="אף" partOfSpeech="subs" number="du" gender="m" state="a">אַפַּ֨יִם֙</w>
+      </wg>
+    </wg>
+    <wg n="487550" class="AjCl" role="Coor">
+      <wg n="828143" class="CP">
+        <w n="299328" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828144" class="AdjP">
+        <w n="299329" lemma="רב" partOfSpeech="adjv" number="sg" gender="m" state="c">רַב</w>
+        <w n="299330" lemma="חסד" partOfSpeech="subs" number="sg" gender="m" state="a">חֶ֔סֶד</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216022">
+    <milestone unit="verse" id="Jonah.4.2">Jonah.4.2</milestone>
+    <p>וְנִחָ֖ם עַל־הָרָעָֽה׃ </p>
+    <wg n="487551" class="Ptcp">
+      <wg n="828145" class="CP">
+        <w n="299331" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828146" class="VP">
+        <w n="299332" lemma="נחם" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="nif" state="a">נִחָ֖ם</w>
+      </wg>
+      <wg n="828147" class="PP">
+        <w n="299333" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299334" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299335" lemma="רעה" partOfSpeech="subs" number="sg" gender="f" state="a">רָעָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216023">
+    <milestone unit="verse" id="Jonah.4.3">Jonah.4.3</milestone>
+    <p>וְעַתָּ֣ה יְהוָ֔ה </p>
+    <wg n="487552" class="MSyn">
+      <wg n="828148" class="CP">
+        <w n="299336" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828149" class="AdvP">
+        <w n="299337" lemma="עתה" partOfSpeech="advb">עַתָּ֣ה</w>
+      </wg>
+    </wg>
+    <wg n="487553" class="Voct">
+      <wg n="828150" class="PrNP">
+        <w n="299338" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216024">
+    <milestone unit="verse" id="Jonah.4.3">Jonah.4.3</milestone>
+    <p>קַח־נָ֥א אֶת־נַפְשִׁ֖י מִמֶּ֑נִּי </p>
+    <wg n="487554" class="ZIm0">
+      <wg n="828151" class="VP">
+        <w n="299339" lemma="לקח" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">קַח</w>
+      </wg>
+      <wg n="828152" class="InjP">
+        <w n="299340" lemma="נא" partOfSpeech="intj">נָ֥א</w>
+      </wg>
+      <wg n="828153" class="PP">
+        <w n="299341" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="299342" lemma="נפשׁ" partOfSpeech="subs" number="sg" gender="f" state="a">נַפְשִׁ֖י</w>
+      </wg>
+      <wg n="828154" class="PP">
+        <w n="299343" lemma="מן" partOfSpeech="prep">מִמֶּ֑נִּי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216025">
+    <milestone unit="verse" id="Jonah.4.3">Jonah.4.3</milestone>
+    <p>כִּ֛י טֹ֥וב מֹותִ֖י מֵחַיָּֽי׃ ס </p>
+    <wg n="487555" class="AjCl">
+      <wg n="828155" class="CP">
+        <w n="299344" lemma="כי" partOfSpeech="conj">כִּ֛י</w>
+      </wg>
+      <wg n="828156" class="AdjP">
+        <w n="299345" lemma="טוב" partOfSpeech="adjv" number="sg" gender="m" state="a">טֹ֥וב</w>
+      </wg>
+      <wg n="828157" class="NP">
+        <w n="299346" lemma="מות" partOfSpeech="subs" number="sg" gender="m" state="a">מֹותִ֖י</w>
+      </wg>
+      <wg n="828158" class="PP">
+        <w n="299347" lemma="מן" partOfSpeech="prep">מֵ</w>
+        <w n="299348" lemma="חיים" partOfSpeech="subs" number="pl" gender="m" state="a">חַיָּֽי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216026">
+    <milestone unit="verse" id="Jonah.4.4">Jonah.4.4</milestone>
+    <p>וַיֹּ֣אמֶר יְהוָ֔ה </p>
+    <wg n="487556" class="WayX">
+      <wg n="828159" class="CP">
+        <w n="299349" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828160" class="VP">
+        <w n="299350" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֣אמֶר</w>
+      </wg>
+      <wg n="828161" class="PrNP">
+        <w n="299351" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216027">
+    <milestone unit="verse" id="Jonah.4.4">Jonah.4.4</milestone>
+    <p>הַהֵיטֵ֖ב </p>
+    <wg n="487557" class="InfA">
+      <wg n="828162" class="InrP">
+        <w n="299352" lemma="ה" partOfSpeech="inrg">הַ</w>
+      </wg>
+      <wg n="828163" class="VP">
+        <w n="299353" lemma="יטב" partOfSpeech="verb" tense="infa" stem="hif" state="a">הֵיטֵ֖ב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216028">
+    <milestone unit="verse" id="Jonah.4.4">Jonah.4.4</milestone>
+    <p>חָ֥רָה לָֽךְ׃ </p>
+    <wg n="487558" class="ZQt0">
+      <wg n="828164" class="VP">
+        <w n="299354" lemma="חרה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">חָ֥רָה</w>
+      </wg>
+      <wg n="828165" class="PP">
+        <w n="299355" lemma="ל" partOfSpeech="prep">לָֽךְ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216029">
+    <milestone unit="verse" id="Jonah.4.5">Jonah.4.5</milestone>
+    <p>וַיֵּצֵ֤א יֹונָה֙ מִן־הָעִ֔יר </p>
+    <wg n="487559" class="WayX">
+      <wg n="828166" class="CP">
+        <w n="299356" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828167" class="VP">
+        <w n="299357" lemma="יצא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֵּצֵ֤א</w>
+      </wg>
+      <wg n="828168" class="PrNP">
+        <w n="299358" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָה֙</w>
+      </wg>
+      <wg n="828169" class="PP">
+        <w n="299359" lemma="מן" partOfSpeech="prep">מִן</w>
+        <w n="299360" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299361" lemma="עיר" partOfSpeech="subs" number="sg" gender="f" state="a">עִ֔יר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216030">
+    <milestone unit="verse" id="Jonah.4.5">Jonah.4.5</milestone>
+    <p>וַיֵּ֖שֶׁב מִקֶּ֣דֶם לָעִ֑יר </p>
+    <wg n="487560" class="Way0">
+      <wg n="828170" class="CP">
+        <w n="299362" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828171" class="VP">
+        <w n="299363" lemma="ישׁב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֵּ֖שֶׁב</w>
+      </wg>
+      <wg n="828172" class="PP">
+        <w n="299364" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="299365" lemma="קדם" partOfSpeech="subs" number="sg" gender="m" state="a">קֶּ֣דֶם</w>
+      </wg>
+      <wg n="828173" class="PP">
+        <w n="299366" lemma="ל" partOfSpeech="prep">לָ</w>
+        <w n="299367" lemma="ה" partOfSpeech="art"></w>
+        <w n="299368" lemma="עיר" partOfSpeech="subs" number="sg" gender="f" state="a">עִ֑יר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216031">
+    <milestone unit="verse" id="Jonah.4.5">Jonah.4.5</milestone>
+    <p>וַיַּעַשׂ֩ לֹ֨ו שָׁ֜ם סֻכָּ֗ה </p>
+    <wg n="487561" class="Way0">
+      <wg n="828174" class="CP">
+        <w n="299369" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828175" class="VP">
+        <w n="299370" lemma="עשׂה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יַּעַשׂ֩</w>
+      </wg>
+      <wg n="828176" class="PP">
+        <w n="299371" lemma="ל" partOfSpeech="prep">לֹ֨ו</w>
+      </wg>
+      <wg n="828177" class="AdvP">
+        <w n="299372" lemma="שׁם" partOfSpeech="advb">שָׁ֜ם</w>
+      </wg>
+      <wg n="828178" class="NP">
+        <w n="299373" lemma="סכה" partOfSpeech="subs" number="sg" gender="f" state="a">סֻכָּ֗ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216032">
+    <milestone unit="verse" id="Jonah.4.5">Jonah.4.5</milestone>
+    <p>וַיֵּ֤שֶׁב תַּחְתֶּ֨יהָ֙ בַּצֵּ֔ל עַ֚ד אֲשֶׁ֣ר יִרְאֶ֔ה מַה־יִּהְיֶ֖ה בָּעִֽיר׃ </p>
+    <wg n="487562" class="Way0">
+      <wg n="828179" class="CP">
+        <w n="299374" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828180" class="VP">
+        <w n="299375" lemma="ישׁב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֵּ֤שֶׁב</w>
+      </wg>
+      <wg n="828181" class="PP">
+        <w n="299376" lemma="תחת" partOfSpeech="subs" number="pl" gender="m" state="a">תַּחְתֶּ֨יהָ֙</w>
+      </wg>
+      <wg n="828182" class="PP">
+        <w n="299377" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="299378" lemma="ה" partOfSpeech="art"></w>
+        <w n="299379" lemma="צל" partOfSpeech="subs" number="sg" gender="m" state="a">צֵּ֔ל</w>
+      </wg>
+    </wg>
+    <wg n="487563" class="xYq0" role="Adju">
+      <wg n="828183" class="CP">
+        <w n="299380" lemma="עד" partOfSpeech="prep">עַ֚ד</w>
+        <w n="299381" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֣ר</w>
+      </wg>
+      <wg n="828184" class="VP">
+        <w n="299382" lemma="ראה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִרְאֶ֔ה</w>
+      </wg>
+    </wg>
+    <wg n="487564" class="XYqt" role="Objc">
+      <wg n="828185" class="IPrP">
+        <w n="299383" lemma="מה" partOfSpeech="prin">מַה</w>
+      </wg>
+      <wg n="828186" class="VP">
+        <w n="299384" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִּהְיֶ֖ה</w>
+      </wg>
+      <wg n="828187" class="PP">
+        <w n="299385" lemma="ב" partOfSpeech="prep">בָּ</w>
+        <w n="299386" lemma="ה" partOfSpeech="art"></w>
+        <w n="299387" lemma="עיר" partOfSpeech="subs" number="sg" gender="f" state="a">עִֽיר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216033">
+    <milestone unit="verse" id="Jonah.4.6">Jonah.4.6</milestone>
+    <p>וַיְמַ֣ן יְהוָֽה־אֱ֠לֹהִים קִיקָיֹ֞ון </p>
+    <wg n="487565" class="WayX">
+      <wg n="828188" class="CP">
+        <w n="299388" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828189" class="VP">
+        <w n="299389" lemma="מנה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="piel">יְמַ֣ן</w>
+      </wg>
+      <wg n="828190" class="PrNP">
+        <w n="299390" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָֽה</w>
+        <w n="299391" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱ֠לֹהִים</w>
+      </wg>
+      <wg n="828191" class="NP">
+        <w n="299392" lemma="קיקיון" partOfSpeech="subs" number="sg" gender="m" state="a">קִיקָיֹ֞ון</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216034">
+    <milestone unit="verse" id="Jonah.4.6">Jonah.4.6</milestone>
+    <p>וַיַּ֣עַל׀ מֵעַ֣ל לְיֹונָ֗ה לִֽהְיֹ֥ות צֵל֙ עַל־רֹאשֹׁ֔ו לְהַצִּ֥יל לֹ֖ו מֵרָֽעָתֹ֑ו </p>
+    <wg n="487566" class="Way0">
+      <wg n="828192" class="CP">
+        <w n="299393" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828193" class="VP">
+        <w n="299394" lemma="עלה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hif">יַּ֣עַל</w>
+      </wg>
+      <wg n="828194" class="PP">
+        <w n="299395" lemma="מן" partOfSpeech="prep">מֵ</w>
+        <w n="299396" lemma="על" partOfSpeech="prep">עַ֣ל</w>
+        <w n="299397" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="299398" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֗ה</w>
+      </wg>
+    </wg>
+    <wg n="487567" class="InfC" role="Adju">
+      <wg n="828195" class="VP">
+        <w n="299399" lemma="ל" partOfSpeech="prep">לִֽ</w>
+        <w n="299400" lemma="היה" partOfSpeech="verb" tense="infc" stem="qal" state="c">הְיֹ֥ות</w>
+      </wg>
+      <wg n="828196" class="NP">
+        <w n="299401" lemma="צל" partOfSpeech="subs" number="sg" gender="m" state="a">צֵל֙</w>
+      </wg>
+      <wg n="828197" class="PP">
+        <w n="299402" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299403" lemma="ראשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">רֹאשֹׁ֔ו</w>
+      </wg>
+    </wg>
+    <wg n="487568" class="InfC" role="Adju">
+      <wg n="828198" class="VP">
+        <w n="299404" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="299405" lemma="נצל" partOfSpeech="verb" tense="infc" stem="hif" state="a">הַצִּ֥יל</w>
+      </wg>
+      <wg n="828199" class="PP">
+        <w n="299406" lemma="ל" partOfSpeech="prep">לֹ֖ו</w>
+      </wg>
+      <wg n="828200" class="PP">
+        <w n="299407" lemma="מן" partOfSpeech="prep">מֵ</w>
+        <w n="299408" lemma="רעה" partOfSpeech="subs" number="sg" gender="f" state="a">רָֽעָתֹ֑ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216035">
+    <milestone unit="verse" id="Jonah.4.6">Jonah.4.6</milestone>
+    <p>וַיִּשְׂמַ֥ח יֹונָ֛ה עַל־הַקִּֽיקָיֹ֖ון שִׂמְחָ֥ה גְדֹולָֽה׃ </p>
+    <wg n="487569" class="WayX">
+      <wg n="828201" class="CP">
+        <w n="299409" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828202" class="VP">
+        <w n="299410" lemma="שׂמח" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּשְׂמַ֥ח</w>
+      </wg>
+      <wg n="828203" class="PrNP">
+        <w n="299411" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֛ה</w>
+      </wg>
+      <wg n="828204" class="PP">
+        <w n="299412" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299413" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299414" lemma="קיקיון" partOfSpeech="subs" number="sg" gender="m" state="a">קִּֽיקָיֹ֖ון</w>
+      </wg>
+      <wg n="828205" class="NP">
+        <w n="299415" lemma="שׂמחה" partOfSpeech="subs" number="sg" gender="f" state="a">שִׂמְחָ֥ה</w>
+        <w n="299416" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְדֹולָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216036">
+    <milestone unit="verse" id="Jonah.4.7">Jonah.4.7</milestone>
+    <p>וַיְמַ֤ן הָֽאֱלֹהִים֙ תֹּולַ֔עַת בַּעֲלֹ֥ות הַשַּׁ֖חַר לַֽמָּחֳרָ֑ת </p>
+    <wg n="487570" class="WayX">
+      <wg n="828206" class="CP">
+        <w n="299417" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828207" class="VP">
+        <w n="299418" lemma="מנה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="piel">יְמַ֤ן</w>
+      </wg>
+      <wg n="828208" class="NP">
+        <w n="299419" lemma="ה" partOfSpeech="art">הָֽ</w>
+        <w n="299420" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהִים֙</w>
+      </wg>
+      <wg n="828209" class="NP">
+        <w n="299421" lemma="תולעת" partOfSpeech="subs" number="sg" gender="f" state="a">תֹּולַ֔עַת</w>
+      </wg>
+    </wg>
+    <wg n="487571" class="InfC" role="Adju">
+      <wg n="828210" class="VP">
+        <w n="299422" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="299423" lemma="עלה" partOfSpeech="verb" tense="infc" stem="qal" state="c">עֲלֹ֥ות</w>
+      </wg>
+      <wg n="828211" class="NP">
+        <w n="299424" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299425" lemma="שׁחר" partOfSpeech="subs" number="sg" gender="m" state="a">שַּׁ֖חַר</w>
+      </wg>
+      <wg n="828212" class="PP">
+        <w n="299426" lemma="ל" partOfSpeech="prep">לַֽ</w>
+        <w n="299427" lemma="ה" partOfSpeech="art"></w>
+        <w n="299428" lemma="מחרת" partOfSpeech="subs" number="sg" gender="f" state="a">מָּחֳרָ֑ת</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216037">
+    <milestone unit="verse" id="Jonah.4.7">Jonah.4.7</milestone>
+    <p>וַתַּ֥ךְ אֶת־הַקִּֽיקָיֹ֖ון </p>
+    <wg n="487572" class="Way0">
+      <wg n="828213" class="CP">
+        <w n="299429" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828214" class="VP">
+        <w n="299430" lemma="נכה" partOfSpeech="verb" person="3" number="sg" gender="f" tense="wayq" stem="hif">תַּ֥ךְ</w>
+      </wg>
+      <wg n="828215" class="PP">
+        <w n="299431" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="299432" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299433" lemma="קיקיון" partOfSpeech="subs" number="sg" gender="m" state="a">קִּֽיקָיֹ֖ון</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216038">
+    <milestone unit="verse" id="Jonah.4.7">Jonah.4.7</milestone>
+    <p>וַיִּיבָֽשׁ׃ </p>
+    <wg n="487573" class="Way0">
+      <wg n="828216" class="CP">
+        <w n="299434" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828217" class="VP">
+        <w n="299435" lemma="יבשׁ" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּיבָֽשׁ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216039">
+    <milestone unit="verse" id="Jonah.4.8">Jonah.4.8</milestone>
+    <p>וַיְהִ֣י׀ כִּזְרֹ֣חַ הַשֶּׁ֗מֶשׁ </p>
+    <wg n="487574" class="Way0">
+      <wg n="828218" class="CP">
+        <w n="299436" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828219" class="VP">
+        <w n="299437" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יְהִ֣י</w>
+      </wg>
+    </wg>
+    <wg n="487575" class="InfC" role="Adju">
+      <wg n="828220" class="VP">
+        <w n="299438" lemma="כ" partOfSpeech="prep">כִּ</w>
+        <w n="299439" lemma="זרח" partOfSpeech="verb" tense="infc" stem="qal" state="c">זְרֹ֣חַ</w>
+      </wg>
+      <wg n="828221" class="NP">
+        <w n="299440" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299441" lemma="שׁמשׁ" partOfSpeech="subs" number="sg" state="a">שֶּׁ֗מֶשׁ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216040">
+    <milestone unit="verse" id="Jonah.4.8">Jonah.4.8</milestone>
+    <p>וַיְמַ֨ן אֱלֹהִ֜ים ר֤וּחַ קָדִים֙ חֲרִישִׁ֔ית </p>
+    <wg n="487576" class="WayX">
+      <wg n="828222" class="CP">
+        <w n="299442" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828223" class="VP">
+        <w n="299443" lemma="מנה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="piel">יְמַ֨ן</w>
+      </wg>
+      <wg n="828224" class="NP">
+        <w n="299444" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהִ֜ים</w>
+      </wg>
+      <wg n="828225" class="NP">
+        <w n="299445" lemma="רוח" partOfSpeech="subs" number="sg" state="c">ר֤וּחַ</w>
+        <w n="299446" lemma="קדים" partOfSpeech="subs" number="sg" gender="m" state="a">קָדִים֙</w>
+        <w n="299447" lemma="חרישׁי" partOfSpeech="adjv" number="sg" gender="f" state="a">חֲרִישִׁ֔ית</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216041">
+    <milestone unit="verse" id="Jonah.4.8">Jonah.4.8</milestone>
+    <p>וַתַּ֥ךְ הַשֶּׁ֛מֶשׁ עַל־רֹ֥אשׁ יֹונָ֖ה </p>
+    <wg n="487577" class="WayX">
+      <wg n="828226" class="CP">
+        <w n="299448" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828227" class="VP">
+        <w n="299449" lemma="נכה" partOfSpeech="verb" person="3" number="sg" gender="f" tense="wayq" stem="hif">תַּ֥ךְ</w>
+      </wg>
+      <wg n="828228" class="NP">
+        <w n="299450" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299451" lemma="שׁמשׁ" partOfSpeech="subs" number="sg" state="a">שֶּׁ֛מֶשׁ</w>
+      </wg>
+      <wg n="828229" class="PP">
+        <w n="299452" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299453" lemma="ראשׁ" partOfSpeech="subs" number="sg" gender="m" state="c">רֹ֥אשׁ</w>
+        <w n="299454" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֖ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216042">
+    <milestone unit="verse" id="Jonah.4.8">Jonah.4.8</milestone>
+    <p>וַיִּתְעַלָּ֑ף </p>
+    <wg n="487578" class="Way0">
+      <wg n="828230" class="CP">
+        <w n="299455" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828231" class="VP">
+        <w n="299456" lemma="עלף" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hit">יִּתְעַלָּ֑ף</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216043">
+    <milestone unit="verse" id="Jonah.4.8">Jonah.4.8</milestone>
+    <p>וַיִּשְׁאַ֤ל אֶת־נַפְשֹׁו֙ לָמ֔וּת </p>
+    <wg n="487579" class="Way0">
+      <wg n="828232" class="CP">
+        <w n="299457" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828233" class="VP">
+        <w n="299458" lemma="שׁאל" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּשְׁאַ֤ל</w>
+      </wg>
+      <wg n="828234" class="PP">
+        <w n="299459" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="299460" lemma="נפשׁ" partOfSpeech="subs" number="sg" gender="f" state="a">נַפְשֹׁו֙</w>
+      </wg>
+    </wg>
+    <wg n="487580" class="InfC" role="Adju">
+      <wg n="828235" class="VP">
+        <w n="299461" lemma="ל" partOfSpeech="prep">לָ</w>
+        <w n="299462" lemma="מות" partOfSpeech="verb" tense="infc" stem="qal" state="a">מ֔וּת</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216044">
+    <milestone unit="verse" id="Jonah.4.8">Jonah.4.8</milestone>
+    <p>וַיֹּ֕אמֶר </p>
+    <wg n="487581" class="Way0">
+      <wg n="828236" class="CP">
+        <w n="299463" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828237" class="VP">
+        <w n="299464" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֕אמֶר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216045">
+    <milestone unit="verse" id="Jonah.4.8">Jonah.4.8</milestone>
+    <p>טֹ֥וב מֹותִ֖י מֵחַיָּֽי׃ </p>
+    <wg n="487582" class="AjCl">
+      <wg n="828238" class="AdjP">
+        <w n="299465" lemma="טוב" partOfSpeech="adjv" number="sg" gender="m" state="a">טֹ֥וב</w>
+      </wg>
+      <wg n="828239" class="NP">
+        <w n="299466" lemma="מות" partOfSpeech="subs" number="sg" gender="m" state="a">מֹותִ֖י</w>
+      </wg>
+      <wg n="828240" class="PP">
+        <w n="299467" lemma="מן" partOfSpeech="prep">מֵ</w>
+        <w n="299468" lemma="חיים" partOfSpeech="subs" number="pl" gender="m" state="a">חַיָּֽי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216046">
+    <milestone unit="verse" id="Jonah.4.9">Jonah.4.9</milestone>
+    <p>וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־יֹונָ֔ה </p>
+    <wg n="487583" class="WayX">
+      <wg n="828241" class="CP">
+        <w n="299469" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828242" class="VP">
+        <w n="299470" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֤אמֶר</w>
+      </wg>
+      <wg n="828243" class="NP">
+        <w n="299471" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהִים֙</w>
+      </wg>
+      <wg n="828244" class="PP">
+        <w n="299472" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="299473" lemma="יונה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יֹונָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216047">
+    <milestone unit="verse" id="Jonah.4.9">Jonah.4.9</milestone>
+    <p>הַהֵיטֵ֥ב </p>
+    <wg n="487584" class="InfA">
+      <wg n="828245" class="InrP">
+        <w n="299474" lemma="ה" partOfSpeech="inrg">הַ</w>
+      </wg>
+      <wg n="828246" class="VP">
+        <w n="299475" lemma="יטב" partOfSpeech="verb" tense="infa" stem="hif" state="a">הֵיטֵ֥ב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216048">
+    <milestone unit="verse" id="Jonah.4.9">Jonah.4.9</milestone>
+    <p>חָרָֽה־לְךָ֖ עַל־הַקִּֽיקָיֹ֑ון </p>
+    <wg n="487585" class="ZQt0">
+      <wg n="828247" class="VP">
+        <w n="299476" lemma="חרה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">חָרָֽה</w>
+      </wg>
+      <wg n="828248" class="PP">
+        <w n="299477" lemma="ל" partOfSpeech="prep">לְךָ֖</w>
+      </wg>
+      <wg n="828249" class="PP">
+        <w n="299478" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299479" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299480" lemma="קיקיון" partOfSpeech="subs" number="sg" gender="m" state="a">קִּֽיקָיֹ֑ון</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216049">
+    <milestone unit="verse" id="Jonah.4.9">Jonah.4.9</milestone>
+    <p>וַיֹּ֕אמֶר </p>
+    <wg n="487586" class="Way0">
+      <wg n="828250" class="CP">
+        <w n="299481" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828251" class="VP">
+        <w n="299482" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֕אמֶר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216050">
+    <milestone unit="verse" id="Jonah.4.9">Jonah.4.9</milestone>
+    <p>הֵיטֵ֥ב </p>
+    <wg n="487587" class="InfA">
+      <wg n="828252" class="VP">
+        <w n="299483" lemma="יטב" partOfSpeech="verb" tense="infa" stem="hif" state="a">הֵיטֵ֥ב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216051">
+    <milestone unit="verse" id="Jonah.4.9">Jonah.4.9</milestone>
+    <p>חָֽרָה־לִ֖י עַד־מָֽוֶת׃ </p>
+    <wg n="487588" class="ZQt0">
+      <wg n="828253" class="VP">
+        <w n="299484" lemma="חרה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">חָֽרָה</w>
+      </wg>
+      <wg n="828254" class="PP">
+        <w n="299485" lemma="ל" partOfSpeech="prep">לִ֖י</w>
+      </wg>
+      <wg n="828255" class="PP">
+        <w n="299486" lemma="עד" partOfSpeech="prep">עַד</w>
+        <w n="299487" lemma="מות" partOfSpeech="subs" number="sg" gender="m" state="a">מָֽוֶת</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216052">
+    <milestone unit="verse" id="Jonah.4.10">Jonah.4.10</milestone>
+    <p>וַיֹּ֣אמֶר יְהוָ֔ה </p>
+    <wg n="487589" class="WayX">
+      <wg n="828256" class="CP">
+        <w n="299488" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="828257" class="VP">
+        <w n="299489" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֣אמֶר</w>
+      </wg>
+      <wg n="828258" class="PrNP">
+        <w n="299490" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216053">
+    <milestone unit="verse" id="Jonah.4.10">Jonah.4.10</milestone>
+    <p>אַתָּ֥ה חַ֨סְתָּ֙ עַל־הַקִּ֣יקָיֹ֔ון אֲשֶׁ֛ר לֹא־עָמַ֥לְתָּ בֹּ֖ו וְלֹ֣א גִדַּלְתֹּ֑ו שֶׁבִּן־לַ֥יְלָה הָיָ֖ה וּבִן־לַ֥יְלָה אָבָֽד׃ </p>
+    <wg n="487590" class="XQtl">
+      <wg n="828259" class="PPrP">
+        <w n="299491" lemma="אתה" partOfSpeech="prps" person="2" number="sg" gender="m">אַתָּ֥ה</w>
+      </wg>
+      <wg n="828260" class="VP">
+        <w n="299492" lemma="חוס" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="qal">חַ֨סְתָּ֙</w>
+      </wg>
+      <wg n="828261" class="PP">
+        <w n="299493" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299494" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299495" lemma="קיקיון" partOfSpeech="subs" number="sg" gender="m" state="a">קִּ֣יקָיֹ֔ון</w>
+      </wg>
+    </wg>
+    <wg n="487591" class="xQt0" role="Attr">
+      <wg n="828262" class="CP">
+        <w n="299496" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֛ר</w>
+      </wg>
+      <wg n="828263" class="NegP">
+        <w n="299497" lemma="לא" partOfSpeech="nega">לֹא</w>
+      </wg>
+      <wg n="828264" class="VP">
+        <w n="299498" lemma="עמל" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="qal">עָמַ֥לְתָּ</w>
+      </wg>
+      <wg n="828265" class="PP">
+        <w n="299499" lemma="ב" partOfSpeech="prep">בֹּ֖ו</w>
+      </wg>
+    </wg>
+    <wg n="487592" class="WxQ0" role="Coor">
+      <wg n="828266" class="CP">
+        <w n="299500" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="828267" class="NegP">
+        <w n="299501" lemma="לא" partOfSpeech="nega">לֹ֣א</w>
+      </wg>
+      <wg n="828268" class="VP">
+        <w n="299502" lemma="גדל" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="piel">גִדַּלְתֹּ֑ו</w>
+      </wg>
+    </wg>
+    <wg n="487593" class="XQtl" role="Attr">
+      <wg n="828269" class="CP">
+        <w n="299503" lemma="שׁ" partOfSpeech="conj">שֶׁ</w>
+      </wg>
+      <wg n="828270" class="NP">
+        <w n="299504" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בִּן</w>
+        <w n="299505" lemma="לילה" partOfSpeech="subs" number="sg" gender="m" state="a">לַ֥יְלָה</w>
+      </wg>
+      <wg n="828271" class="VP">
+        <w n="299506" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">הָיָ֖ה</w>
+      </wg>
+    </wg>
+    <wg n="487594" class="WXQt" role="Coor">
+      <wg n="828272" class="CP">
+        <w n="299507" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="828273" class="NP">
+        <w n="299508" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בִן</w>
+        <w n="299509" lemma="לילה" partOfSpeech="subs" number="sg" gender="m" state="a">לַ֥יְלָה</w>
+      </wg>
+      <wg n="828274" class="VP">
+        <w n="299510" lemma="אבד" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָבָֽד</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216054">
+    <milestone unit="verse" id="Jonah.4.11">Jonah.4.11</milestone>
+    <p>וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל־נִינְוֵ֖ה הָעִ֣יר הַגְּדֹולָ֑ה אֲשֶׁ֣ר יֶשׁ־בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים־עֶשְׂרֵ֨ה רִבֹּ֜ו אָדָ֗ם אֲשֶׁ֤ר לֹֽא־יָדַע֙ בֵּין־יְמִינֹ֣ו לִשְׂמֹאלֹ֔ו וּבְהֵמָ֖ה רַבָּֽה׃ </p>
+    <wg n="487595" class="CPen">
+      <wg n="828275" class="CP">
+        <w n="299511" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="828276" class="PPrP">
+        <w n="299512" lemma="אני" partOfSpeech="prps" person="1" number="sg">אֲנִי֙</w>
+      </wg>
+    </wg>
+    <wg n="487596" class="xYq0" role="Resu">
+      <wg n="828277" class="NegP">
+        <w n="299513" lemma="לא" partOfSpeech="nega">לֹ֣א</w>
+      </wg>
+      <wg n="828278" class="VP">
+        <w n="299514" lemma="חוס" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="qal">אָח֔וּס</w>
+      </wg>
+      <wg n="828279" class="PP">
+        <w n="299515" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="299516" lemma="נינוה" partOfSpeech="nmpr" number="sg" state="a">נִינְוֵ֖ה</w>
+        <w n="299517" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="299518" lemma="עיר" partOfSpeech="subs" number="sg" gender="f" state="a">עִ֣יר</w>
+        <w n="299519" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="299520" lemma="גדול" partOfSpeech="adjv" number="sg" gender="f" state="a">גְּדֹולָ֑ה</w>
+      </wg>
+    </wg>
+    <wg n="487597" class="NmCl" role="Attr">
+      <wg n="828280" class="CP">
+        <w n="299521" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֣ר</w>
+      </wg>
+      <wg n="828281" class="NP">
+        <w n="299522" lemma="ישׁ" partOfSpeech="subs" number="sg" state="a">יֶשׁ</w>
+      </wg>
+      <wg n="828282" class="PP">
+        <w n="299523" lemma="ב" partOfSpeech="prep">בָּ֡הּ</w>
+      </wg>
+    </wg>
+    <wg n="487598" class="InfA" role="Subj">
+      <wg n="828283" class="VP">
+        <w n="299524" lemma="רבה" partOfSpeech="verb" tense="infa" stem="hif" state="a">הַרְבֵּה֩</w>
+      </wg>
+      <wg n="828284" class="PP">
+        <w n="299525" lemma="מן" partOfSpeech="prep">מִֽ</w>
+        <w n="299526" lemma="שׁנים" partOfSpeech="subs" number="du" gender="f" state="a">שְׁתֵּים</w>
+        <w n="299527" lemma="עשׂרה" partOfSpeech="subs" number="sg" state="a">עֶשְׂרֵ֨ה</w>
+        <w n="299528" lemma="רבוא" partOfSpeech="subs" number="sg" state="a">רִבֹּ֜ו</w>
+      </wg>
+      <wg n="828285" class="NP">
+        <w n="299529" lemma="אדם" partOfSpeech="subs" number="sg" gender="m" state="a">אָדָ֗ם</w>
+        <w n="299537" lemma="ו" partOfSpeech="conj">וּ</w>
+        <w n="299538" lemma="בהמה" partOfSpeech="subs" number="sg" gender="f" state="a">בְהֵמָ֖ה</w>
+        <w n="299539" lemma="רב" partOfSpeech="adjv" number="sg" gender="f" state="a">רַבָּֽה</w>
+      </wg>
+    </wg>
+    <wg n="487599" class="xQt0" role="Attr">
+      <wg n="828286" class="CP">
+        <w n="299530" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֤ר</w>
+      </wg>
+      <wg n="828287" class="NegP">
+        <w n="299531" lemma="לא" partOfSpeech="nega">לֹֽא</w>
+      </wg>
+      <wg n="828288" class="VP">
+        <w n="299532" lemma="ידע" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">יָדַע֙</w>
+      </wg>
+      <wg n="828289" class="PP">
+        <w n="299533" lemma="בין" partOfSpeech="subs" number="sg" gender="m" state="c">בֵּין</w>
+        <w n="299534" lemma="ימין" partOfSpeech="subs" number="sg" gender="f" state="a">יְמִינֹ֣ו</w>
+      </wg>
+      <wg n="828290" class="PP">
+        <w n="299535" lemma="ל" partOfSpeech="prep">לִ</w>
+        <w n="299536" lemma="שׂמאל" partOfSpeech="subs" number="sg" gender="m" state="a">שְׂמֹאלֹ֔ו</w>
+      </wg>
+    </wg>
+  </sentence>
+</book>

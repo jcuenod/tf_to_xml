@@ -1,0 +1,2512 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<book id="Hag">
+  <sentence n="1216893">
+    <milestone unit="verse" id="Hag.1.1">Hag.1.1</milestone>
+    <p>בִּשְׁנַ֤ת שְׁתַּ֨יִם֙ לְדָרְיָ֣וֶשׁ הַמֶּ֔לֶךְ בַּחֹ֨דֶשׁ֙ הַשִּׁשִּׁ֔י בְּיֹ֥ום אֶחָ֖ד לַחֹ֑דֶשׁ הָיָ֨ה דְבַר־יְהוָ֜ה בְּיַד־חַגַּ֣י הַנָּבִ֗יא אֶל־זְרֻבָּבֶ֤ל בֶּן־שְׁאַלְתִּיאֵל֙ פַּחַ֣ת יְהוּדָ֔ה וְאֶל־יְהֹושֻׁ֧עַ בֶּן־יְהֹוצָדָ֛ק הַכֹּהֵ֥ן הַגָּדֹ֖ול לֵאמֹֽר׃ </p>
+    <wg n="488755" class="xQtX">
+      <wg n="831347" class="PP">
+        <w n="304115" lemma="ב" partOfSpeech="prep">בִּ</w>
+        <w n="304116" lemma="שׁנה" partOfSpeech="subs" number="sg" gender="f" state="c">שְׁנַ֤ת</w>
+        <w n="304117" lemma="שׁנים" partOfSpeech="subs" number="du" gender="f" state="a">שְׁתַּ֨יִם֙</w>
+        <w n="304118" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304119" lemma="דריושׁ" partOfSpeech="nmpr" number="sg" gender="m" state="a">דָרְיָ֣וֶשׁ</w>
+        <w n="304120" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304121" lemma="מלך" partOfSpeech="subs" number="sg" gender="m" state="a">מֶּ֔לֶךְ</w>
+        <w n="304122" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="304123" lemma="ה" partOfSpeech="art"></w>
+        <w n="304124" lemma="חדשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">חֹ֨דֶשׁ֙</w>
+        <w n="304125" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304126" lemma="שׁשׁי" partOfSpeech="adjv" number="sg" gender="m" state="a">שִּׁשִּׁ֔י</w>
+        <w n="304127" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304128" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="a">יֹ֥ום</w>
+        <w n="304129" lemma="אחד" partOfSpeech="subs" number="sg" state="a">אֶחָ֖ד</w>
+        <w n="304130" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="304131" lemma="ה" partOfSpeech="art"></w>
+        <w n="304132" lemma="חדשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">חֹ֑דֶשׁ</w>
+      </wg>
+      <wg n="831348" class="VP">
+        <w n="304133" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">הָיָ֨ה</w>
+      </wg>
+      <wg n="831349" class="NP">
+        <w n="304134" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="c">דְבַר</w>
+        <w n="304135" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֜ה</w>
+      </wg>
+      <wg n="831350" class="PP">
+        <w n="304136" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304137" lemma="יד" partOfSpeech="subs" number="sg" state="c">יַד</w>
+        <w n="304138" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֣י</w>
+        <w n="304139" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304140" lemma="נביא" partOfSpeech="subs" number="sg" gender="m" state="a">נָּבִ֗יא</w>
+      </wg>
+      <wg n="831351" class="PP">
+        <w n="304141" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304142" lemma="זרבבל" partOfSpeech="nmpr" number="sg" gender="m" state="a">זְרֻבָּבֶ֤ל</w>
+        <w n="304143" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304144" lemma="שׁאלתיאל" partOfSpeech="nmpr" number="sg" gender="m" state="a">שְׁאַלְתִּיאֵל֙</w>
+        <w n="304145" lemma="פחה" partOfSpeech="subs" number="sg" gender="m" state="c">פַּחַ֣ת</w>
+        <w n="304146" lemma="יהודה" partOfSpeech="nmpr" number="sg" state="a">יְהוּדָ֔ה</w>
+        <w n="304147" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304148" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304149" lemma="יהושׁע" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹושֻׁ֧עַ</w>
+        <w n="304150" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304151" lemma="יהוצדק" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹוצָדָ֛ק</w>
+        <w n="304152" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304153" lemma="כהן" partOfSpeech="subs" number="sg" gender="m" state="a">כֹּהֵ֥ן</w>
+        <w n="304154" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304155" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֖ול</w>
+      </wg>
+    </wg>
+    <wg n="488756" class="InfC" role="Adju">
+      <wg n="831352" class="VP">
+        <w n="304156" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304157" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216894">
+    <milestone unit="verse" id="Hag.1.2">Hag.1.2</milestone>
+    <p>כֹּ֥ה אָמַ֛ר יְהוָ֥ה צְבָאֹ֖ות לֵאמֹ֑ר </p>
+    <wg n="488757" class="xQtX">
+      <wg n="831353" class="AdvP">
+        <w n="304158" lemma="כה" partOfSpeech="advb">כֹּ֥ה</w>
+      </wg>
+      <wg n="831354" class="VP">
+        <w n="304159" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָמַ֛ר</w>
+      </wg>
+      <wg n="831355" class="PrNP">
+        <w n="304160" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֥ה</w>
+        <w n="304161" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֖ות</w>
+      </wg>
+    </wg>
+    <wg n="488758" class="InfC" role="Adju">
+      <wg n="831356" class="VP">
+        <w n="304162" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304163" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹ֑ר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216895">
+    <milestone unit="verse" id="Hag.1.2">Hag.1.2</milestone>
+    <p>הָעָ֤ם הַזֶּה֙ אָֽמְר֔וּ </p>
+    <wg n="488759" class="XQtl">
+      <wg n="831357" class="NP">
+        <w n="304164" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304165" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="a">עָ֤ם</w>
+        <w n="304166" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304167" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּה֙</w>
+      </wg>
+      <wg n="831358" class="VP">
+        <w n="304168" lemma="אמר" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">אָֽמְר֔וּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216896">
+    <milestone unit="verse" id="Hag.1.2">Hag.1.2</milestone>
+    <p>לֹ֥א עֶת־בֹּ֛א עֶת־בֵּ֥ית יְהוָ֖ה לְהִבָּנֹֽות׃ פ </p>
+    <wg n="488760" class="NmCl">
+      <wg n="831359" class="NegP">
+        <w n="304169" lemma="לא" partOfSpeech="nega">לֹ֥א</w>
+      </wg>
+      <wg n="831360" class="NP">
+        <w n="304170" lemma="עת" partOfSpeech="subs" number="sg" state="c">עֶת</w>
+        <w n="304171" lemma="בוא" partOfSpeech="verb" tense="infc" stem="qal" state="a">בֹּ֛א</w>
+      </wg>
+      <wg n="831361" class="NP">
+        <w n="304172" lemma="עת" partOfSpeech="subs" number="sg" state="c">עֶת</w>
+        <w n="304173" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="c">בֵּ֥ית</w>
+        <w n="304174" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֖ה</w>
+      </wg>
+    </wg>
+    <wg n="488761" class="InfC" role="Adju">
+      <wg n="831362" class="VP">
+        <w n="304175" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304176" lemma="בנה" partOfSpeech="verb" tense="infc" stem="nif" state="a">הִבָּנֹֽות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216897">
+    <milestone unit="verse" id="Hag.1.3">Hag.1.3</milestone>
+    <p>וַֽיְהִי֙ דְּבַר־יְהוָ֔ה בְּיַד־חַגַּ֥י הַנָּבִ֖יא לֵאמֹֽר׃ </p>
+    <wg n="488762" class="WayX">
+      <wg n="831363" class="CP">
+        <w n="304177" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="831364" class="VP">
+        <w n="304178" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יְהִי֙</w>
+      </wg>
+      <wg n="831365" class="NP">
+        <w n="304179" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="c">דְּבַר</w>
+        <w n="304180" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+      <wg n="831366" class="PP">
+        <w n="304181" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304182" lemma="יד" partOfSpeech="subs" number="sg" state="c">יַד</w>
+        <w n="304183" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֥י</w>
+        <w n="304184" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304185" lemma="נביא" partOfSpeech="subs" number="sg" gender="m" state="a">נָּבִ֖יא</w>
+      </wg>
+    </wg>
+    <wg n="488763" class="InfC" role="Adju">
+      <wg n="831367" class="VP">
+        <w n="304186" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304187" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216898">
+    <milestone unit="verse" id="Hag.1.4">Hag.1.4</milestone>
+    <p>הַעֵ֤ת לָכֶם֙ אַתֶּ֔ם לָשֶׁ֖בֶת בְּבָתֵּיכֶ֣ם סְפוּנִ֑ים </p>
+    <wg n="488764" class="NmCl">
+      <wg n="831368" class="InrP">
+        <w n="304188" lemma="ה" partOfSpeech="inrg">הַ</w>
+      </wg>
+      <wg n="831369" class="NP">
+        <w n="304189" lemma="עת" partOfSpeech="subs" number="sg" state="a">עֵ֤ת</w>
+      </wg>
+      <wg n="831370" class="PP">
+        <w n="304190" lemma="ל" partOfSpeech="prep">לָכֶם֙</w>
+        <w n="304191" lemma="אתם" partOfSpeech="prps" person="2" number="pl" gender="m">אַתֶּ֔ם</w>
+      </wg>
+    </wg>
+    <wg n="488765" class="InfC" role="Adju">
+      <wg n="831371" class="VP">
+        <w n="304192" lemma="ל" partOfSpeech="prep">לָ</w>
+        <w n="304193" lemma="ישׁב" partOfSpeech="verb" tense="infc" stem="qal" state="a">שֶׁ֖בֶת</w>
+      </wg>
+      <wg n="831372" class="PP">
+        <w n="304194" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304195" lemma="בית" partOfSpeech="subs" number="pl" gender="m" state="a">בָתֵּיכֶ֣ם</w>
+        <w n="304196" lemma="ספן" partOfSpeech="verb" number="pl" gender="m" tense="ptcp" stem="qal" state="a">סְפוּנִ֑ים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216899">
+    <milestone unit="verse" id="Hag.1.4">Hag.1.4</milestone>
+    <p>וְהַבַּ֥יִת הַזֶּ֖ה חָרֵֽב׃ </p>
+    <wg n="488766" class="AjCl">
+      <wg n="831373" class="CP">
+        <w n="304197" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831374" class="NP">
+        <w n="304198" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304199" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="a">בַּ֥יִת</w>
+        <w n="304200" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304201" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֖ה</w>
+      </wg>
+      <wg n="831375" class="AdjP">
+        <w n="304202" lemma="חרב" partOfSpeech="adjv" number="sg" gender="m" state="a">חָרֵֽב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216900">
+    <milestone unit="verse" id="Hag.1.5">Hag.1.5</milestone>
+    <p>וְעַתָּ֕ה </p>
+    <wg n="488767" class="MSyn">
+      <wg n="831376" class="CP">
+        <w n="304203" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831377" class="AdvP">
+        <w n="304204" lemma="עתה" partOfSpeech="advb">עַתָּ֕ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216901">
+    <milestone unit="verse" id="Hag.1.5">Hag.1.5</milestone>
+    <p>כֹּ֥ה אָמַ֖ר יְהוָ֣ה צְבָאֹ֑ות </p>
+    <wg n="488768" class="xQtX">
+      <wg n="831378" class="AdvP">
+        <w n="304205" lemma="כה" partOfSpeech="advb">כֹּ֥ה</w>
+      </wg>
+      <wg n="831379" class="VP">
+        <w n="304206" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָמַ֖ר</w>
+      </wg>
+      <wg n="831380" class="PrNP">
+        <w n="304207" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304208" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֑ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216902">
+    <milestone unit="verse" id="Hag.1.5">Hag.1.5</milestone>
+    <p>שִׂ֥ימוּ לְבַבְכֶ֖ם עַל־דַּרְכֵיכֶֽם׃ </p>
+    <wg n="488769" class="ZIm0">
+      <wg n="831381" class="VP">
+        <w n="304209" lemma="שׂים" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">שִׂ֥ימוּ</w>
+      </wg>
+      <wg n="831382" class="NP">
+        <w n="304210" lemma="לבב" partOfSpeech="subs" number="sg" gender="m" state="a">לְבַבְכֶ֖ם</w>
+      </wg>
+      <wg n="831383" class="PP">
+        <w n="304211" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304212" lemma="דרך" partOfSpeech="subs" number="pl" gender="m" state="a">דַּרְכֵיכֶֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216903">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>זְרַעְתֶּ֨ם הַרְבֵּ֜ה </p>
+    <wg n="488770" class="ZQt0">
+      <wg n="831384" class="VP">
+        <w n="304213" lemma="זרע" partOfSpeech="verb" person="2" number="pl" gender="m" tense="perf" stem="qal">זְרַעְתֶּ֨ם</w>
+      </wg>
+      <wg n="831385" class="AdvP">
+        <w n="304214" lemma="רבה" partOfSpeech="verb" tense="infa" stem="hif" state="a">הַרְבֵּ֜ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216904">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>וְהָבֵ֣א מְעָ֗ט </p>
+    <wg n="488771" class="InfA">
+      <wg n="831386" class="CP">
+        <w n="304215" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831387" class="VP">
+        <w n="304216" lemma="בוא" partOfSpeech="verb" tense="infa" stem="hif" state="a">הָבֵ֣א</w>
+      </wg>
+      <wg n="831388" class="NP">
+        <w n="304217" lemma="מעט" partOfSpeech="subs" number="sg" gender="m" state="a">מְעָ֗ט</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216905">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>אָכֹ֤ול </p>
+    <wg n="488772" class="InfA">
+      <wg n="831389" class="VP">
+        <w n="304218" lemma="אכל" partOfSpeech="verb" tense="infa" stem="qal" state="a">אָכֹ֤ול</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216906">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>וְאֵין־לְשָׂבְעָה֙ </p>
+    <wg n="488773" class="NmCl">
+      <wg n="831390" class="CP">
+        <w n="304219" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831391" class="NegP">
+        <w n="304220" lemma="אין" partOfSpeech="subs" number="sg" gender="m" state="c">אֵין</w>
+      </wg>
+      <wg n="831392" class="PP">
+        <w n="304221" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304222" lemma="שׂבעה" partOfSpeech="subs" number="sg" gender="f" state="a">שָׂבְעָה֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216907">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>שָׁתֹ֣ו </p>
+    <wg n="488774" class="InfA">
+      <wg n="831393" class="VP">
+        <w n="304223" lemma="שׁתה" partOfSpeech="verb" tense="infa" stem="qal" state="a">שָׁתֹ֣ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216908">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>וְאֵין־לְשָׁכְרָ֔ה </p>
+    <wg n="488775" class="NmCl">
+      <wg n="831394" class="CP">
+        <w n="304224" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831395" class="NegP">
+        <w n="304225" lemma="אין" partOfSpeech="subs" number="sg" gender="m" state="c">אֵין</w>
+      </wg>
+    </wg>
+    <wg n="488776" class="InfC" role="Adju">
+      <wg n="831396" class="VP">
+        <w n="304226" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304227" lemma="שׁכר" partOfSpeech="verb" tense="infc" stem="qal" state="a">שָׁכְרָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216909">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>לָבֹ֖ושׁ </p>
+    <wg n="488777" class="InfA">
+      <wg n="831397" class="VP">
+        <w n="304228" lemma="לבשׁ" partOfSpeech="verb" tense="infa" stem="qal" state="a">לָבֹ֖ושׁ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216910">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>וְאֵין־לְחֹ֣ם לֹ֑ו </p>
+    <wg n="488778" class="NmCl">
+      <wg n="831398" class="CP">
+        <w n="304229" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831399" class="NegP">
+        <w n="304230" lemma="אין" partOfSpeech="subs" number="sg" gender="m" state="c">אֵין</w>
+      </wg>
+    </wg>
+    <wg n="488779" class="InfC" role="Adju">
+      <wg n="831400" class="VP">
+        <w n="304231" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304232" lemma="חמם" partOfSpeech="verb" tense="infc" stem="qal" state="a">חֹ֣ם</w>
+      </wg>
+      <wg n="831401" class="PP">
+        <w n="304233" lemma="ל" partOfSpeech="prep">לֹ֑ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216911">
+    <milestone unit="verse" id="Hag.1.6">Hag.1.6</milestone>
+    <p>וְהַ֨מִּשְׂתַּכֵּ֔ר מִשְׂתַּכֵּ֖ר אֶל־צְרֹ֥ור נָקֽוּב׃ פ </p>
+    <wg n="488780" class="Ptcp">
+      <wg n="831402" class="CP">
+        <w n="304234" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831403" class="NP">
+        <w n="304235" lemma="ה" partOfSpeech="art">הַ֨</w>
+        <w n="304236" lemma="שׂכר" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="hit" state="a">מִּשְׂתַּכֵּ֔ר</w>
+      </wg>
+      <wg n="831404" class="VP">
+        <w n="304237" lemma="שׂכר" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="hit" state="a">מִשְׂתַּכֵּ֖ר</w>
+      </wg>
+      <wg n="831405" class="PP">
+        <w n="304238" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304239" lemma="צרור" partOfSpeech="subs" number="sg" gender="m" state="a">צְרֹ֥ור</w>
+        <w n="304240" lemma="נקב" partOfSpeech="verb" number="sg" gender="m" tense="ptcp" stem="qal" state="a">נָקֽוּב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216912">
+    <milestone unit="verse" id="Hag.1.7">Hag.1.7</milestone>
+    <p>כֹּ֥ה אָמַ֖ר יְהוָ֣ה צְבָאֹ֑ות </p>
+    <wg n="488781" class="xQtX">
+      <wg n="831406" class="AdvP">
+        <w n="304241" lemma="כה" partOfSpeech="advb">כֹּ֥ה</w>
+      </wg>
+      <wg n="831407" class="VP">
+        <w n="304242" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָמַ֖ר</w>
+      </wg>
+      <wg n="831408" class="PrNP">
+        <w n="304243" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304244" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֑ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216913">
+    <milestone unit="verse" id="Hag.1.7">Hag.1.7</milestone>
+    <p>שִׂ֥ימוּ לְבַבְכֶ֖ם עַל־דַּרְכֵיכֶֽם׃ </p>
+    <wg n="488782" class="ZIm0">
+      <wg n="831409" class="VP">
+        <w n="304245" lemma="שׂים" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">שִׂ֥ימוּ</w>
+      </wg>
+      <wg n="831410" class="NP">
+        <w n="304246" lemma="לבב" partOfSpeech="subs" number="sg" gender="m" state="a">לְבַבְכֶ֖ם</w>
+      </wg>
+      <wg n="831411" class="PP">
+        <w n="304247" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304248" lemma="דרך" partOfSpeech="subs" number="pl" gender="m" state="a">דַּרְכֵיכֶֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216914">
+    <milestone unit="verse" id="Hag.1.8">Hag.1.8</milestone>
+    <p>עֲל֥וּ הָהָ֛ר </p>
+    <wg n="488783" class="ZIm0">
+      <wg n="831412" class="VP">
+        <w n="304249" lemma="עלה" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">עֲל֥וּ</w>
+      </wg>
+      <wg n="831413" class="NP">
+        <w n="304250" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304251" lemma="הר" partOfSpeech="subs" number="sg" gender="m" state="a">הָ֛ר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216915">
+    <milestone unit="verse" id="Hag.1.8">Hag.1.8</milestone>
+    <p>וַהֲבֵאתֶ֥ם עֵ֖ץ </p>
+    <wg n="488784" class="WQt0">
+      <wg n="831414" class="CP">
+        <w n="304252" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831415" class="VP">
+        <w n="304253" lemma="בוא" partOfSpeech="verb" person="2" number="pl" gender="m" tense="perf" stem="hif">הֲבֵאתֶ֥ם</w>
+      </wg>
+      <wg n="831416" class="NP">
+        <w n="304254" lemma="עץ" partOfSpeech="subs" number="sg" gender="m" state="a">עֵ֖ץ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216916">
+    <milestone unit="verse" id="Hag.1.8">Hag.1.8</milestone>
+    <p>וּבְנ֣וּ הַבָּ֑יִת </p>
+    <wg n="488785" class="WIm0">
+      <wg n="831417" class="CP">
+        <w n="304255" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="831418" class="VP">
+        <w n="304256" lemma="בנה" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">בְנ֣וּ</w>
+      </wg>
+      <wg n="831419" class="NP">
+        <w n="304257" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304258" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="a">בָּ֑יִת</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216917">
+    <milestone unit="verse" id="Hag.1.8">Hag.1.8</milestone>
+    <p>וְאֶרְצֶה־בֹּ֥ו </p>
+    <wg n="488786" class="WYq0">
+      <wg n="831420" class="CP">
+        <w n="304259" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831421" class="VP">
+        <w n="304260" lemma="רצה" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="qal">אֶרְצֶה</w>
+      </wg>
+      <wg n="831422" class="PP">
+        <w n="304261" lemma="ב" partOfSpeech="prep">בֹּ֥ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216918">
+    <milestone unit="verse" id="Hag.1.8">Hag.1.8</milestone>
+    <p>וְאֶכָּבְדָ֖ה </p>
+    <wg n="488787" class="WYq0">
+      <wg n="831423" class="CP">
+        <w n="304262" lemma="ו" partOfSpeech="conj">ו</w>
+      </wg>
+      <wg n="831424" class="VP">
+        <w n="304263" lemma="כבד" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="nif">אכבד</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216919">
+    <milestone unit="verse" id="Hag.1.8">Hag.1.8</milestone>
+    <p>אָמַ֥ר יְהוָֽה׃ </p>
+    <wg n="488788" class="ZQtX">
+      <wg n="831425" class="VP">
+        <w n="304264" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָמַ֥ר</w>
+      </wg>
+      <wg n="831426" class="PrNP">
+        <w n="304265" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216920">
+    <milestone unit="verse" id="Hag.1.9">Hag.1.9</milestone>
+    <p>פָּנֹ֤ה אֶל־הַרְבֵּה֙ </p>
+    <wg n="488789" class="InfA">
+      <wg n="831427" class="VP">
+        <w n="304266" lemma="פנה" partOfSpeech="verb" tense="infa" stem="qal" state="a">פָּנֹ֤ה</w>
+      </wg>
+    </wg>
+    <wg n="488790" class="InfA" role="Cmpl">
+      <wg n="831428" class="VP">
+        <w n="304267" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304268" lemma="רבה" partOfSpeech="verb" tense="infa" stem="hif" state="a">הַרְבֵּה֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216921">
+    <milestone unit="verse" id="Hag.1.9">Hag.1.9</milestone>
+    <p>וְהִנֵּ֣ה לִמְעָ֔ט </p>
+    <wg n="488791" class="NmCl">
+      <wg n="831429" class="CP">
+        <w n="304269" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831430" class="InjP">
+        <w n="304270" lemma="הנה" partOfSpeech="intj">הִנֵּ֣ה</w>
+      </wg>
+      <wg n="831431" class="PP">
+        <w n="304271" lemma="ל" partOfSpeech="prep">לִ</w>
+        <w n="304272" lemma="מעט" partOfSpeech="subs" number="sg" gender="m" state="a">מְעָ֔ט</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216922">
+    <milestone unit="verse" id="Hag.1.9">Hag.1.9</milestone>
+    <p>וַהֲבֵאתֶ֥ם הַבַּ֖יִת </p>
+    <wg n="488792" class="WQt0">
+      <wg n="831432" class="CP">
+        <w n="304273" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831433" class="VP">
+        <w n="304274" lemma="בוא" partOfSpeech="verb" person="2" number="pl" gender="m" tense="perf" stem="hif">הֲבֵאתֶ֥ם</w>
+      </wg>
+      <wg n="831434" class="NP">
+        <w n="304275" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304276" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="a">בַּ֖יִת</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216923">
+    <milestone unit="verse" id="Hag.1.9">Hag.1.9</milestone>
+    <p>וְנָפַ֣חְתִּי בֹ֑ו </p>
+    <wg n="488793" class="WQt0">
+      <wg n="831435" class="CP">
+        <w n="304277" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831436" class="VP">
+        <w n="304278" lemma="נפח" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">נָפַ֣חְתִּי</w>
+      </wg>
+      <wg n="831437" class="PP">
+        <w n="304279" lemma="ב" partOfSpeech="prep">בֹ֑ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216924">
+    <milestone unit="verse" id="Hag.1.9">Hag.1.9</milestone>
+    <p>יַ֣עַן מֶ֗ה </p>
+    <wg n="488794" class="NmCl">
+      <wg n="831438" class="PP">
+        <w n="304280" lemma="יען" partOfSpeech="subs" number="sg" state="a">יַ֣עַן</w>
+        <w n="304281" lemma="מה" partOfSpeech="prin">מֶ֗ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216925">
+    <milestone unit="verse" id="Hag.1.9">Hag.1.9</milestone>
+    <p>נְאֻם֙ יְהוָ֣ה צְבָאֹ֔ות </p>
+    <wg n="488795" class="MSyn">
+      <wg n="831439" class="NP">
+        <w n="304282" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻם֙</w>
+        <w n="304283" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304284" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֔ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216926">
+    <milestone unit="verse" id="Hag.1.9">Hag.1.9</milestone>
+    <p>יַ֗עַן בֵּיתִי֙ אֲשֶׁר־ה֣וּא חָרֵ֔ב </p>
+    <wg n="488796" class="NmCl">
+      <wg n="831440" class="PP">
+        <w n="304285" lemma="יען" partOfSpeech="subs" number="sg" state="a">יַ֗עַן</w>
+        <w n="304286" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="a">בֵּיתִי֙</w>
+      </wg>
+    </wg>
+    <wg n="488797" class="AjCl" role="Attr">
+      <wg n="831441" class="CP">
+        <w n="304287" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁר</w>
+      </wg>
+      <wg n="831442" class="PPrP">
+        <w n="304288" lemma="הוא" partOfSpeech="prps" person="3" number="sg" gender="m">ה֣וּא</w>
+      </wg>
+      <wg n="831443" class="AdjP">
+        <w n="304289" lemma="חרב" partOfSpeech="adjv" number="sg" gender="m" state="a">חָרֵ֔ב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216927">
+    <milestone unit="verse" id="Hag.1.9">Hag.1.9</milestone>
+    <p>וְאַתֶּ֥ם רָצִ֖ים אִ֥ישׁ לְבֵיתֹֽו׃ </p>
+    <wg n="488798" class="Ptcp">
+      <wg n="831444" class="CP">
+        <w n="304290" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831445" class="PPrP">
+        <w n="304291" lemma="אתם" partOfSpeech="prps" person="2" number="pl" gender="m">אַתֶּ֥ם</w>
+      </wg>
+      <wg n="831446" class="VP">
+        <w n="304292" lemma="רוץ" partOfSpeech="verb" number="pl" gender="m" tense="ptca" stem="qal" state="a">רָצִ֖ים</w>
+      </wg>
+    </wg>
+    <wg n="488799" class="Ellp" role="Adju">
+      <wg n="831447" class="NP">
+        <w n="304293" lemma="אישׁ" partOfSpeech="subs" number="sg" gender="m" state="a">אִ֥ישׁ</w>
+      </wg>
+      <wg n="831448" class="PP">
+        <w n="304294" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304295" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="a">בֵיתֹֽו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216928">
+    <milestone unit="verse" id="Hag.1.10">Hag.1.10</milestone>
+    <p>עַל־כֵּ֣ן עֲלֵיכֶ֔ם כָּלְא֥וּ שָׁמַ֖יִם מִטָּ֑ל </p>
+    <wg n="488800" class="xQtX">
+      <wg n="831449" class="PP">
+        <w n="304296" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304297" lemma="כן" partOfSpeech="advb">כֵּ֣ן</w>
+      </wg>
+      <wg n="831450" class="PP">
+        <w n="304298" lemma="על" partOfSpeech="prep">עֲלֵיכֶ֔ם</w>
+      </wg>
+      <wg n="831451" class="VP">
+        <w n="304299" lemma="כלא" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">כָּלְא֥וּ</w>
+      </wg>
+      <wg n="831452" class="NP">
+        <w n="304300" lemma="שׁמים" partOfSpeech="subs" number="pl" gender="m" state="a">שָׁמַ֖יִם</w>
+      </wg>
+      <wg n="831453" class="PP">
+        <w n="304301" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="304302" lemma="טל" partOfSpeech="subs" number="sg" gender="m" state="a">טָּ֑ל</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216929">
+    <milestone unit="verse" id="Hag.1.10">Hag.1.10</milestone>
+    <p>וְהָאָ֖רֶץ כָּלְאָ֥ה יְבוּלָֽהּ׃ </p>
+    <wg n="488801" class="WXQt">
+      <wg n="831454" class="CP">
+        <w n="304303" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831455" class="NP">
+        <w n="304304" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304305" lemma="ארץ" partOfSpeech="subs" number="sg" state="a">אָ֖רֶץ</w>
+      </wg>
+      <wg n="831456" class="VP">
+        <w n="304306" lemma="כלא" partOfSpeech="verb" person="3" number="sg" gender="f" tense="perf" stem="qal">כָּלְאָ֥ה</w>
+      </wg>
+      <wg n="831457" class="NP">
+        <w n="304307" lemma="יבול" partOfSpeech="subs" number="sg" gender="m" state="a">יְבוּלָֽהּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216930">
+    <milestone unit="verse" id="Hag.1.11">Hag.1.11</milestone>
+    <p>וָאֶקְרָ֨א חֹ֜רֶב עַל־הָאָ֣רֶץ וְעַל־הֶהָרִ֗ים וְעַל־הַדָּגָן֙ וְעַל־הַתִּירֹ֣ושׁ וְעַל־הַיִּצְהָ֔ר וְעַ֛ל אֲשֶׁ֥ר תֹּוצִ֖יא הָאֲדָמָ֑ה וְעַל־הָֽאָדָם֙ וְעַל־הַבְּהֵמָ֔ה וְעַ֖ל כָּל־יְגִ֥יעַ כַּפָּֽיִם׃ ס </p>
+    <wg n="488802" class="Way0">
+      <wg n="831458" class="CP">
+        <w n="304308" lemma="ו" partOfSpeech="conj">וָ</w>
+      </wg>
+      <wg n="831459" class="VP">
+        <w n="304309" lemma="קרא" partOfSpeech="verb" person="1" number="sg" tense="wayq" stem="qal">אֶקְרָ֨א</w>
+      </wg>
+      <wg n="831460" class="NP">
+        <w n="304310" lemma="חרב" partOfSpeech="subs" number="sg" gender="m" state="a">חֹ֜רֶב</w>
+      </wg>
+      <wg n="831461" class="PP">
+        <w n="304311" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304312" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304313" lemma="ארץ" partOfSpeech="subs" number="sg" state="a">אָ֣רֶץ</w>
+        <w n="304314" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304315" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304316" lemma="ה" partOfSpeech="art">הֶ</w>
+        <w n="304317" lemma="הר" partOfSpeech="subs" number="pl" gender="m" state="a">הָרִ֗ים</w>
+        <w n="304318" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304319" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304320" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304321" lemma="דגן" partOfSpeech="subs" number="sg" gender="m" state="a">דָּגָן֙</w>
+        <w n="304322" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304323" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304324" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304325" lemma="תירושׁ" partOfSpeech="subs" number="sg" gender="m" state="a">תִּירֹ֣ושׁ</w>
+        <w n="304326" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304327" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304328" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304329" lemma="יצהר" partOfSpeech="subs" number="sg" gender="m" state="a">יִּצְהָ֔ר</w>
+      </wg>
+    </wg>
+    <wg n="488803" class="Ellp">
+      <wg n="831462" class="CP">
+        <w n="304330" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+    </wg>
+    <wg n="488804" class="xYqX" role="Adju">
+      <wg n="831463" class="CP">
+        <w n="304331" lemma="על" partOfSpeech="prep">עַ֛ל</w>
+        <w n="304332" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֥ר</w>
+      </wg>
+      <wg n="831464" class="VP">
+        <w n="304333" lemma="יצא" partOfSpeech="verb" person="3" number="sg" gender="f" tense="impf" stem="hif">תֹּוצִ֖יא</w>
+      </wg>
+      <wg n="831465" class="NP">
+        <w n="304334" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304335" lemma="אדמה" partOfSpeech="subs" number="sg" gender="f" state="a">אֲדָמָ֑ה</w>
+      </wg>
+    </wg>
+    <wg n="488805" class="Ellp">
+      <wg n="831466" class="CP">
+        <w n="304336" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831467" class="PP">
+        <w n="304337" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304338" lemma="ה" partOfSpeech="art">הָֽ</w>
+        <w n="304339" lemma="אדם" partOfSpeech="subs" number="sg" gender="m" state="a">אָדָם֙</w>
+        <w n="304340" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304341" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304342" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304343" lemma="בהמה" partOfSpeech="subs" number="sg" gender="f" state="a">בְּהֵמָ֔ה</w>
+        <w n="304344" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304345" lemma="על" partOfSpeech="prep">עַ֖ל</w>
+        <w n="304346" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָּל</w>
+        <w n="304347" lemma="יגיע" partOfSpeech="subs" number="sg" gender="m" state="c">יְגִ֥יעַ</w>
+        <w n="304348" lemma="כף" partOfSpeech="subs" number="du" gender="f" state="a">כַּפָּֽיִם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216931">
+    <milestone unit="verse" id="Hag.1.12">Hag.1.12</milestone>
+    <p>וַיִּשְׁמַ֣ע זְרֻבָּבֶ֣ל׀ בֶּֽן־שַׁלְתִּיאֵ֡ל וִיהֹושֻׁ֣עַ בֶּן־יְהֹוצָדָק֩ הַכֹּהֵ֨ן הַגָּדֹ֜ול וְכֹ֣ל׀ שְׁאֵרִ֣ית הָעָ֗ם בְּקֹול֙ יְהוָ֣ה אֱלֹֽהֵיהֶ֔ם וְעַל־דִּבְרֵי֙ חַגַּ֣י הַנָּבִ֔יא </p>
+    <wg n="488806" class="WayX">
+      <wg n="831468" class="CP">
+        <w n="304349" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831469" class="VP">
+        <w n="304350" lemma="שׁמע" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יִּשְׁמַ֣ע</w>
+      </wg>
+      <wg n="831470" class="PrNP">
+        <w n="304351" lemma="זרבבל" partOfSpeech="nmpr" number="sg" gender="m" state="a">זְרֻבָּבֶ֣ל</w>
+        <w n="304352" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּֽן</w>
+        <w n="304353" lemma="שׁאלתיאל" partOfSpeech="nmpr" number="sg" gender="m" state="a">שַׁלְתִּיאֵ֡ל</w>
+        <w n="304354" lemma="ו" partOfSpeech="conj">וִ</w>
+        <w n="304355" lemma="יהושׁע" partOfSpeech="nmpr" number="sg" gender="m" state="a">יהֹושֻׁ֣עַ</w>
+        <w n="304356" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304357" lemma="יהוצדק" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹוצָדָק֩</w>
+        <w n="304358" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304359" lemma="כהן" partOfSpeech="subs" number="sg" gender="m" state="a">כֹּהֵ֨ן</w>
+        <w n="304360" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304361" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֜ול</w>
+        <w n="304362" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304363" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כֹ֣ל</w>
+        <w n="304364" lemma="שׁארית" partOfSpeech="subs" number="sg" gender="f" state="c">שְׁאֵרִ֣ית</w>
+        <w n="304365" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304366" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="a">עָ֗ם</w>
+      </wg>
+      <wg n="831471" class="PP">
+        <w n="304367" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304368" lemma="קול" partOfSpeech="subs" number="sg" gender="m" state="c">קֹול֙</w>
+        <w n="304369" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304370" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹֽהֵיהֶ֔ם</w>
+        <w n="304371" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304372" lemma="על" partOfSpeech="prep">עַל</w>
+        <w n="304373" lemma="דבר" partOfSpeech="subs" number="pl" gender="m" state="c">דִּבְרֵי֙</w>
+        <w n="304374" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֣י</w>
+        <w n="304375" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304376" lemma="נביא" partOfSpeech="subs" number="sg" gender="m" state="a">נָּבִ֔יא</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216932">
+    <milestone unit="verse" id="Hag.1.12">Hag.1.12</milestone>
+    <p>כַּאֲשֶׁ֥ר שְׁלָחֹ֖ו יְהוָ֣ה אֱלֹהֵיהֶ֑ם </p>
+    <wg n="488807" class="xQtX">
+      <wg n="831472" class="CP">
+        <w n="304377" lemma="כ" partOfSpeech="prep">כַּ</w>
+        <w n="304378" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֥ר</w>
+      </wg>
+      <wg n="831473" class="VP">
+        <w n="304379" lemma="שׁלח" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">שְׁלָחֹ֖ו</w>
+      </wg>
+      <wg n="831474" class="PrNP">
+        <w n="304380" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304381" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהֵיהֶ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216933">
+    <milestone unit="verse" id="Hag.1.12">Hag.1.12</milestone>
+    <p>וַיִּֽירְא֥וּ הָעָ֖ם מִפְּנֵ֥י יְהוָֽה׃ </p>
+    <wg n="488808" class="WayX">
+      <wg n="831475" class="CP">
+        <w n="304382" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831476" class="VP">
+        <w n="304383" lemma="ירא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יִּֽירְא֥וּ</w>
+      </wg>
+      <wg n="831477" class="NP">
+        <w n="304384" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304385" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="a">עָ֖ם</w>
+      </wg>
+      <wg n="831478" class="PP">
+        <w n="304386" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="304387" lemma="פנה" partOfSpeech="subs" number="pl" gender="m" state="c">פְּנֵ֥י</w>
+        <w n="304388" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216934">
+    <milestone unit="verse" id="Hag.1.13">Hag.1.13</milestone>
+    <p>וַ֠יֹּאמֶר חַגַּ֞י מַלְאַ֧ךְ יְהוָ֛ה בְּמַלְאֲכ֥וּת יְהוָ֖ה לָעָ֣ם לֵאמֹ֑ר </p>
+    <wg n="488809" class="WayX">
+      <wg n="831479" class="CP">
+        <w n="304389" lemma="ו" partOfSpeech="conj">וַ֠</w>
+      </wg>
+      <wg n="831480" class="VP">
+        <w n="304390" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּאמֶר</w>
+      </wg>
+      <wg n="831481" class="PrNP">
+        <w n="304391" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֞י</w>
+        <w n="304392" lemma="מלאך" partOfSpeech="subs" number="sg" gender="m" state="c">מַלְאַ֧ךְ</w>
+        <w n="304393" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֛ה</w>
+      </wg>
+      <wg n="831482" class="PP">
+        <w n="304394" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304395" lemma="מלאכות" partOfSpeech="subs" number="sg" gender="f" state="c">מַלְאֲכ֥וּת</w>
+        <w n="304396" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֖ה</w>
+      </wg>
+      <wg n="831483" class="PP">
+        <w n="304397" lemma="ל" partOfSpeech="prep">לָ</w>
+        <w n="304398" lemma="ה" partOfSpeech="art"></w>
+        <w n="304399" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="a">עָ֣ם</w>
+      </wg>
+    </wg>
+    <wg n="488810" class="InfC" role="Adju">
+      <wg n="831484" class="VP">
+        <w n="304400" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304401" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹ֑ר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216935">
+    <milestone unit="verse" id="Hag.1.13">Hag.1.13</milestone>
+    <p>אֲנִ֥י אִתְּכֶ֖ם </p>
+    <wg n="488811" class="NmCl">
+      <wg n="831485" class="PPrP">
+        <w n="304402" lemma="אני" partOfSpeech="prps" person="1" number="sg">אֲנִ֥י</w>
+      </wg>
+      <wg n="831486" class="PP">
+        <w n="304403" lemma="את" partOfSpeech="prep">אִתְּכֶ֖ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216936">
+    <milestone unit="verse" id="Hag.1.13">Hag.1.13</milestone>
+    <p>נְאֻם־יְהוָֽה׃ </p>
+    <wg n="488812" class="MSyn">
+      <wg n="831487" class="NP">
+        <w n="304404" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻם</w>
+        <w n="304405" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216937">
+    <milestone unit="verse" id="Hag.1.14">Hag.1.14</milestone>
+    <p>וַיָּ֣עַר יְהוָ֡ה אֶת־רוּחַ֩ זְרֻבָּבֶ֨ל בֶּן־שַׁלְתִּיאֵ֜ל פַּחַ֣ת יְהוּדָ֗ה וְאֶת־ר֨וּחַ֙ יְהֹושֻׁ֤עַ בֶּן־יְהֹוצָדָק֙ הַכֹּהֵ֣ן הַגָּדֹ֔ול וְֽאֶת־ר֔וּחַ כֹּ֖ל שְׁאֵרִ֣ית הָעָ֑ם </p>
+    <wg n="488813" class="WayX">
+      <wg n="831488" class="CP">
+        <w n="304406" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831489" class="VP">
+        <w n="304407" lemma="עור" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="hif">יָּ֣עַר</w>
+      </wg>
+      <wg n="831490" class="PrNP">
+        <w n="304408" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֡ה</w>
+      </wg>
+      <wg n="831491" class="PP">
+        <w n="304409" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304410" lemma="רוח" partOfSpeech="subs" number="sg" state="c">רוּחַ֩</w>
+        <w n="304411" lemma="זרבבל" partOfSpeech="nmpr" number="sg" gender="m" state="a">זְרֻבָּבֶ֨ל</w>
+        <w n="304412" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304413" lemma="שׁאלתיאל" partOfSpeech="nmpr" number="sg" gender="m" state="a">שַׁלְתִּיאֵ֜ל</w>
+        <w n="304414" lemma="פחה" partOfSpeech="subs" number="sg" gender="m" state="c">פַּחַ֣ת</w>
+        <w n="304415" lemma="יהודה" partOfSpeech="nmpr" number="sg" state="a">יְהוּדָ֗ה</w>
+        <w n="304416" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304417" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304418" lemma="רוח" partOfSpeech="subs" number="sg" state="c">ר֨וּחַ֙</w>
+        <w n="304419" lemma="יהושׁע" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹושֻׁ֤עַ</w>
+        <w n="304420" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304421" lemma="יהוצדק" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹוצָדָק֙</w>
+        <w n="304422" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304423" lemma="כהן" partOfSpeech="subs" number="sg" gender="m" state="a">כֹּהֵ֣ן</w>
+        <w n="304424" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304425" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֔ול</w>
+        <w n="304426" lemma="ו" partOfSpeech="conj">וְֽ</w>
+        <w n="304427" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304428" lemma="רוח" partOfSpeech="subs" number="sg" state="c">ר֔וּחַ</w>
+        <w n="304429" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כֹּ֖ל</w>
+        <w n="304430" lemma="שׁארית" partOfSpeech="subs" number="sg" gender="f" state="c">שְׁאֵרִ֣ית</w>
+        <w n="304431" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304432" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="a">עָ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216938">
+    <milestone unit="verse" id="Hag.1.14">Hag.1.14</milestone>
+    <p>וַיָּבֹ֨אוּ֙ </p>
+    <wg n="488814" class="Way0">
+      <wg n="831492" class="CP">
+        <w n="304433" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831493" class="VP">
+        <w n="304434" lemma="בוא" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יָּבֹ֨אוּ֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216939">
+    <milestone unit="verse" id="Hag.1.14">Hag.1.14</milestone>
+    <p>וַיַּעֲשׂ֣וּ מְלָאכָ֔ה בְּבֵית־יְהוָ֥ה צְבָאֹ֖ות אֱלֹהֵיהֶֽם׃ פ בְּיֹ֨ום עֶשְׂרִ֧ים וְאַרְבָּעָ֛ה לַחֹ֖דֶשׁ בַּשִּׁשִּׁ֑י בִּשְׁנַ֥ת שְׁתַּ֖יִם לְדָרְיָ֥וֶשׁ הַמֶּֽלֶךְ׃ </p>
+    <wg n="488815" class="Way0">
+      <wg n="831494" class="CP">
+        <w n="304435" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831495" class="VP">
+        <w n="304436" lemma="עשׂה" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יַּעֲשׂ֣וּ</w>
+      </wg>
+      <wg n="831496" class="NP">
+        <w n="304437" lemma="מלאכה" partOfSpeech="subs" number="sg" gender="f" state="a">מְלָאכָ֔ה</w>
+      </wg>
+      <wg n="831497" class="PP">
+        <w n="304438" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304439" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="c">בֵית</w>
+        <w n="304440" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֥ה</w>
+        <w n="304441" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֖ות</w>
+        <w n="304442" lemma="אלהים" partOfSpeech="subs" number="pl" gender="m" state="a">אֱלֹהֵיהֶֽם</w>
+      </wg>
+    </wg>
+    <milestone unit="verse" id="Hag.1.15">Hag.1.15</milestone>
+    <wg n="488816" class="Ellp">
+      <wg n="831498" class="PP">
+        <w n="304443" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304444" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="c">יֹ֨ום</w>
+        <w n="304445" lemma="עשׂרים" partOfSpeech="subs" number="pl" gender="m" state="a">עֶשְׂרִ֧ים</w>
+        <w n="304446" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304447" lemma="ארבע" partOfSpeech="subs" number="sg" gender="f" state="a">אַרְבָּעָ֛ה</w>
+        <w n="304448" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="304449" lemma="ה" partOfSpeech="art"></w>
+        <w n="304450" lemma="חדשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">חֹ֖דֶשׁ</w>
+        <w n="304451" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="304452" lemma="ה" partOfSpeech="art"></w>
+        <w n="304453" lemma="שׁשׁי" partOfSpeech="adjv" number="sg" gender="m" state="a">שִּׁשִּׁ֑י</w>
+        <w n="304454" lemma="ב" partOfSpeech="prep">בִּ</w>
+        <w n="304455" lemma="שׁנה" partOfSpeech="subs" number="sg" gender="f" state="c">שְׁנַ֥ת</w>
+        <w n="304456" lemma="שׁנים" partOfSpeech="subs" number="du" gender="f" state="a">שְׁתַּ֖יִם</w>
+        <w n="304457" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304458" lemma="דריושׁ" partOfSpeech="nmpr" number="sg" gender="m" state="a">דָרְיָ֥וֶשׁ</w>
+        <w n="304459" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304460" lemma="מלך" partOfSpeech="subs" number="sg" gender="m" state="a">מֶּֽלֶךְ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216940">
+    <milestone unit="verse" id="Hag.2.1">Hag.2.1</milestone>
+    <p>בַּשְּׁבִיעִ֕י בְּעֶשְׂרִ֥ים וְאֶחָ֖ד לַחֹ֑דֶשׁ הָיָה֙ דְּבַר־יְהוָ֔ה בְּיַד־חַגַּ֥י הַנָּבִ֖יא לֵאמֹֽר׃ </p>
+    <wg n="488817" class="xQtX">
+      <wg n="831499" class="PP">
+        <w n="304461" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="304462" lemma="ה" partOfSpeech="art"></w>
+        <w n="304463" lemma="שׁביעי" partOfSpeech="adjv" number="sg" gender="m" state="a">שְּׁבִיעִ֕י</w>
+        <w n="304464" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304465" lemma="עשׂרים" partOfSpeech="subs" number="pl" gender="m" state="a">עֶשְׂרִ֥ים</w>
+        <w n="304466" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304467" lemma="אחד" partOfSpeech="subs" number="sg" state="a">אֶחָ֖ד</w>
+        <w n="304468" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="304469" lemma="ה" partOfSpeech="art"></w>
+        <w n="304470" lemma="חדשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">חֹ֑דֶשׁ</w>
+      </wg>
+      <wg n="831500" class="VP">
+        <w n="304471" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">הָיָה֙</w>
+      </wg>
+      <wg n="831501" class="NP">
+        <w n="304472" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="c">דְּבַר</w>
+        <w n="304473" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+      <wg n="831502" class="PP">
+        <w n="304474" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304475" lemma="יד" partOfSpeech="subs" number="sg" state="c">יַד</w>
+        <w n="304476" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֥י</w>
+        <w n="304477" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304478" lemma="נביא" partOfSpeech="subs" number="sg" gender="m" state="a">נָּבִ֖יא</w>
+      </wg>
+    </wg>
+    <wg n="488818" class="InfC" role="Adju">
+      <wg n="831503" class="VP">
+        <w n="304479" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304480" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216941">
+    <milestone unit="verse" id="Hag.2.2">Hag.2.2</milestone>
+    <p>אֱמָר־נָ֗א אֶל־זְרֻבָּבֶ֤ל בֶּן־שַׁלְתִּיאֵל֙ פַּחַ֣ת יְהוּדָ֔ה וְאֶל־יְהֹושֻׁ֥עַ בֶּן־יְהֹוצָדָ֖ק הַכֹּהֵ֣ן הַגָּדֹ֑ול וְאֶל־שְׁאֵרִ֥ית הָעָ֖ם לֵאמֹֽר׃ </p>
+    <wg n="488819" class="ZIm0">
+      <wg n="831504" class="VP">
+        <w n="304481" lemma="אמר" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">אֱמָר</w>
+      </wg>
+      <wg n="831505" class="InjP">
+        <w n="304482" lemma="נא" partOfSpeech="intj">נָ֗א</w>
+      </wg>
+      <wg n="831506" class="PP">
+        <w n="304483" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304484" lemma="זרבבל" partOfSpeech="nmpr" number="sg" gender="m" state="a">זְרֻבָּבֶ֤ל</w>
+        <w n="304485" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304486" lemma="שׁאלתיאל" partOfSpeech="nmpr" number="sg" gender="m" state="a">שַׁלְתִּיאֵל֙</w>
+        <w n="304487" lemma="פחה" partOfSpeech="subs" number="sg" gender="m" state="c">פַּחַ֣ת</w>
+        <w n="304488" lemma="יהודה" partOfSpeech="nmpr" number="sg" state="a">יְהוּדָ֔ה</w>
+        <w n="304489" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304490" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304491" lemma="יהושׁע" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹושֻׁ֥עַ</w>
+        <w n="304492" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304493" lemma="יהוצדק" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹוצָדָ֖ק</w>
+        <w n="304494" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304495" lemma="כהן" partOfSpeech="subs" number="sg" gender="m" state="a">כֹּהֵ֣ן</w>
+        <w n="304496" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304497" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֑ול</w>
+        <w n="304498" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304499" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304500" lemma="שׁארית" partOfSpeech="subs" number="sg" gender="f" state="c">שְׁאֵרִ֥ית</w>
+        <w n="304501" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304502" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="a">עָ֖ם</w>
+      </wg>
+    </wg>
+    <wg n="488820" class="InfC" role="Adju">
+      <wg n="831507" class="VP">
+        <w n="304503" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304504" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216942">
+    <milestone unit="verse" id="Hag.2.3">Hag.2.3</milestone>
+    <p>מִ֤י בָכֶם֙ הַנִּשְׁאָ֔ר אֲשֶׁ֤ר רָאָה֙ אֶת־הַבַּ֣יִת הַזֶּ֔ה בִּכְבֹודֹ֖ו הָרִאשֹׁ֑ון </p>
+    <wg n="488821" class="NmCl">
+      <wg n="831508" class="IPrP">
+        <w n="304505" lemma="מי" partOfSpeech="prin">מִ֤י</w>
+        <w n="304506" lemma="ב" partOfSpeech="prep">בָכֶם֙</w>
+      </wg>
+      <wg n="831509" class="NP">
+        <w n="304507" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304508" lemma="שׁאר" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="nif" state="a">נִּשְׁאָ֔ר</w>
+      </wg>
+    </wg>
+    <wg n="488822" class="xQt0" role="Attr">
+      <wg n="831510" class="CP">
+        <w n="304509" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֤ר</w>
+      </wg>
+      <wg n="831511" class="VP">
+        <w n="304510" lemma="ראה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">רָאָה֙</w>
+      </wg>
+      <wg n="831512" class="PP">
+        <w n="304511" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304512" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304513" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="a">בַּ֣יִת</w>
+        <w n="304514" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304515" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֔ה</w>
+      </wg>
+      <wg n="831513" class="PP">
+        <w n="304516" lemma="ב" partOfSpeech="prep">בִּ</w>
+        <w n="304517" lemma="כבוד" partOfSpeech="subs" number="sg" state="a">כְבֹודֹ֖ו</w>
+        <w n="304518" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304519" lemma="ראשׁון" partOfSpeech="adjv" number="sg" gender="m" state="a">רִאשֹׁ֑ון</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216943">
+    <milestone unit="verse" id="Hag.2.3">Hag.2.3</milestone>
+    <p>וּמָ֨ה אַתֶּ֜ם רֹאִ֤ים אֹתֹו֙ עַ֔תָּה </p>
+    <wg n="488823" class="Ptcp">
+      <wg n="831514" class="CP">
+        <w n="304520" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="831515" class="IPrP">
+        <w n="304521" lemma="מה" partOfSpeech="prin">מָ֨ה</w>
+      </wg>
+      <wg n="831516" class="PPrP">
+        <w n="304522" lemma="אתם" partOfSpeech="prps" person="2" number="pl" gender="m">אַתֶּ֜ם</w>
+      </wg>
+      <wg n="831517" class="VP">
+        <w n="304523" lemma="ראה" partOfSpeech="verb" number="pl" gender="m" tense="ptca" stem="qal" state="a">רֹאִ֤ים</w>
+      </wg>
+      <wg n="831518" class="PP">
+        <w n="304524" lemma="את" partOfSpeech="prep">אֹתֹו֙</w>
+      </wg>
+      <wg n="831519" class="AdvP">
+        <w n="304525" lemma="עתה" partOfSpeech="advb">עַ֔תָּה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216944">
+    <milestone unit="verse" id="Hag.2.3">Hag.2.3</milestone>
+    <p>הֲלֹ֥וא כָמֹ֛הוּ כְּאַ֖יִן בְּעֵינֵיכֶֽם׃ </p>
+    <wg n="488824" class="NmCl">
+      <wg n="831520" class="InrP">
+        <w n="304526" lemma="ה" partOfSpeech="inrg">הֲ</w>
+      </wg>
+      <wg n="831521" class="NegP">
+        <w n="304527" lemma="לא" partOfSpeech="nega">לֹ֥וא</w>
+      </wg>
+      <wg n="831522" class="PP">
+        <w n="304528" lemma="כמו" partOfSpeech="prep">כָמֹ֛הוּ</w>
+      </wg>
+      <wg n="831523" class="PP">
+        <w n="304529" lemma="כ" partOfSpeech="prep">כְּ</w>
+        <w n="304530" lemma="אין" partOfSpeech="subs" number="sg" gender="m" state="a">אַ֖יִן</w>
+      </wg>
+      <wg n="831524" class="PP">
+        <w n="304531" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304532" lemma="עין" partOfSpeech="subs" number="du" gender="f" state="a">עֵינֵיכֶֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216945">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>וְעַתָּ֣ה </p>
+    <wg n="488825" class="MSyn">
+      <wg n="831525" class="CP">
+        <w n="304533" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831526" class="AdvP">
+        <w n="304534" lemma="עתה" partOfSpeech="advb">עַתָּ֣ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216946">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>חֲזַ֣ק זְרֻבָּבֶ֣ל׀ </p>
+    <wg n="488826" class="ZIm0">
+      <wg n="831527" class="VP">
+        <w n="304535" lemma="חזק" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">חֲזַ֣ק</w>
+      </wg>
+    </wg>
+    <wg n="488827" class="Voct">
+      <wg n="831528" class="PrNP">
+        <w n="304536" lemma="זרבבל" partOfSpeech="nmpr" number="sg" gender="m" state="a">זְרֻבָּבֶ֣ל</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216947">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>נְאֻם־יְהוָ֡ה </p>
+    <wg n="488828" class="MSyn">
+      <wg n="831529" class="NP">
+        <w n="304537" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻם</w>
+        <w n="304538" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֡ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216948">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>וַחֲזַ֣ק יְהֹושֻׁ֣עַ בֶּן־יְהֹוצָדָק֩ הַכֹּהֵ֨ן הַגָּדֹ֜ול </p>
+    <wg n="488829" class="WIm0">
+      <wg n="831530" class="CP">
+        <w n="304539" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831531" class="VP">
+        <w n="304540" lemma="חזק" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">חֲזַ֣ק</w>
+      </wg>
+    </wg>
+    <wg n="488830" class="Voct">
+      <wg n="831532" class="PrNP">
+        <w n="304541" lemma="יהושׁע" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹושֻׁ֣עַ</w>
+        <w n="304542" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304543" lemma="יהוצדק" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהֹוצָדָק֩</w>
+        <w n="304544" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304545" lemma="כהן" partOfSpeech="subs" number="sg" gender="m" state="a">כֹּהֵ֨ן</w>
+        <w n="304546" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304547" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֜ול</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216949">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>וַחֲזַ֨ק כָּל־עַ֥ם הָאָ֛רֶץ </p>
+    <wg n="488831" class="WIm0">
+      <wg n="831533" class="CP">
+        <w n="304548" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831534" class="VP">
+        <w n="304549" lemma="חזק" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">חֲזַ֨ק</w>
+      </wg>
+    </wg>
+    <wg n="488832" class="Voct">
+      <wg n="831535" class="NP">
+        <w n="304550" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָּל</w>
+        <w n="304551" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="c">עַ֥ם</w>
+        <w n="304552" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304553" lemma="ארץ" partOfSpeech="subs" number="sg" state="a">אָ֛רֶץ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216950">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>נְאֻם־יְהוָ֖ה </p>
+    <wg n="488833" class="MSyn">
+      <wg n="831536" class="NP">
+        <w n="304554" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻם</w>
+        <w n="304555" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֖ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216951">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>וַֽעֲשׂ֑וּ אֶֽת־הַדָּבָ֞ר אֲשֶׁר־כָּרַ֤תִּי אִתְּכֶם֙ בְּצֵאתְכֶ֣ם מִמִּצְרַ֔יִם וְרוּחִ֖י עֹמֶ֣דֶת בְּתֹוכְכֶ֑ם </p>
+    <wg n="488834" class="WIm0">
+      <wg n="831537" class="CP">
+        <w n="304556" lemma="ו" partOfSpeech="conj">וַֽ</w>
+      </wg>
+      <wg n="831538" class="VP">
+        <w n="304557" lemma="עשׂה" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">עֲשׂ֑וּ</w>
+      </wg>
+      <wg n="831543" class="PP">
+        <w n="304564" lemma="את" partOfSpeech="prep">אֶֽת</w>
+        <w n="304565" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304566" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="a">דָּבָ֞ר</w>
+      </wg>
+    </wg>
+    <milestone unit="verse" id="Hag.2.5">Hag.2.5</milestone>
+    <wg n="488837" class="xQt0" role="Attr">
+      <wg n="831544" class="CP">
+        <w n="304567" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁר</w>
+      </wg>
+      <wg n="831545" class="VP">
+        <w n="304568" lemma="כרת" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">כָּרַ֤תִּי</w>
+      </wg>
+      <wg n="831546" class="PP">
+        <w n="304569" lemma="את" partOfSpeech="prep">אִתְּכֶם֙</w>
+      </wg>
+    </wg>
+    <wg n="488838" class="InfC" role="Adju">
+      <wg n="831547" class="VP">
+        <w n="304570" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304571" lemma="יצא" partOfSpeech="verb" tense="infc" stem="qal" state="a">צֵאתְכֶ֣ם</w>
+      </wg>
+      <wg n="831548" class="PP">
+        <w n="304572" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="304573" lemma="מצרים" partOfSpeech="nmpr" number="sg" state="a">מִּצְרַ֔יִם</w>
+      </wg>
+    </wg>
+    <wg n="488839" class="Ptcp" role="Coor">
+      <wg n="831549" class="CP">
+        <w n="304574" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831550" class="NP">
+        <w n="304575" lemma="רוח" partOfSpeech="subs" number="sg" state="a">רוּחִ֖י</w>
+      </wg>
+      <wg n="831551" class="VP">
+        <w n="304576" lemma="עמד" partOfSpeech="verb" number="sg" gender="f" tense="ptca" stem="qal" state="a">עֹמֶ֣דֶת</w>
+      </wg>
+      <wg n="831552" class="PP">
+        <w n="304577" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304578" lemma="תוך" partOfSpeech="subs" number="sg" gender="m" state="a">תֹוכְכֶ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216952">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>כִּֽי־אֲנִ֣י אִתְּכֶ֔ם </p>
+    <wg n="488835" class="NmCl">
+      <wg n="831539" class="CP">
+        <w n="304558" lemma="כי" partOfSpeech="conj">כִּֽי</w>
+      </wg>
+      <wg n="831540" class="PPrP">
+        <w n="304559" lemma="אני" partOfSpeech="prps" person="1" number="sg">אֲנִ֣י</w>
+      </wg>
+      <wg n="831541" class="PP">
+        <w n="304560" lemma="את" partOfSpeech="prep">אִתְּכֶ֔ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216953">
+    <milestone unit="verse" id="Hag.2.4">Hag.2.4</milestone>
+    <p>נְאֻ֖ם יְהוָ֥ה צְבָאֹֽות׃ </p>
+    <wg n="488836" class="MSyn">
+      <wg n="831542" class="NP">
+        <w n="304561" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻ֖ם</w>
+        <w n="304562" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֥ה</w>
+        <w n="304563" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹֽות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216954">
+    <milestone unit="verse" id="Hag.2.5">Hag.2.5</milestone>
+    <p>אַל־תִּירָֽאוּ׃ ס </p>
+    <wg n="488840" class="xYq0">
+      <wg n="831553" class="NegP">
+        <w n="304579" lemma="אל" partOfSpeech="nega">אַל</w>
+      </wg>
+      <wg n="831554" class="VP">
+        <w n="304580" lemma="ירא" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impf" stem="qal">תִּירָֽאוּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216955">
+    <milestone unit="verse" id="Hag.2.6">Hag.2.6</milestone>
+    <p>כִּ֣י כֹ֤ה אָמַר֙ יְהוָ֣ה צְבָאֹ֔ות </p>
+    <wg n="488841" class="xQtX">
+      <wg n="831555" class="CP">
+        <w n="304581" lemma="כי" partOfSpeech="conj">כִּ֣י</w>
+      </wg>
+      <wg n="831556" class="AdvP">
+        <w n="304582" lemma="כה" partOfSpeech="advb">כֹ֤ה</w>
+      </wg>
+      <wg n="831557" class="VP">
+        <w n="304583" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָמַר֙</w>
+      </wg>
+      <wg n="831558" class="PrNP">
+        <w n="304584" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304585" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֔ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216956">
+    <milestone unit="verse" id="Hag.2.6">Hag.2.6</milestone>
+    <p>עֹ֥וד אַחַ֖ת מְעַ֣ט הִ֑יא </p>
+    <wg n="488842" class="NmCl">
+      <wg n="831559" class="AdvP">
+        <w n="304586" lemma="עוד" partOfSpeech="subs" number="sg" gender="m" state="a">עֹ֥וד</w>
+      </wg>
+      <wg n="831560" class="NP">
+        <w n="304587" lemma="אחד" partOfSpeech="subs" number="sg" gender="f" state="c">אַחַ֖ת</w>
+        <w n="304588" lemma="מעט" partOfSpeech="subs" number="sg" gender="m" state="a">מְעַ֣ט</w>
+      </wg>
+      <wg n="831561" class="PPrP">
+        <w n="304589" lemma="היא" partOfSpeech="prps" person="3" number="sg" gender="f">הִ֑יא</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216957">
+    <milestone unit="verse" id="Hag.2.6">Hag.2.6</milestone>
+    <p>וַאֲנִ֗י מַרְעִישׁ֙ אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֔רֶץ וְאֶת־הַיָּ֖ם וְאֶת־הֶחָרָבָֽה׃ </p>
+    <wg n="488843" class="Ptcp">
+      <wg n="831562" class="CP">
+        <w n="304590" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831563" class="PPrP">
+        <w n="304591" lemma="אני" partOfSpeech="prps" person="1" number="sg">אֲנִ֗י</w>
+      </wg>
+      <wg n="831564" class="VP">
+        <w n="304592" lemma="רעשׁ" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="hif" state="a">מַרְעִישׁ֙</w>
+      </wg>
+      <wg n="831565" class="PP">
+        <w n="304593" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304594" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304595" lemma="שׁמים" partOfSpeech="subs" number="pl" gender="m" state="a">שָּׁמַ֣יִם</w>
+        <w n="304596" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304597" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304598" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304599" lemma="ארץ" partOfSpeech="subs" number="sg" state="a">אָ֔רֶץ</w>
+        <w n="304600" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304601" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304602" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304603" lemma="ים" partOfSpeech="subs" number="sg" gender="m" state="a">יָּ֖ם</w>
+        <w n="304604" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304605" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304606" lemma="ה" partOfSpeech="art">הֶ</w>
+        <w n="304607" lemma="חרבה" partOfSpeech="subs" number="sg" gender="f" state="a">חָרָבָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216958">
+    <milestone unit="verse" id="Hag.2.7">Hag.2.7</milestone>
+    <p>וְהִרְעַשְׁתִּי֙ אֶת־כָּל־הַגֹּויִ֔ם </p>
+    <wg n="488844" class="WQt0">
+      <wg n="831566" class="CP">
+        <w n="304608" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831567" class="VP">
+        <w n="304609" lemma="רעשׁ" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="hif">הִרְעַשְׁתִּי֙</w>
+      </wg>
+      <wg n="831568" class="PP">
+        <w n="304610" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304611" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָּל</w>
+        <w n="304612" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304613" lemma="גוי" partOfSpeech="subs" number="pl" gender="m" state="a">גֹּויִ֔ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216959">
+    <milestone unit="verse" id="Hag.2.7">Hag.2.7</milestone>
+    <p>וּבָ֖אוּ חֶמְדַּ֣ת כָּל־הַגֹּויִ֑ם </p>
+    <wg n="488845" class="WQtX">
+      <wg n="831569" class="CP">
+        <w n="304614" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="831570" class="VP">
+        <w n="304615" lemma="בוא" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">בָ֖אוּ</w>
+      </wg>
+      <wg n="831571" class="NP">
+        <w n="304616" lemma="חמדה" partOfSpeech="subs" number="sg" gender="f" state="c">חֶמְדַּ֣ת</w>
+        <w n="304617" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָּל</w>
+        <w n="304618" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304619" lemma="גוי" partOfSpeech="subs" number="pl" gender="m" state="a">גֹּויִ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216960">
+    <milestone unit="verse" id="Hag.2.7">Hag.2.7</milestone>
+    <p>וּמִלֵּאתִ֞י אֶת־הַבַּ֤יִת הַזֶּה֙ כָּבֹ֔וד </p>
+    <wg n="488846" class="WQt0">
+      <wg n="831572" class="CP">
+        <w n="304620" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="831573" class="VP">
+        <w n="304621" lemma="מלא" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="piel">מִלֵּאתִ֞י</w>
+      </wg>
+      <wg n="831574" class="PP">
+        <w n="304622" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304623" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304624" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="a">בַּ֤יִת</w>
+        <w n="304625" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304626" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּה֙</w>
+      </wg>
+      <wg n="831575" class="NP">
+        <w n="304627" lemma="כבוד" partOfSpeech="subs" number="sg" state="a">כָּבֹ֔וד</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216961">
+    <milestone unit="verse" id="Hag.2.7">Hag.2.7</milestone>
+    <p>אָמַ֖ר יְהוָ֥ה צְבָאֹֽות׃ </p>
+    <wg n="488847" class="ZQtX">
+      <wg n="831576" class="VP">
+        <w n="304628" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָמַ֖ר</w>
+      </wg>
+      <wg n="831577" class="PrNP">
+        <w n="304629" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֥ה</w>
+        <w n="304630" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹֽות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216962">
+    <milestone unit="verse" id="Hag.2.8">Hag.2.8</milestone>
+    <p>לִ֥י הַכֶּ֖סֶף </p>
+    <wg n="488848" class="NmCl">
+      <wg n="831578" class="PP">
+        <w n="304631" lemma="ל" partOfSpeech="prep">לִ֥י</w>
+      </wg>
+      <wg n="831579" class="NP">
+        <w n="304632" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304633" lemma="כסף" partOfSpeech="subs" number="sg" gender="m" state="a">כֶּ֖סֶף</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216963">
+    <milestone unit="verse" id="Hag.2.8">Hag.2.8</milestone>
+    <p>וְלִ֣י הַזָּהָ֑ב </p>
+    <wg n="488849" class="NmCl">
+      <wg n="831580" class="CP">
+        <w n="304634" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831581" class="PP">
+        <w n="304635" lemma="ל" partOfSpeech="prep">לִ֣י</w>
+      </wg>
+      <wg n="831582" class="NP">
+        <w n="304636" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304637" lemma="זהב" partOfSpeech="subs" number="sg" gender="m" state="a">זָּהָ֑ב</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216964">
+    <milestone unit="verse" id="Hag.2.8">Hag.2.8</milestone>
+    <p>נְאֻ֖ם יְהוָ֥ה צְבָאֹֽות׃ </p>
+    <wg n="488850" class="MSyn">
+      <wg n="831583" class="NP">
+        <w n="304638" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻ֖ם</w>
+        <w n="304639" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֥ה</w>
+        <w n="304640" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹֽות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216965">
+    <milestone unit="verse" id="Hag.2.9">Hag.2.9</milestone>
+    <p>גָּדֹ֣ול יִֽהְיֶ֡ה כְּבֹוד֩ הַבַּ֨יִת הַזֶּ֤ה הָאַֽחֲרֹון֙ מִן־הָ֣רִאשֹׁ֔ון </p>
+    <wg n="488851" class="xYqX">
+      <wg n="831584" class="AdjP">
+        <w n="304641" lemma="גדול" partOfSpeech="adjv" number="sg" gender="m" state="a">גָּדֹ֣ול</w>
+      </wg>
+      <wg n="831585" class="VP">
+        <w n="304642" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִֽהְיֶ֡ה</w>
+      </wg>
+      <wg n="831586" class="NP">
+        <w n="304643" lemma="כבוד" partOfSpeech="subs" number="sg" state="c">כְּבֹוד֩</w>
+        <w n="304644" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304645" lemma="בית" partOfSpeech="subs" number="sg" gender="m" state="a">בַּ֨יִת</w>
+        <w n="304646" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304647" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֤ה</w>
+        <w n="304648" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304649" lemma="אחרון" partOfSpeech="adjv" number="sg" gender="m" state="a">אַֽחֲרֹון֙</w>
+      </wg>
+      <wg n="831587" class="PP">
+        <w n="304650" lemma="מן" partOfSpeech="prep">מִן</w>
+        <w n="304651" lemma="ה" partOfSpeech="art">הָ֣</w>
+        <w n="304652" lemma="ראשׁון" partOfSpeech="adjv" number="sg" gender="m" state="a">רִאשֹׁ֔ון</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216966">
+    <milestone unit="verse" id="Hag.2.9">Hag.2.9</milestone>
+    <p>אָמַ֖ר יְהוָ֣ה צְבָאֹ֑ות </p>
+    <wg n="488852" class="ZQtX">
+      <wg n="831588" class="VP">
+        <w n="304653" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָמַ֖ר</w>
+      </wg>
+      <wg n="831589" class="PrNP">
+        <w n="304654" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304655" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֑ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216967">
+    <milestone unit="verse" id="Hag.2.9">Hag.2.9</milestone>
+    <p>וּבַמָּקֹ֤ום הַזֶּה֙ אֶתֵּ֣ן שָׁלֹ֔ום </p>
+    <wg n="488853" class="WxY0">
+      <wg n="831590" class="CP">
+        <w n="304656" lemma="ו" partOfSpeech="conj">וּ</w>
+      </wg>
+      <wg n="831591" class="PP">
+        <w n="304657" lemma="ב" partOfSpeech="prep">בַ</w>
+        <w n="304658" lemma="ה" partOfSpeech="art"></w>
+        <w n="304659" lemma="מקום" partOfSpeech="subs" number="sg" gender="m" state="a">מָּקֹ֤ום</w>
+        <w n="304660" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304661" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּה֙</w>
+      </wg>
+      <wg n="831592" class="VP">
+        <w n="304662" lemma="נתן" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="qal">אֶתֵּ֣ן</w>
+      </wg>
+      <wg n="831593" class="NP">
+        <w n="304663" lemma="שׁלום" partOfSpeech="subs" number="sg" gender="m" state="a">שָׁלֹ֔ום</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216968">
+    <milestone unit="verse" id="Hag.2.9">Hag.2.9</milestone>
+    <p>נְאֻ֖ם יְהוָ֥ה צְבָאֹֽות׃ פ </p>
+    <wg n="488854" class="MSyn">
+      <wg n="831594" class="NP">
+        <w n="304664" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻ֖ם</w>
+        <w n="304665" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֥ה</w>
+        <w n="304666" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹֽות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216969">
+    <milestone unit="verse" id="Hag.2.10">Hag.2.10</milestone>
+    <p>בְּעֶשְׂרִ֤ים וְאַרְבָּעָה֙ לַתְּשִׁיעִ֔י בִּשְׁנַ֥ת שְׁתַּ֖יִם לְדָרְיָ֑וֶשׁ הָיָה֙ דְּבַר־יְהוָ֔ה אֶל־חַגַּ֥י הַנָּבִ֖יא לֵאמֹֽר׃ </p>
+    <wg n="488855" class="xQtX">
+      <wg n="831595" class="PP">
+        <w n="304667" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304668" lemma="עשׂרים" partOfSpeech="subs" number="pl" gender="m" state="a">עֶשְׂרִ֤ים</w>
+        <w n="304669" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304670" lemma="ארבע" partOfSpeech="subs" number="sg" gender="f" state="a">אַרְבָּעָה֙</w>
+        <w n="304671" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="304672" lemma="ה" partOfSpeech="art"></w>
+        <w n="304673" lemma="תשׁיעי" partOfSpeech="adjv" number="sg" gender="m" state="a">תְּשִׁיעִ֔י</w>
+        <w n="304674" lemma="ב" partOfSpeech="prep">בִּ</w>
+        <w n="304675" lemma="שׁנה" partOfSpeech="subs" number="sg" gender="f" state="c">שְׁנַ֥ת</w>
+        <w n="304676" lemma="שׁנים" partOfSpeech="subs" number="du" gender="f" state="a">שְׁתַּ֖יִם</w>
+        <w n="304677" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304678" lemma="דריושׁ" partOfSpeech="nmpr" number="sg" gender="m" state="a">דָרְיָ֑וֶשׁ</w>
+      </wg>
+      <wg n="831596" class="VP">
+        <w n="304679" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">הָיָה֙</w>
+      </wg>
+      <wg n="831597" class="NP">
+        <w n="304680" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="c">דְּבַר</w>
+        <w n="304681" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+      <wg n="831598" class="PP">
+        <w n="304682" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304683" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֥י</w>
+        <w n="304684" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304685" lemma="נביא" partOfSpeech="subs" number="sg" gender="m" state="a">נָּבִ֖יא</w>
+      </wg>
+    </wg>
+    <wg n="488856" class="InfC" role="Adju">
+      <wg n="831599" class="VP">
+        <w n="304686" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304687" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216970">
+    <milestone unit="verse" id="Hag.2.11">Hag.2.11</milestone>
+    <p>כֹּ֥ה אָמַ֖ר יְהוָ֣ה צְבָאֹ֑ות </p>
+    <wg n="488857" class="xQtX">
+      <wg n="831600" class="AdvP">
+        <w n="304688" lemma="כה" partOfSpeech="advb">כֹּ֥ה</w>
+      </wg>
+      <wg n="831601" class="VP">
+        <w n="304689" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">אָמַ֖ר</w>
+      </wg>
+      <wg n="831602" class="PrNP">
+        <w n="304690" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304691" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֑ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216971">
+    <milestone unit="verse" id="Hag.2.11">Hag.2.11</milestone>
+    <p>שְׁאַל־נָ֧א אֶת־הַכֹּהֲנִ֛ים תֹּורָ֖ה לֵאמֹֽר׃ </p>
+    <wg n="488858" class="ZIm0">
+      <wg n="831603" class="VP">
+        <w n="304692" lemma="שׁאל" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">שְׁאַל</w>
+      </wg>
+      <wg n="831604" class="InjP">
+        <w n="304693" lemma="נא" partOfSpeech="intj">נָ֧א</w>
+      </wg>
+      <wg n="831605" class="PP">
+        <w n="304694" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304695" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304696" lemma="כהן" partOfSpeech="subs" number="pl" gender="m" state="a">כֹּהֲנִ֛ים</w>
+      </wg>
+      <wg n="831606" class="NP">
+        <w n="304697" lemma="תורה" partOfSpeech="subs" number="sg" gender="f" state="a">תֹּורָ֖ה</w>
+      </wg>
+    </wg>
+    <wg n="488859" class="InfC" role="Adju">
+      <wg n="831607" class="VP">
+        <w n="304698" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304699" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216972">
+    <milestone unit="verse" id="Hag.2.12">Hag.2.12</milestone>
+    <p>הֵ֣ן׀ יִשָּׂא־אִ֨ישׁ בְּשַׂר־קֹ֜דֶשׁ בִּכְנַ֣ף בִּגְדֹ֗ו </p>
+    <wg n="488860" class="xYqX">
+      <wg n="831608" class="InjP">
+        <w n="304700" lemma="הן" partOfSpeech="intj">הֵ֣ן</w>
+      </wg>
+      <wg n="831609" class="VP">
+        <w n="304701" lemma="נשׂא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִשָּׂא</w>
+      </wg>
+      <wg n="831610" class="NP">
+        <w n="304702" lemma="אישׁ" partOfSpeech="subs" number="sg" gender="m" state="a">אִ֨ישׁ</w>
+      </wg>
+      <wg n="831611" class="NP">
+        <w n="304703" lemma="בשׂר" partOfSpeech="subs" number="sg" gender="m" state="c">בְּשַׂר</w>
+        <w n="304704" lemma="קדשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">קֹ֜דֶשׁ</w>
+      </wg>
+      <wg n="831612" class="PP">
+        <w n="304705" lemma="ב" partOfSpeech="prep">בִּ</w>
+        <w n="304706" lemma="כנף" partOfSpeech="subs" number="sg" gender="f" state="c">כְנַ֣ף</w>
+        <w n="304707" lemma="בגד" partOfSpeech="subs" number="sg" gender="m" state="a">בִּגְדֹ֗ו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216973">
+    <milestone unit="verse" id="Hag.2.12">Hag.2.12</milestone>
+    <p>וְנָגַ֣ע בִּ֠כְנָפֹו אֶל־הַלֶּ֨חֶם וְאֶל־הַנָּזִ֜יד וְאֶל־הַיַּ֧יִן וְאֶל־שֶׁ֛מֶן וְאֶל־כָּל־מַאֲכָ֖ל </p>
+    <wg n="488861" class="WQt0">
+      <wg n="831613" class="CP">
+        <w n="304708" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831614" class="VP">
+        <w n="304709" lemma="נגע" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">נָגַ֣ע</w>
+      </wg>
+      <wg n="831615" class="PP">
+        <w n="304710" lemma="ב" partOfSpeech="prep">בִּ֠</w>
+        <w n="304711" lemma="כנף" partOfSpeech="subs" number="sg" gender="f" state="a">כְנָפֹו</w>
+      </wg>
+      <wg n="831616" class="PP">
+        <w n="304712" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304713" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304714" lemma="לחם" partOfSpeech="subs" number="sg" state="a">לֶּ֨חֶם</w>
+        <w n="304715" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304716" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304717" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304718" lemma="נזיד" partOfSpeech="subs" number="sg" gender="m" state="a">נָּזִ֜יד</w>
+        <w n="304719" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304720" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304721" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304722" lemma="יין" partOfSpeech="subs" number="sg" gender="m" state="a">יַּ֧יִן</w>
+        <w n="304723" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304724" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304725" lemma="שׁמן" partOfSpeech="subs" number="sg" gender="m" state="a">שֶׁ֛מֶן</w>
+        <w n="304726" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304727" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304728" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָּל</w>
+        <w n="304729" lemma="מאכל" partOfSpeech="subs" number="sg" gender="m" state="a">מַאֲכָ֖ל</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216974">
+    <milestone unit="verse" id="Hag.2.12">Hag.2.12</milestone>
+    <p>הֲיִקְדָּ֑שׁ </p>
+    <wg n="488862" class="xYq0">
+      <wg n="831617" class="InrP">
+        <w n="304730" lemma="ה" partOfSpeech="inrg">הֲ</w>
+      </wg>
+      <wg n="831618" class="VP">
+        <w n="304731" lemma="קדשׁ" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִקְדָּ֑שׁ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216975">
+    <milestone unit="verse" id="Hag.2.12">Hag.2.12</milestone>
+    <p>וַיַּעֲנ֧וּ הַכֹּהֲנִ֛ים </p>
+    <wg n="488863" class="WayX">
+      <wg n="831619" class="CP">
+        <w n="304732" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831620" class="VP">
+        <w n="304733" lemma="ענה" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יַּעֲנ֧וּ</w>
+      </wg>
+      <wg n="831621" class="NP">
+        <w n="304734" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304735" lemma="כהן" partOfSpeech="subs" number="pl" gender="m" state="a">כֹּהֲנִ֛ים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216976">
+    <milestone unit="verse" id="Hag.2.12">Hag.2.12</milestone>
+    <p>וַיֹּאמְר֖וּ </p>
+    <wg n="488864" class="Way0">
+      <wg n="831622" class="CP">
+        <w n="304736" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831623" class="VP">
+        <w n="304737" lemma="אמר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יֹּאמְר֖וּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216977">
+    <milestone unit="verse" id="Hag.2.12">Hag.2.12</milestone>
+    <p>לֹֽא׃ </p>
+    <wg n="488865" class="NmCl">
+      <wg n="831624" class="NegP">
+        <w n="304738" lemma="לא" partOfSpeech="nega">לֹֽא</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216978">
+    <milestone unit="verse" id="Hag.2.13">Hag.2.13</milestone>
+    <p>וַיֹּ֣אמֶר חַגַּ֔י </p>
+    <wg n="488866" class="WayX">
+      <wg n="831625" class="CP">
+        <w n="304739" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831626" class="VP">
+        <w n="304740" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֣אמֶר</w>
+      </wg>
+      <wg n="831627" class="PrNP">
+        <w n="304741" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֔י</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216979">
+    <milestone unit="verse" id="Hag.2.13">Hag.2.13</milestone>
+    <p>אִם־יִגַּ֧ע טְמֵא־נֶ֛פֶשׁ בְּכָל־אֵ֖לֶּה </p>
+    <wg n="488867" class="xYq0">
+      <wg n="831628" class="CP">
+        <w n="304742" lemma="אם" partOfSpeech="conj">אִם</w>
+      </wg>
+      <wg n="831629" class="VP">
+        <w n="304743" lemma="נגע" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִגַּ֧ע</w>
+      </wg>
+      <wg n="831630" class="NP">
+        <w n="304744" lemma="טמא" partOfSpeech="adjv" number="sg" gender="m" state="c">טְמֵא</w>
+        <w n="304745" lemma="נפשׁ" partOfSpeech="subs" number="sg" gender="f" state="a">נֶ֛פֶשׁ</w>
+      </wg>
+      <wg n="831631" class="PP">
+        <w n="304746" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304747" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָל</w>
+        <w n="304748" lemma="אלה" partOfSpeech="prde" number="pl">אֵ֖לֶּה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216980">
+    <milestone unit="verse" id="Hag.2.13">Hag.2.13</milestone>
+    <p>הֲיִטְמָ֑א </p>
+    <wg n="488868" class="xYq0">
+      <wg n="831632" class="InrP">
+        <w n="304749" lemma="ה" partOfSpeech="inrg">הֲ</w>
+      </wg>
+      <wg n="831633" class="VP">
+        <w n="304750" lemma="טמא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִטְמָ֑א</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216981">
+    <milestone unit="verse" id="Hag.2.13">Hag.2.13</milestone>
+    <p>וַיַּעֲנ֧וּ הַכֹּהֲנִ֛ים </p>
+    <wg n="488869" class="WayX">
+      <wg n="831634" class="CP">
+        <w n="304751" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831635" class="VP">
+        <w n="304752" lemma="ענה" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יַּעֲנ֧וּ</w>
+      </wg>
+      <wg n="831636" class="NP">
+        <w n="304753" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304754" lemma="כהן" partOfSpeech="subs" number="pl" gender="m" state="a">כֹּהֲנִ֛ים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216982">
+    <milestone unit="verse" id="Hag.2.13">Hag.2.13</milestone>
+    <p>וַיֹּאמְר֖וּ </p>
+    <wg n="488870" class="Way0">
+      <wg n="831637" class="CP">
+        <w n="304755" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831638" class="VP">
+        <w n="304756" lemma="אמר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="wayq" stem="qal">יֹּאמְר֖וּ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216983">
+    <milestone unit="verse" id="Hag.2.13">Hag.2.13</milestone>
+    <p>יִטְמָֽא׃ </p>
+    <wg n="488871" class="ZYq0">
+      <wg n="831639" class="VP">
+        <w n="304757" lemma="טמא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal">יִטְמָֽא</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216984">
+    <milestone unit="verse" id="Hag.2.14">Hag.2.14</milestone>
+    <p>וַיַּ֨עַן חַגַּ֜י </p>
+    <wg n="488872" class="WayX">
+      <wg n="831640" class="CP">
+        <w n="304758" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831641" class="VP">
+        <w n="304759" lemma="ענה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יַּ֨עַן</w>
+      </wg>
+      <wg n="831642" class="PrNP">
+        <w n="304760" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֜י</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216985">
+    <milestone unit="verse" id="Hag.2.14">Hag.2.14</milestone>
+    <p>וַיֹּ֗אמֶר </p>
+    <wg n="488873" class="Way0">
+      <wg n="831643" class="CP">
+        <w n="304761" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831644" class="VP">
+        <w n="304762" lemma="אמר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יֹּ֗אמֶר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216986">
+    <milestone unit="verse" id="Hag.2.14">Hag.2.14</milestone>
+    <p>כֵּ֣ן הָֽעָם־הַ֠זֶּה </p>
+    <wg n="488874" class="NmCl">
+      <wg n="831645" class="AdvP">
+        <w n="304763" lemma="כן" partOfSpeech="advb">כֵּ֣ן</w>
+      </wg>
+      <wg n="831646" class="NP">
+        <w n="304764" lemma="ה" partOfSpeech="art">הָֽ</w>
+        <w n="304765" lemma="עם" partOfSpeech="subs" number="sg" gender="m" state="a">עָם</w>
+        <w n="304766" lemma="ה" partOfSpeech="art">הַ֠</w>
+        <w n="304767" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216987">
+    <milestone unit="verse" id="Hag.2.14">Hag.2.14</milestone>
+    <p>וְכֵן־הַגֹּ֨וי הַזֶּ֤ה לְפָנַי֙ </p>
+    <wg n="488875" class="NmCl">
+      <wg n="831647" class="CP">
+        <w n="304768" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831648" class="AdvP">
+        <w n="304769" lemma="כן" partOfSpeech="advb">כֵן</w>
+      </wg>
+      <wg n="831649" class="NP">
+        <w n="304770" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304771" lemma="גוי" partOfSpeech="subs" number="sg" gender="m" state="a">גֹּ֨וי</w>
+        <w n="304772" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304773" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֤ה</w>
+      </wg>
+      <wg n="831650" class="PP">
+        <w n="304774" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304775" lemma="פנה" partOfSpeech="subs" number="pl" gender="m" state="a">פָנַי֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216988">
+    <milestone unit="verse" id="Hag.2.14">Hag.2.14</milestone>
+    <p>נְאֻם־יְהוָ֔ה </p>
+    <wg n="488876" class="MSyn">
+      <wg n="831651" class="NP">
+        <w n="304776" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻם</w>
+        <w n="304777" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216989">
+    <milestone unit="verse" id="Hag.2.14">Hag.2.14</milestone>
+    <p>וְכֵ֖ן כָּל־מַעֲשֵׂ֣ה יְדֵיהֶ֑ם </p>
+    <wg n="488877" class="NmCl">
+      <wg n="831652" class="CP">
+        <w n="304778" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831653" class="AdvP">
+        <w n="304779" lemma="כן" partOfSpeech="advb">כֵ֖ן</w>
+      </wg>
+      <wg n="831654" class="NP">
+        <w n="304780" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָּל</w>
+        <w n="304781" lemma="מעשׂה" partOfSpeech="subs" number="sg" gender="m" state="c">מַעֲשֵׂ֣ה</w>
+        <w n="304782" lemma="יד" partOfSpeech="subs" number="du" state="a">יְדֵיהֶ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216990">
+    <milestone unit="verse" id="Hag.2.14">Hag.2.14</milestone>
+    <p>וַאֲשֶׁ֥ר יַקְרִ֛יבוּ שָׁ֖ם טָמֵ֥א הֽוּא׃ </p>
+    <wg n="488878" class="CPen">
+      <wg n="831655" class="CP">
+        <w n="304783" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831656" class="CP">
+        <w n="304784" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁ֥ר</w>
+      </wg>
+      <wg n="831657" class="VP">
+        <w n="304785" lemma="קרב" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="hif">יַקְרִ֛יבוּ</w>
+      </wg>
+      <wg n="831658" class="AdvP">
+        <w n="304786" lemma="שׁם" partOfSpeech="advb">שָׁ֖ם</w>
+      </wg>
+    </wg>
+    <wg n="488879" class="AjCl" role="Resu">
+      <wg n="831659" class="AdjP">
+        <w n="304787" lemma="טמא" partOfSpeech="adjv" number="sg" gender="m" state="a">טָמֵ֥א</w>
+      </wg>
+      <wg n="831660" class="PPrP">
+        <w n="304788" lemma="הוא" partOfSpeech="prps" person="3" number="sg" gender="m">הֽוּא</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216991">
+    <milestone unit="verse" id="Hag.2.15">Hag.2.15</milestone>
+    <p>וְעַתָּה֙ </p>
+    <wg n="488880" class="MSyn">
+      <wg n="831661" class="CP">
+        <w n="304789" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831662" class="AdvP">
+        <w n="304790" lemma="עתה" partOfSpeech="advb">עַתָּה֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216992">
+    <milestone unit="verse" id="Hag.2.15">Hag.2.15</milestone>
+    <p>שִֽׂימוּ־נָ֣א לְבַבְכֶ֔ם מִן־הַיֹּ֥ום הַזֶּ֖ה וָמָ֑עְלָה מִטֶּ֧רֶם שֽׂוּם־אֶ֛בֶן אֶל־אֶ֖בֶן בְּהֵיכַ֥ל יְהוָֽה׃ </p>
+    <wg n="488881" class="ZIm0">
+      <wg n="831663" class="VP">
+        <w n="304791" lemma="שׂים" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">שִֽׂימוּ</w>
+      </wg>
+      <wg n="831664" class="InjP">
+        <w n="304792" lemma="נא" partOfSpeech="intj">נָ֣א</w>
+      </wg>
+      <wg n="831665" class="NP">
+        <w n="304793" lemma="לבב" partOfSpeech="subs" number="sg" gender="m" state="a">לְבַבְכֶ֔ם</w>
+      </wg>
+      <wg n="831666" class="PP">
+        <w n="304794" lemma="מן" partOfSpeech="prep">מִן</w>
+        <w n="304795" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304796" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="a">יֹּ֥ום</w>
+        <w n="304797" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304798" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֖ה</w>
+        <w n="304799" lemma="ו" partOfSpeech="conj">וָ</w>
+        <w n="304800" lemma="מעל" partOfSpeech="subs" number="sg" state="a">מָ֑עְלָה</w>
+      </wg>
+    </wg>
+    <wg n="488882" class="InfC" role="Coor">
+      <wg n="831667" class="VP">
+        <w n="304801" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="304802" lemma="טרם" partOfSpeech="subs" number="sg" state="c">טֶּ֧רֶם</w>
+        <w n="304803" lemma="שׂים" partOfSpeech="verb" tense="infc" stem="qal" state="a">שֽׂוּם</w>
+      </wg>
+      <wg n="831668" class="NP">
+        <w n="304804" lemma="אבן" partOfSpeech="subs" number="sg" gender="f" state="a">אֶ֛בֶן</w>
+      </wg>
+      <wg n="831669" class="PP">
+        <w n="304805" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304806" lemma="אבן" partOfSpeech="subs" number="sg" gender="f" state="a">אֶ֖בֶן</w>
+      </wg>
+      <wg n="831670" class="PP">
+        <w n="304807" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304808" lemma="היכל" partOfSpeech="subs" number="sg" gender="m" state="c">הֵיכַ֥ל</w>
+        <w n="304809" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216993">
+    <milestone unit="verse" id="Hag.2.16">Hag.2.16</milestone>
+    <p>מִֽהְיֹותָ֥ם בָּא֙ אֶל־עֲרֵמַ֣ת עֶשְׂרִ֔ים </p>
+    <wg n="488883" class="InfC" role="Adju">
+      <wg n="831671" class="VP">
+        <w n="304810" lemma="מן" partOfSpeech="prep">מִֽ</w>
+        <w n="304811" lemma="היה" partOfSpeech="verb" tense="infc" stem="qal" state="a">הְיֹותָ֥ם</w>
+      </wg>
+    </wg>
+    <wg n="488884" class="xQt0">
+      <wg n="831672" class="VP">
+        <w n="304812" lemma="בוא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">בָּא֙</w>
+      </wg>
+      <wg n="831673" class="PP">
+        <w n="304813" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304814" lemma="ערמה" partOfSpeech="subs" number="sg" gender="f" state="c">עֲרֵמַ֣ת</w>
+        <w n="304815" lemma="עשׂרים" partOfSpeech="subs" number="pl" gender="m" state="a">עֶשְׂרִ֔ים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216994">
+    <milestone unit="verse" id="Hag.2.16">Hag.2.16</milestone>
+    <p>וְהָיְתָ֖ה עֲשָׂרָ֑ה </p>
+    <wg n="488885" class="WQt0">
+      <wg n="831674" class="CP">
+        <w n="304816" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831675" class="VP">
+        <w n="304817" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="f" tense="perf" stem="qal">הָיְתָ֖ה</w>
+      </wg>
+      <wg n="831676" class="NP">
+        <w n="304818" lemma="עשׂרה" partOfSpeech="subs" number="sg" gender="f" state="a">עֲשָׂרָ֑ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216995">
+    <milestone unit="verse" id="Hag.2.16">Hag.2.16</milestone>
+    <p>בָּ֣א אֶל־הַיֶּ֗קֶב לַחְשֹׂף֙ חֲמִשִּׁ֣ים פּוּרָ֔ה </p>
+    <wg n="488886" class="ZQt0">
+      <wg n="831677" class="VP">
+        <w n="304819" lemma="בוא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">בָּ֣א</w>
+      </wg>
+      <wg n="831678" class="PP">
+        <w n="304820" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304821" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304822" lemma="יקב" partOfSpeech="subs" number="sg" gender="m" state="a">יֶּ֗קֶב</w>
+      </wg>
+    </wg>
+    <wg n="488887" class="InfC" role="Adju">
+      <wg n="831679" class="VP">
+        <w n="304823" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="304824" lemma="חשׂף" partOfSpeech="verb" tense="infc" stem="qal" state="c">חְשֹׂף֙</w>
+      </wg>
+      <wg n="831680" class="NP">
+        <w n="304825" lemma="חמשׁ" partOfSpeech="subs" number="pl" gender="m" state="a">חֲמִשִּׁ֣ים</w>
+        <w n="304826" lemma="פורה" partOfSpeech="subs" number="sg" gender="f" state="a">פּוּרָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216996">
+    <milestone unit="verse" id="Hag.2.16">Hag.2.16</milestone>
+    <p>וְהָיְתָ֖ה עֶשְׂרִֽים׃ </p>
+    <wg n="488888" class="WQt0">
+      <wg n="831681" class="CP">
+        <w n="304827" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831682" class="VP">
+        <w n="304828" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="f" tense="perf" stem="qal">הָיְתָ֖ה</w>
+      </wg>
+      <wg n="831683" class="NP">
+        <w n="304829" lemma="עשׂרים" partOfSpeech="subs" number="pl" gender="m" state="a">עֶשְׂרִֽים</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216997">
+    <milestone unit="verse" id="Hag.2.17">Hag.2.17</milestone>
+    <p>הִכֵּ֨יתִי אֶתְכֶ֜ם בַּשִּׁדָּפֹ֤ון וּבַיֵּֽרָקֹון֙ וּבַבָּרָ֔ד אֵ֖ת כָּל־מַעֲשֵׂ֣ה יְדֵיכֶ֑ם </p>
+    <wg n="488889" class="ZQt0">
+      <wg n="831684" class="VP">
+        <w n="304830" lemma="נכה" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="hif">הִכֵּ֨יתִי</w>
+      </wg>
+      <wg n="831685" class="PP">
+        <w n="304831" lemma="את" partOfSpeech="prep">אֶתְכֶ֜ם</w>
+      </wg>
+      <wg n="831686" class="PP">
+        <w n="304832" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="304833" lemma="ה" partOfSpeech="art"></w>
+        <w n="304834" lemma="שׁדפון" partOfSpeech="subs" number="sg" gender="m" state="a">שִּׁדָּפֹ֤ון</w>
+        <w n="304835" lemma="ו" partOfSpeech="conj">וּ</w>
+        <w n="304836" lemma="ב" partOfSpeech="prep">בַ</w>
+        <w n="304837" lemma="ה" partOfSpeech="art"></w>
+        <w n="304838" lemma="ירקון" partOfSpeech="subs" number="sg" gender="m" state="a">יֵּֽרָקֹון֙</w>
+        <w n="304839" lemma="ו" partOfSpeech="conj">וּ</w>
+        <w n="304840" lemma="ב" partOfSpeech="prep">בַ</w>
+        <w n="304841" lemma="ה" partOfSpeech="art"></w>
+        <w n="304842" lemma="ברד" partOfSpeech="subs" number="sg" gender="m" state="a">בָּרָ֔ד</w>
+      </wg>
+    </wg>
+    <wg n="488890" class="Ellp">
+      <wg n="831687" class="PP">
+        <w n="304843" lemma="את" partOfSpeech="prep">אֵ֖ת</w>
+        <w n="304844" lemma="כל" partOfSpeech="subs" number="sg" gender="m" state="c">כָּל</w>
+        <w n="304845" lemma="מעשׂה" partOfSpeech="subs" number="sg" gender="m" state="c">מַעֲשֵׂ֣ה</w>
+        <w n="304846" lemma="יד" partOfSpeech="subs" number="du" state="a">יְדֵיכֶ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216998">
+    <milestone unit="verse" id="Hag.2.17">Hag.2.17</milestone>
+    <p>וְאֵין־אֶתְכֶ֥ם אֵלַ֖י </p>
+    <wg n="488891" class="NmCl">
+      <wg n="831688" class="CP">
+        <w n="304847" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831689" class="NegP">
+        <w n="304848" lemma="אין" partOfSpeech="subs" number="sg" gender="m" state="c">אֵין</w>
+      </wg>
+      <wg n="831690" class="PP">
+        <w n="304849" lemma="את" partOfSpeech="prep">אֶתְכֶ֥ם</w>
+      </wg>
+      <wg n="831691" class="PP">
+        <w n="304850" lemma="אל" partOfSpeech="prep">אֵלַ֖י</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1216999">
+    <milestone unit="verse" id="Hag.2.17">Hag.2.17</milestone>
+    <p>נְאֻם־יְהוָֽה׃ </p>
+    <wg n="488892" class="MSyn">
+      <wg n="831692" class="NP">
+        <w n="304851" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻם</w>
+        <w n="304852" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָֽה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217000">
+    <milestone unit="verse" id="Hag.2.18">Hag.2.18</milestone>
+    <p>שִׂימוּ־נָ֣א לְבַבְכֶ֔ם מִן־הַיֹּ֥ום הַזֶּ֖ה וָמָ֑עְלָה מִיֹּום֩ עֶשְׂרִ֨ים וְאַרְבָּעָ֜ה לַתְּשִׁיעִ֗י לְמִן־הַיֹּ֛ום אֲשֶׁר־יֻסַּ֥ד הֵֽיכַל־יְהוָ֖ה </p>
+    <wg n="488893" class="ZIm0">
+      <wg n="831693" class="VP">
+        <w n="304853" lemma="שׂים" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">שִׂימוּ</w>
+      </wg>
+      <wg n="831694" class="InjP">
+        <w n="304854" lemma="נא" partOfSpeech="intj">נָ֣א</w>
+      </wg>
+      <wg n="831695" class="NP">
+        <w n="304855" lemma="לבב" partOfSpeech="subs" number="sg" gender="m" state="a">לְבַבְכֶ֔ם</w>
+      </wg>
+      <wg n="831696" class="PP">
+        <w n="304856" lemma="מן" partOfSpeech="prep">מִן</w>
+        <w n="304857" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304858" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="a">יֹּ֥ום</w>
+        <w n="304859" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304860" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֖ה</w>
+        <w n="304861" lemma="ו" partOfSpeech="conj">וָ</w>
+        <w n="304862" lemma="מעל" partOfSpeech="subs" number="sg" state="a">מָ֑עְלָה</w>
+        <w n="304863" lemma="מן" partOfSpeech="prep">מִ</w>
+        <w n="304864" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="c">יֹּום֩</w>
+        <w n="304865" lemma="עשׂרים" partOfSpeech="subs" number="pl" gender="m" state="a">עֶשְׂרִ֨ים</w>
+        <w n="304866" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304867" lemma="ארבע" partOfSpeech="subs" number="sg" gender="f" state="a">אַרְבָּעָ֜ה</w>
+        <w n="304868" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="304869" lemma="ה" partOfSpeech="art"></w>
+        <w n="304870" lemma="תשׁיעי" partOfSpeech="adjv" number="sg" gender="m" state="a">תְּשִׁיעִ֗י</w>
+        <w n="304871" lemma="ל" partOfSpeech="prep">לְ</w>
+        <w n="304872" lemma="מן" partOfSpeech="prep">מִן</w>
+        <w n="304873" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304874" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="a">יֹּ֛ום</w>
+      </wg>
+    </wg>
+    <wg n="488894" class="xQtX" role="Attr">
+      <wg n="831697" class="CP">
+        <w n="304875" lemma="אשׁר" partOfSpeech="conj">אֲשֶׁר</w>
+      </wg>
+      <wg n="831698" class="VP">
+        <w n="304876" lemma="יסד" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="pual">יֻסַּ֥ד</w>
+      </wg>
+      <wg n="831699" class="NP">
+        <w n="304877" lemma="היכל" partOfSpeech="subs" number="sg" gender="m" state="c">הֵֽיכַל</w>
+        <w n="304878" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֖ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217001">
+    <milestone unit="verse" id="Hag.2.18">Hag.2.18</milestone>
+    <p>שִׂ֥ימוּ לְבַבְכֶֽם׃ </p>
+    <wg n="488895" class="ZIm0">
+      <wg n="831700" class="VP">
+        <w n="304879" lemma="שׂים" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal">שִׂ֥ימוּ</w>
+      </wg>
+      <wg n="831701" class="NP">
+        <w n="304880" lemma="לבב" partOfSpeech="subs" number="sg" gender="m" state="a">לְבַבְכֶֽם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217002">
+    <milestone unit="verse" id="Hag.2.19">Hag.2.19</milestone>
+    <p>הַעֹ֤וד הַזֶּ֨רַע֙ בַּמְּגוּרָ֔ה </p>
+    <wg n="488896" class="NmCl">
+      <wg n="831702" class="InrP">
+        <w n="304881" lemma="ה" partOfSpeech="inrg">הַ</w>
+      </wg>
+      <wg n="831703" class="AdvP">
+        <w n="304882" lemma="עוד" partOfSpeech="subs" number="sg" gender="m" state="a">עֹ֤וד</w>
+      </wg>
+      <wg n="831704" class="NP">
+        <w n="304883" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304884" lemma="זרע" partOfSpeech="subs" number="sg" gender="m" state="a">זֶּ֨רַע֙</w>
+      </wg>
+      <wg n="831705" class="PP">
+        <w n="304885" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="304886" lemma="ה" partOfSpeech="art"></w>
+        <w n="304887" lemma="מגורה" partOfSpeech="subs" number="sg" gender="f" state="a">מְּגוּרָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217003">
+    <milestone unit="verse" id="Hag.2.19">Hag.2.19</milestone>
+    <p>וְעַד־הַגֶּ֨פֶן וְהַתְּאֵנָ֧ה וְהָרִמֹּ֛ון וְעֵ֥ץ הַזַּ֖יִת לֹ֣א נָשָׂ֑א </p>
+    <wg n="488897" class="WxQ0">
+      <wg n="831706" class="CP">
+        <w n="304888" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831707" class="PP">
+        <w n="304889" lemma="עד" partOfSpeech="prep">עַד</w>
+        <w n="304890" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304891" lemma="גפן" partOfSpeech="subs" number="sg" state="a">גֶּ֨פֶן</w>
+        <w n="304892" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304893" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304894" lemma="תאנה" partOfSpeech="subs" number="sg" gender="f" state="a">תְּאֵנָ֧ה</w>
+        <w n="304895" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304896" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304897" lemma="רמון" partOfSpeech="subs" number="sg" gender="m" state="a">רִמֹּ֛ון</w>
+        <w n="304898" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304899" lemma="עץ" partOfSpeech="subs" number="sg" gender="m" state="c">עֵ֥ץ</w>
+        <w n="304900" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304901" lemma="זית" partOfSpeech="subs" number="sg" gender="m" state="a">זַּ֖יִת</w>
+      </wg>
+      <wg n="831708" class="NegP">
+        <w n="304902" lemma="לא" partOfSpeech="nega">לֹ֣א</w>
+      </wg>
+      <wg n="831709" class="VP">
+        <w n="304903" lemma="נשׂא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal">נָשָׂ֑א</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217004">
+    <milestone unit="verse" id="Hag.2.19">Hag.2.19</milestone>
+    <p>מִן־הַיֹּ֥ום הַזֶּ֖ה אֲבָרֵֽךְ׃ ס </p>
+    <wg n="488898" class="xYq0">
+      <wg n="831710" class="PP">
+        <w n="304904" lemma="מן" partOfSpeech="prep">מִן</w>
+        <w n="304905" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304906" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="a">יֹּ֥ום</w>
+        <w n="304907" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304908" lemma="זה" partOfSpeech="prde" number="sg" gender="m">זֶּ֖ה</w>
+      </wg>
+      <wg n="831711" class="VP">
+        <w n="304909" lemma="ברך" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="piel">אֲבָרֵֽךְ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217005">
+    <milestone unit="verse" id="Hag.2.20">Hag.2.20</milestone>
+    <p>וַיְהִ֨י דְבַר־יְהוָ֤ה׀ שֵׁנִית֙ אֶל־חַגַּ֔י בְּעֶשְׂרִ֧ים וְאַרְבָּעָ֛ה לַחֹ֖דֶשׁ לֵאמֹֽר׃ </p>
+    <wg n="488899" class="WayX">
+      <wg n="831712" class="CP">
+        <w n="304910" lemma="ו" partOfSpeech="conj">וַ</w>
+      </wg>
+      <wg n="831713" class="VP">
+        <w n="304911" lemma="היה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="wayq" stem="qal">יְהִ֨י</w>
+      </wg>
+      <wg n="831714" class="NP">
+        <w n="304912" lemma="דבר" partOfSpeech="subs" number="sg" gender="m" state="c">דְבַר</w>
+        <w n="304913" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֤ה</w>
+      </wg>
+      <wg n="831715" class="AdvP">
+        <w n="304914" lemma="שׁני" partOfSpeech="adjv" number="sg" gender="f" state="a">שֵׁנִית֙</w>
+      </wg>
+      <wg n="831716" class="PP">
+        <w n="304915" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304916" lemma="חגי" partOfSpeech="nmpr" number="sg" gender="m" state="a">חַגַּ֔י</w>
+      </wg>
+      <wg n="831717" class="PP">
+        <w n="304917" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304918" lemma="עשׂרים" partOfSpeech="subs" number="pl" gender="m" state="a">עֶשְׂרִ֧ים</w>
+        <w n="304919" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304920" lemma="ארבע" partOfSpeech="subs" number="sg" gender="f" state="a">אַרְבָּעָ֛ה</w>
+        <w n="304921" lemma="ל" partOfSpeech="prep">לַ</w>
+        <w n="304922" lemma="ה" partOfSpeech="art"></w>
+        <w n="304923" lemma="חדשׁ" partOfSpeech="subs" number="sg" gender="m" state="a">חֹ֖דֶשׁ</w>
+      </wg>
+    </wg>
+    <wg n="488900" class="InfC" role="Adju">
+      <wg n="831718" class="VP">
+        <w n="304924" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304925" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹֽר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217006">
+    <milestone unit="verse" id="Hag.2.21">Hag.2.21</milestone>
+    <p>אֱמֹ֕ר אֶל־זְרֻבָּבֶ֥ל פַּֽחַת־יְהוּדָ֖ה לֵאמֹ֑ר </p>
+    <wg n="488901" class="ZIm0">
+      <wg n="831719" class="VP">
+        <w n="304926" lemma="אמר" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impv" stem="qal">אֱמֹ֕ר</w>
+      </wg>
+      <wg n="831720" class="PP">
+        <w n="304927" lemma="אל" partOfSpeech="prep">אֶל</w>
+        <w n="304928" lemma="זרבבל" partOfSpeech="nmpr" number="sg" gender="m" state="a">זְרֻבָּבֶ֥ל</w>
+        <w n="304929" lemma="פחה" partOfSpeech="subs" number="sg" gender="m" state="c">פַּֽחַת</w>
+        <w n="304930" lemma="יהודה" partOfSpeech="nmpr" number="sg" state="a">יְהוּדָ֖ה</w>
+      </wg>
+    </wg>
+    <wg n="488902" class="InfC" role="Adju">
+      <wg n="831721" class="VP">
+        <w n="304931" lemma="ל" partOfSpeech="prep">לֵ</w>
+        <w n="304932" lemma="אמר" partOfSpeech="verb" tense="infc" stem="qal" state="a">אמֹ֑ר</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217007">
+    <milestone unit="verse" id="Hag.2.21">Hag.2.21</milestone>
+    <p>אֲנִ֣י מַרְעִ֔ישׁ אֶת־הַשָּׁמַ֖יִם וְאֶת־הָאָֽרֶץ׃ </p>
+    <wg n="488903" class="Ptcp">
+      <wg n="831722" class="PPrP">
+        <w n="304933" lemma="אני" partOfSpeech="prps" person="1" number="sg">אֲנִ֣י</w>
+      </wg>
+      <wg n="831723" class="VP">
+        <w n="304934" lemma="רעשׁ" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="hif" state="a">מַרְעִ֔ישׁ</w>
+      </wg>
+      <wg n="831724" class="PP">
+        <w n="304935" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304936" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304937" lemma="שׁמים" partOfSpeech="subs" number="pl" gender="m" state="a">שָּׁמַ֖יִם</w>
+        <w n="304938" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304939" lemma="את" partOfSpeech="prep">אֶת</w>
+        <w n="304940" lemma="ה" partOfSpeech="art">הָ</w>
+        <w n="304941" lemma="ארץ" partOfSpeech="subs" number="sg" state="a">אָֽרֶץ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217008">
+    <milestone unit="verse" id="Hag.2.22">Hag.2.22</milestone>
+    <p>וְהָֽפַכְתִּי֙ כִּסֵּ֣א מַמְלָכֹ֔ות </p>
+    <wg n="488904" class="WQt0">
+      <wg n="831725" class="CP">
+        <w n="304942" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831726" class="VP">
+        <w n="304943" lemma="הפך" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">הָֽפַכְתִּי֙</w>
+      </wg>
+      <wg n="831727" class="NP">
+        <w n="304944" lemma="כסא" partOfSpeech="subs" number="sg" gender="m" state="c">כִּסֵּ֣א</w>
+        <w n="304945" lemma="ממלכה" partOfSpeech="subs" number="pl" gender="f" state="a">מַמְלָכֹ֔ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217009">
+    <milestone unit="verse" id="Hag.2.22">Hag.2.22</milestone>
+    <p>וְהִ֨שְׁמַדְתִּ֔י חֹ֖זֶק מַמְלְכֹ֣ות הַגֹּויִ֑ם </p>
+    <wg n="488905" class="WQt0">
+      <wg n="831728" class="CP">
+        <w n="304946" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831729" class="VP">
+        <w n="304947" lemma="שׁמד" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="hif">הִ֨שְׁמַדְתִּ֔י</w>
+      </wg>
+      <wg n="831730" class="NP">
+        <w n="304948" lemma="חזק" partOfSpeech="subs" number="sg" gender="m" state="c">חֹ֖זֶק</w>
+        <w n="304949" lemma="ממלכה" partOfSpeech="subs" number="pl" gender="f" state="c">מַמְלְכֹ֣ות</w>
+        <w n="304950" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304951" lemma="גוי" partOfSpeech="subs" number="pl" gender="m" state="a">גֹּויִ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217010">
+    <milestone unit="verse" id="Hag.2.22">Hag.2.22</milestone>
+    <p>וְהָפַכְתִּ֤י מֶרְכָּבָה֙ וְרֹ֣כְבֶ֔יהָ </p>
+    <wg n="488906" class="WQt0">
+      <wg n="831731" class="CP">
+        <w n="304952" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831732" class="VP">
+        <w n="304953" lemma="הפך" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">הָפַכְתִּ֤י</w>
+      </wg>
+      <wg n="831733" class="NP">
+        <w n="304954" lemma="מרכבה" partOfSpeech="subs" number="sg" gender="f" state="a">מֶרְכָּבָה֙</w>
+        <w n="304955" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304956" lemma="רכב" partOfSpeech="verb" number="pl" gender="m" tense="ptca" stem="qal" state="a">רֹ֣כְבֶ֔יהָ</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217011">
+    <milestone unit="verse" id="Hag.2.22">Hag.2.22</milestone>
+    <p>וְיָרְד֤וּ סוּסִים֙ וְרֹ֣כְבֵיהֶ֔ם אִ֖ישׁ בְּחֶ֥רֶב אָחִֽיו׃ </p>
+    <wg n="488907" class="WQtX">
+      <wg n="831734" class="CP">
+        <w n="304957" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831735" class="VP">
+        <w n="304958" lemma="ירד" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal">יָרְד֤וּ</w>
+      </wg>
+      <wg n="831736" class="NP">
+        <w n="304959" lemma="סוס" partOfSpeech="subs" number="pl" gender="m" state="a">סוּסִים֙</w>
+        <w n="304960" lemma="ו" partOfSpeech="conj">וְ</w>
+        <w n="304961" lemma="רכב" partOfSpeech="verb" number="pl" gender="m" tense="ptca" stem="qal" state="a">רֹ֣כְבֵיהֶ֔ם</w>
+      </wg>
+    </wg>
+    <wg n="488908" class="Ellp" role="Adju">
+      <wg n="831737" class="NP">
+        <w n="304962" lemma="אישׁ" partOfSpeech="subs" number="sg" gender="m" state="a">אִ֖ישׁ</w>
+      </wg>
+      <wg n="831738" class="PP">
+        <w n="304963" lemma="ב" partOfSpeech="prep">בְּ</w>
+        <w n="304964" lemma="חרב" partOfSpeech="subs" number="sg" gender="f" state="c">חֶ֥רֶב</w>
+        <w n="304965" lemma="אח" partOfSpeech="subs" number="sg" gender="m" state="a">אָחִֽיו</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217012">
+    <milestone unit="verse" id="Hag.2.23">Hag.2.23</milestone>
+    <p>בַּיֹּ֣ום הַה֣וּא אֶ֠קָּחֲךָ זְרֻבָּבֶ֨ל בֶּן־שְׁאַלְתִּיאֵ֤ל עַבְדִּי֙ </p>
+    <wg n="488909" class="xYq0">
+      <wg n="831739" class="PP">
+        <w n="304966" lemma="ב" partOfSpeech="prep">בַּ</w>
+        <w n="304967" lemma="ה" partOfSpeech="art"></w>
+        <w n="304968" lemma="יום" partOfSpeech="subs" number="sg" gender="m" state="a">יֹּ֣ום</w>
+        <w n="304969" lemma="ה" partOfSpeech="art">הַ</w>
+        <w n="304970" lemma="הוא" partOfSpeech="prps" person="3" number="sg" gender="m">ה֣וּא</w>
+      </wg>
+      <wg n="831741" class="VP">
+        <w n="304974" lemma="לקח" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="qal">אֶ֠קָּחֲךָ</w>
+      </wg>
+    </wg>
+    <wg n="488911" class="Voct">
+      <wg n="831742" class="PrNP">
+        <w n="304975" lemma="זרבבל" partOfSpeech="nmpr" number="sg" gender="m" state="a">זְרֻבָּבֶ֨ל</w>
+        <w n="304976" lemma="בן" partOfSpeech="subs" number="sg" gender="m" state="c">בֶּן</w>
+        <w n="304977" lemma="שׁאלתיאל" partOfSpeech="nmpr" number="sg" gender="m" state="a">שְׁאַלְתִּיאֵ֤ל</w>
+        <w n="304978" lemma="עבד" partOfSpeech="subs" number="sg" gender="m" state="a">עַבְדִּי֙</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217013">
+    <milestone unit="verse" id="Hag.2.23">Hag.2.23</milestone>
+    <p>נְאֻם־יְהוָ֣ה צְבָאֹ֡ות </p>
+    <wg n="488910" class="MSyn">
+      <wg n="831740" class="NP">
+        <w n="304971" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻם</w>
+        <w n="304972" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֣ה</w>
+        <w n="304973" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹ֡ות</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217014">
+    <milestone unit="verse" id="Hag.2.23">Hag.2.23</milestone>
+    <p>נְאֻם־יְהוָ֔ה </p>
+    <wg n="488912" class="MSyn">
+      <wg n="831743" class="NP">
+        <w n="304979" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻם</w>
+        <w n="304980" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֔ה</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217015">
+    <milestone unit="verse" id="Hag.2.23">Hag.2.23</milestone>
+    <p>וְשַׂמְתִּ֖יךָ כַּֽחֹותָ֑ם </p>
+    <wg n="488913" class="WQt0">
+      <wg n="831744" class="CP">
+        <w n="304981" lemma="ו" partOfSpeech="conj">וְ</w>
+      </wg>
+      <wg n="831745" class="VP">
+        <w n="304982" lemma="שׂים" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">שַׂמְתִּ֖יךָ</w>
+      </wg>
+      <wg n="831746" class="PP">
+        <w n="304983" lemma="כ" partOfSpeech="prep">כַּֽ</w>
+        <w n="304984" lemma="ה" partOfSpeech="art"></w>
+        <w n="304985" lemma="חותם" partOfSpeech="subs" number="sg" gender="m" state="a">חֹותָ֑ם</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217016">
+    <milestone unit="verse" id="Hag.2.23">Hag.2.23</milestone>
+    <p>כִּֽי־בְךָ֣ בָחַ֔רְתִּי </p>
+    <wg n="488914" class="xQt0">
+      <wg n="831747" class="CP">
+        <w n="304986" lemma="כי" partOfSpeech="conj">כִּֽי</w>
+      </wg>
+      <wg n="831748" class="PP">
+        <w n="304987" lemma="ב" partOfSpeech="prep">בְךָ֣</w>
+      </wg>
+      <wg n="831749" class="VP">
+        <w n="304988" lemma="בחר" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal">בָחַ֔רְתִּי</w>
+      </wg>
+    </wg>
+  </sentence>
+  <sentence n="1217017">
+    <milestone unit="verse" id="Hag.2.23">Hag.2.23</milestone>
+    <p>נְאֻ֖ם יְהוָ֥ה צְבָאֹֽות׃ </p>
+    <wg n="488915" class="MSyn">
+      <wg n="831750" class="NP">
+        <w n="304989" lemma="נאם" partOfSpeech="subs" number="sg" gender="m" state="c">נְאֻ֖ם</w>
+        <w n="304990" lemma="יהוה" partOfSpeech="nmpr" number="sg" gender="m" state="a">יְהוָ֥ה</w>
+        <w n="304991" lemma="צבא" partOfSpeech="subs" number="pl" gender="m" state="a">צְבָאֹֽות</w>
+      </wg>
+    </wg>
+  </sentence>
+</book>
