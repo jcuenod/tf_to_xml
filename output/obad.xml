@@ -3,8 +3,8 @@
   <sentence n="1215816">
     <milestone unit="verse" id="Obad.1.1">Obad.1.1</milestone>
     <p>חֲזֹ֖ון עֹֽבַדְיָ֑ה </p>
-    <wg n="487280" class="NmCl">
-      <wg n="827365" class="NP">
+    <wg n="487280" level="clause" class="Nominal clause">
+      <wg n="827365" level="phrase" class="Nominal phrase">
         <w n="298163" lemma="חֲזֹון" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">חֲזֹ֖ון</w>
         <w n="298164" lemma="עֹבַדְיָה" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">עֹֽבַדְיָ֑ה</w>
       </wg>
@@ -13,18 +13,18 @@
   <sentence n="1215817">
     <milestone unit="verse" id="Obad.1.1">Obad.1.1</milestone>
     <p>כֹּֽה־אָמַר֩ אֲדֹנָ֨י יְהוִ֜ה לֶאֱדֹ֗ום </p>
-    <wg n="487281" class="xQtX">
-      <wg n="827366" class="AdvP">
+    <wg n="487281" level="clause" class="x-qatal-X clause">
+      <wg n="827366" level="phrase" class="Adverbial phrase">
         <w n="298165" lemma="כֹּה" partOfSpeech="advb" gloss="None">כֹּֽה</w>
       </wg>
-      <wg n="827367" class="VP">
+      <wg n="827367" level="phrase" class="Verbal phrase">
         <w n="298166" lemma="אָמַר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal" gloss="None">אָמַר֩</w>
       </wg>
-      <wg n="827368" class="PrNP">
+      <wg n="827368" level="phrase" class="Proper-noun phrase">
         <w n="298167" lemma="אֲדֹנָי" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">אֲדֹנָ֨י</w>
         <w n="298168" lemma="יְהוִה" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יְהוִ֜ה</w>
       </wg>
-      <wg n="827369" class="PP">
+      <wg n="827369" level="phrase" class="Prepositional phrase">
         <w n="298169" lemma="לֶ" partOfSpeech="prep" gloss="None">לֶ</w>
         <w n="298170" lemma="אֱדֹום" partOfSpeech="nmpr" number="sg" state="a" gloss="None">אֱדֹ֗ום</w>
       </wg>
@@ -33,14 +33,14 @@
   <sentence n="1215818">
     <milestone unit="verse" id="Obad.1.1">Obad.1.1</milestone>
     <p>שְׁמוּעָ֨ה שָׁמַ֜עְנוּ מֵאֵ֤ת יְהוָה֙ </p>
-    <wg n="487282" class="xQt0">
-      <wg n="827370" class="NP">
+    <wg n="487282" level="clause" class="x-qatal-null clause">
+      <wg n="827370" level="phrase" class="Nominal phrase">
         <w n="298171" lemma="שְׁמוּע" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">שְׁמוּעָ֨ה</w>
       </wg>
-      <wg n="827371" class="VP">
+      <wg n="827371" level="phrase" class="Verbal phrase">
         <w n="298172" lemma="שָׁמַעְ" partOfSpeech="verb" person="1" number="pl" tense="perf" stem="qal" gloss="None">שָׁמַ֜עְנוּ</w>
       </wg>
-      <wg n="827372" class="PP">
+      <wg n="827372" level="phrase" class="Prepositional phrase">
         <w n="298173" lemma="מֵ" partOfSpeech="prep" gloss="None">מֵ</w>
         <w n="298174" lemma="אֵת" partOfSpeech="prep" gloss="None">אֵ֤ת</w>
         <w n="298175" lemma="יְהוָה" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יְהוָה֙</w>
@@ -50,19 +50,19 @@
   <sentence n="1215819">
     <milestone unit="verse" id="Obad.1.1">Obad.1.1</milestone>
     <p>וְצִיר֙ בַּגֹּויִ֣ם שֻׁלָּ֔ח </p>
-    <wg n="487283" class="WXQt">
-      <wg n="827373" class="CP">
+    <wg n="487283" level="clause" class="We-X-qatal clause">
+      <wg n="827373" level="phrase" class="Conjunctive phrase">
         <w n="298176" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827374" class="NP">
+      <wg n="827374" level="phrase" class="Nominal phrase">
         <w n="298177" lemma="צִיר" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">צִיר֙</w>
       </wg>
-      <wg n="827375" class="PP">
+      <wg n="827375" level="phrase" class="Prepositional phrase">
         <w n="298178" lemma="בַּ" partOfSpeech="prep" gloss="None">בַּ</w>
         <w n="298179" partOfSpeech="art" gloss="None"></w>
         <w n="298180" lemma="גֹּוי" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">גֹּויִ֣ם</w>
       </wg>
-      <wg n="827376" class="VP">
+      <wg n="827376" level="phrase" class="Verbal phrase">
         <w n="298181" lemma="שֻׁלָּח" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="pual" gloss="None">שֻׁלָּ֔ח</w>
       </wg>
     </wg>
@@ -70,8 +70,8 @@
   <sentence n="1215820">
     <milestone unit="verse" id="Obad.1.1">Obad.1.1</milestone>
     <p>ק֛וּמוּ </p>
-    <wg n="487284" class="ZIm0">
-      <wg n="827377" class="VP">
+    <wg n="487284" level="clause" class="Zero-imperative-null clause">
+      <wg n="827377" level="phrase" class="Verbal phrase">
         <w n="298182" lemma="קוּם" partOfSpeech="verb" person="2" number="pl" gender="m" tense="impv" stem="qal" gloss="None">ק֛וּמוּ</w>
       </wg>
     </wg>
@@ -79,17 +79,17 @@
   <sentence n="1215821">
     <milestone unit="verse" id="Obad.1.1">Obad.1.1</milestone>
     <p>וְנָק֥וּמָה עָלֶ֖יהָ לַמִּלְחָמָֽה׃ </p>
-    <wg n="487285" class="WYq0">
-      <wg n="827378" class="CP">
+    <wg n="487285" level="clause" class="We-yiqtol-null clause">
+      <wg n="827378" level="phrase" class="Conjunctive phrase">
         <w n="298183" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827379" class="VP">
+      <wg n="827379" level="phrase" class="Verbal phrase">
         <w n="298184" lemma="קוּם" partOfSpeech="verb" person="1" number="pl" tense="impf" stem="qal" gloss="None">נָק֥וּמָה</w>
       </wg>
-      <wg n="827380" class="PP">
+      <wg n="827380" level="phrase" class="Prepositional phrase">
         <w n="298185" lemma="עָלֶי" partOfSpeech="prep" gloss="None">עָלֶ֖יהָ</w>
       </wg>
-      <wg n="827381" class="PP">
+      <wg n="827381" level="phrase" class="Prepositional phrase">
         <w n="298186" lemma="לַ" partOfSpeech="prep" gloss="None">לַ</w>
         <w n="298187" partOfSpeech="art" gloss="None"></w>
         <w n="298188" lemma="מִּלְחָם" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">מִּלְחָמָֽה</w>
@@ -99,17 +99,17 @@
   <sentence n="1215822">
     <milestone unit="verse" id="Obad.1.2">Obad.1.2</milestone>
     <p>הִנֵּ֥ה קָטֹ֛ן נְתַתִּ֖יךָ בַּגֹּויִ֑ם </p>
-    <wg n="487286" class="xQt0">
-      <wg n="827382" class="InjP">
+    <wg n="487286" level="clause" class="x-qatal-null clause">
+      <wg n="827382" level="phrase" class="Interjectional phrase">
         <w n="298189" lemma="הִנֵּה" partOfSpeech="intj" gloss="None">הִנֵּ֥ה</w>
       </wg>
-      <wg n="827383" class="NP">
+      <wg n="827383" level="phrase" class="Nominal phrase">
         <w n="298190" lemma="קָטֹן" partOfSpeech="adjv" number="sg" gender="m" state="a" gloss="None">קָטֹ֛ן</w>
       </wg>
-      <wg n="827384" class="VP">
+      <wg n="827384" level="phrase" class="Verbal phrase">
         <w n="298191" lemma="נְתַ" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="qal" gloss="None">נְתַתִּ֖יךָ</w>
       </wg>
-      <wg n="827385" class="PP">
+      <wg n="827385" level="phrase" class="Prepositional phrase">
         <w n="298192" lemma="בַּ" partOfSpeech="prep" gloss="None">בַּ</w>
         <w n="298193" partOfSpeech="art" gloss="None"></w>
         <w n="298194" lemma="גֹּוי" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">גֹּויִ֑ם</w>
@@ -119,14 +119,14 @@
   <sentence n="1215823">
     <milestone unit="verse" id="Obad.1.2">Obad.1.2</milestone>
     <p>בָּז֥וּי אַתָּ֖ה מְאֹֽד׃ </p>
-    <wg n="487287" class="Ptcp">
-      <wg n="827386" class="VP">
+    <wg n="487287" level="clause" class="Participle clause">
+      <wg n="827386" level="phrase" class="Verbal phrase">
         <w n="298195" lemma="בָּזוּי" partOfSpeech="verb" number="sg" gender="m" tense="ptcp" stem="qal" state="a" gloss="None">בָּז֥וּי</w>
       </wg>
-      <wg n="827387" class="PPrP">
+      <wg n="827387" level="phrase" class="Personal pronoun phrase">
         <w n="298196" lemma="אַתָּה" partOfSpeech="prps" person="2" number="sg" gender="m" gloss="None">אַתָּ֖ה</w>
       </wg>
-      <wg n="827388" class="AdvP">
+      <wg n="827388" level="phrase" class="Adverbial phrase">
         <w n="298197" lemma="מְאֹד" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">מְאֹֽד</w>
       </wg>
     </wg>
@@ -134,30 +134,30 @@
   <sentence n="1215824">
     <milestone unit="verse" id="Obad.1.3">Obad.1.3</milestone>
     <p>זְדֹ֤ון לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי־סֶּ֖לַע אֹמֵ֣ר בְּלִבֹּ֔ו </p>
-    <wg n="487288" class="XQtl">
-      <wg n="827389" class="NP">
+    <wg n="487288" level="clause" class="X-qatal clause">
+      <wg n="827389" level="phrase" class="Nominal phrase">
         <w n="298198" lemma="זְדֹון" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">זְדֹ֤ון</w>
         <w n="298199" lemma="לִבּ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">לִבְּךָ֙</w>
       </wg>
-      <wg n="827390" class="VP">
+      <wg n="827390" level="phrase" class="Verbal phrase">
         <w n="298200" lemma="שִּׁיא" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="hif" gloss="None">הִשִּׁיאֶ֔ךָ</w>
       </wg>
     </wg>
-    <wg n="487289" class="Ptcp" role="Attr">
-      <wg n="827391" class="VP">
+    <wg n="487289" level="clause" class="Participle clause" role="Attributive clause">
+      <wg n="827391" level="phrase" class="Verbal phrase">
         <w n="298201" lemma="שֹׁכְן" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="c" gloss="None">שֹׁכְנִ֥י</w>
       </wg>
-      <wg n="827392" class="PP">
+      <wg n="827392" level="phrase" class="Prepositional phrase">
         <w n="298202" lemma="בְ" partOfSpeech="prep" gloss="None">בְ</w>
         <w n="298203" lemma="חַגְו" partOfSpeech="subs" number="pl" gender="m" state="c" gloss="None">חַגְוֵי</w>
         <w n="298204" lemma="סֶּלַע" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">סֶּ֖לַע</w>
       </wg>
     </wg>
-    <wg n="487291" class="Ptcp" role="Coor">
-      <wg n="827394" class="VP">
+    <wg n="487291" level="clause" class="Participle clause" role="Coordinated clause">
+      <wg n="827394" level="phrase" class="Verbal phrase">
         <w n="298207" lemma="אֹמֵר" partOfSpeech="verb" number="sg" gender="m" tense="ptca" stem="qal" state="a" gloss="None">אֹמֵ֣ר</w>
       </wg>
-      <wg n="827395" class="PP">
+      <wg n="827395" level="phrase" class="Prepositional phrase">
         <w n="298208" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298209" lemma="לִבּ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">לִבֹּ֔ו</w>
       </wg>
@@ -166,8 +166,8 @@
   <sentence n="1215825">
     <milestone unit="verse" id="Obad.1.3">Obad.1.3</milestone>
     <p>מְרֹ֣ום שִׁבְתֹּ֑ו </p>
-    <wg n="487290" class="NmCl">
-      <wg n="827393" class="NP">
+    <wg n="487290" level="clause" class="Nominal clause">
+      <wg n="827393" level="phrase" class="Nominal phrase">
         <w n="298205" lemma="מְרֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">מְרֹ֣ום</w>
         <w n="298206" lemma="שִׁבְ" partOfSpeech="verb" tense="infc" stem="qal" state="a" gloss="None">שִׁבְתֹּ֑ו</w>
       </wg>
@@ -176,14 +176,14 @@
   <sentence n="1215826">
     <milestone unit="verse" id="Obad.1.3">Obad.1.3</milestone>
     <p>מִ֥י יֹורִדֵ֖נִי אָֽרֶץ׃ </p>
-    <wg n="487292" class="XYqt">
-      <wg n="827396" class="IPrP">
+    <wg n="487292" level="clause" class="X-yiqtol clause">
+      <wg n="827396" level="phrase" class="Interrogative pronoun phrase">
         <w n="298210" lemma="מִי" partOfSpeech="prin" gloss="None">מִ֥י</w>
       </wg>
-      <wg n="827397" class="VP">
+      <wg n="827397" level="phrase" class="Verbal phrase">
         <w n="298211" lemma="ורִד" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="hif" gloss="None">יֹורִדֵ֖נִי</w>
       </wg>
-      <wg n="827398" class="NP">
+      <wg n="827398" level="phrase" class="Nominal phrase">
         <w n="298212" lemma="אָרֶץ" partOfSpeech="subs" number="sg" state="a" gloss="None">אָֽרֶץ</w>
       </wg>
     </wg>
@@ -191,14 +191,14 @@
   <sentence n="1215827">
     <milestone unit="verse" id="Obad.1.4">Obad.1.4</milestone>
     <p>אִם־תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר </p>
-    <wg n="487293" class="xYq0">
-      <wg n="827399" class="CP">
+    <wg n="487293" level="clause" class="x-yiqtol-null clause">
+      <wg n="827399" level="phrase" class="Conjunctive phrase">
         <w n="298213" lemma="אִם" partOfSpeech="conj" gloss="None">אִם</w>
       </wg>
-      <wg n="827400" class="VP">
+      <wg n="827400" level="phrase" class="Verbal phrase">
         <w n="298214" lemma="גְבִּיהַּ" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="hif" gloss="None">תַּגְבִּ֣יהַּ</w>
       </wg>
-      <wg n="827401" class="PP">
+      <wg n="827401" level="phrase" class="Prepositional phrase">
         <w n="298215" lemma="כַּ" partOfSpeech="prep" gloss="None">כַּ</w>
         <w n="298216" partOfSpeech="art" gloss="None"></w>
         <w n="298217" lemma="נֶּשֶׁר" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">נֶּ֔שֶׁר</w>
@@ -208,21 +208,21 @@
   <sentence n="1215828">
     <milestone unit="verse" id="Obad.1.4">Obad.1.4</milestone>
     <p>וְאִם־בֵּ֥ין כֹּֽוכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ </p>
-    <wg n="487294" class="Ptcp">
-      <wg n="827402" class="CP">
+    <wg n="487294" level="clause" class="Participle clause">
+      <wg n="827402" level="phrase" class="Conjunctive phrase">
         <w n="298218" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827403" class="CP">
+      <wg n="827403" level="phrase" class="Conjunctive phrase">
         <w n="298219" lemma="אִם" partOfSpeech="conj" gloss="None">אִם</w>
       </wg>
-      <wg n="827404" class="PP">
+      <wg n="827404" level="phrase" class="Prepositional phrase">
         <w n="298220" lemma="בֵּין" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">בֵּ֥ין</w>
         <w n="298221" lemma="כֹּוכָב" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">כֹּֽוכָבִ֖ים</w>
       </wg>
-      <wg n="827405" class="VP">
+      <wg n="827405" level="phrase" class="Verbal phrase">
         <w n="298222" lemma="שִׂים" partOfSpeech="verb" number="sg" gender="m" tense="ptcp" stem="qal" state="a" gloss="None">שִׂ֣ים</w>
       </wg>
-      <wg n="827406" class="NP">
+      <wg n="827406" level="phrase" class="Nominal phrase">
         <w n="298223" lemma="קִןּ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">קִנֶּ֑ךָ</w>
       </wg>
     </wg>
@@ -230,12 +230,12 @@
   <sentence n="1215829">
     <milestone unit="verse" id="Obad.1.4">Obad.1.4</milestone>
     <p>מִשָּׁ֥ם אֹורִֽידְךָ֖ </p>
-    <wg n="487295" class="xYq0">
-      <wg n="827407" class="PP">
+    <wg n="487295" level="clause" class="x-yiqtol-null clause">
+      <wg n="827407" level="phrase" class="Prepositional phrase">
         <w n="298224" lemma="מִ" partOfSpeech="prep" gloss="None">מִ</w>
         <w n="298225" lemma="שָּׁם" partOfSpeech="advb" gloss="None">שָּׁ֥ם</w>
       </wg>
-      <wg n="827408" class="VP">
+      <wg n="827408" level="phrase" class="Verbal phrase">
         <w n="298226" lemma="ורִיד" partOfSpeech="verb" person="1" number="sg" tense="impf" stem="hif" gloss="None">אֹורִֽידְךָ֖</w>
       </wg>
     </wg>
@@ -243,8 +243,8 @@
   <sentence n="1215830">
     <milestone unit="verse" id="Obad.1.4">Obad.1.4</milestone>
     <p>נְאֻם־יְהוָֽה׃ </p>
-    <wg n="487296" class="MSyn">
-      <wg n="827409" class="NP">
+    <wg n="487296" level="clause" class="Macrosyntactic sign">
+      <wg n="827409" level="phrase" class="Nominal phrase">
         <w n="298227" lemma="נְאֻם" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">נְאֻם</w>
         <w n="298228" lemma="יְהוָה" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יְהוָֽה</w>
       </wg>
@@ -253,25 +253,25 @@
   <sentence n="1215831">
     <milestone unit="verse" id="Obad.1.5">Obad.1.5</milestone>
     <p>אִם־גַּנָּבִ֤ים בָּאֽוּ־לְךָ֙ אִם־שֹׁ֣ודְדֵי לַ֔יְלָה </p>
-    <wg n="487297" class="XQtl">
-      <wg n="827410" class="CP">
+    <wg n="487297" level="clause" class="X-qatal clause">
+      <wg n="827410" level="phrase" class="Conjunctive phrase">
         <w n="298229" lemma="אִם" partOfSpeech="conj" gloss="None">אִם</w>
       </wg>
-      <wg n="827411" class="NP">
+      <wg n="827411" level="phrase" class="Nominal phrase">
         <w n="298230" lemma="גַּנָּב" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">גַּנָּבִ֤ים</w>
       </wg>
-      <wg n="827412" class="VP">
+      <wg n="827412" level="phrase" class="Verbal phrase">
         <w n="298231" lemma="בָּא" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">בָּאֽוּ</w>
       </wg>
-      <wg n="827413" class="PP">
+      <wg n="827413" level="phrase" class="Prepositional phrase">
         <w n="298232" lemma="ל" partOfSpeech="prep" gloss="None">לְךָ֙</w>
       </wg>
     </wg>
-    <wg n="487298" class="Ellp">
-      <wg n="827414" class="CP">
+    <wg n="487298" level="clause" class="Ellipsis">
+      <wg n="827414" level="phrase" class="Conjunctive phrase">
         <w n="298233" lemma="אִם" partOfSpeech="conj" gloss="None">אִם</w>
       </wg>
-      <wg n="827415" class="NP">
+      <wg n="827415" level="phrase" class="Nominal phrase">
         <w n="298234" lemma="שֹׁודְד" partOfSpeech="verb" number="pl" gender="m" tense="ptca" stem="qal" state="c" gloss="None">שֹׁ֣ודְדֵי</w>
         <w n="298235" lemma="לַיְלָה" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">לַ֔יְלָה</w>
       </wg>
@@ -280,11 +280,11 @@
   <sentence n="1215832">
     <milestone unit="verse" id="Obad.1.5">Obad.1.5</milestone>
     <p>אֵ֣יךְ נִדְמֵ֔יתָה </p>
-    <wg n="487299" class="xQt0">
-      <wg n="827416" class="InrP">
+    <wg n="487299" level="clause" class="x-qatal-null clause">
+      <wg n="827416" level="phrase" class="Interrogative phrase">
         <w n="298236" lemma="אֵיךְ" partOfSpeech="inrg" gloss="None">אֵ֣יךְ</w>
       </wg>
-      <wg n="827417" class="VP">
+      <wg n="827417" level="phrase" class="Verbal phrase">
         <w n="298237" lemma="דְמֵי" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="nif" gloss="None">נִדְמֵ֔יתָה</w>
       </wg>
     </wg>
@@ -292,17 +292,17 @@
   <sentence n="1215833">
     <milestone unit="verse" id="Obad.1.5">Obad.1.5</milestone>
     <p>הֲלֹ֥וא יִגְנְב֖וּ דַּיָּ֑ם </p>
-    <wg n="487300" class="xYq0">
-      <wg n="827418" class="InrP">
+    <wg n="487300" level="clause" class="x-yiqtol-null clause">
+      <wg n="827418" level="phrase" class="Interrogative phrase">
         <w n="298238" lemma="הֲ" partOfSpeech="inrg" gloss="None">הֲ</w>
       </wg>
-      <wg n="827419" class="NegP">
+      <wg n="827419" level="phrase" class="Negative phrase">
         <w n="298239" lemma="לֹוא" partOfSpeech="nega" gloss="None">לֹ֥וא</w>
       </wg>
-      <wg n="827420" class="VP">
+      <wg n="827420" level="phrase" class="Verbal phrase">
         <w n="298240" lemma="גְנְב" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal" gloss="None">יִגְנְב֖וּ</w>
       </wg>
-      <wg n="827421" class="NP">
+      <wg n="827421" level="phrase" class="Nominal phrase">
         <w n="298241" lemma="דַּיּ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">דַּיָּ֑ם</w>
       </wg>
     </wg>
@@ -310,17 +310,17 @@
   <sentence n="1215834">
     <milestone unit="verse" id="Obad.1.5">Obad.1.5</milestone>
     <p>אִם־בֹּֽצְרִים֙ בָּ֣אוּ לָ֔ךְ </p>
-    <wg n="487301" class="XQtl">
-      <wg n="827422" class="CP">
+    <wg n="487301" level="clause" class="X-qatal clause">
+      <wg n="827422" level="phrase" class="Conjunctive phrase">
         <w n="298242" lemma="אִם" partOfSpeech="conj" gloss="None">אִם</w>
       </wg>
-      <wg n="827423" class="NP">
+      <wg n="827423" level="phrase" class="Nominal phrase">
         <w n="298243" lemma="בֹּצְר" partOfSpeech="verb" number="pl" gender="m" tense="ptca" stem="qal" state="a" gloss="None">בֹּֽצְרִים֙</w>
       </wg>
-      <wg n="827424" class="VP">
+      <wg n="827424" level="phrase" class="Verbal phrase">
         <w n="298244" lemma="בָּא" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">בָּ֣אוּ</w>
       </wg>
-      <wg n="827425" class="PP">
+      <wg n="827425" level="phrase" class="Prepositional phrase">
         <w n="298245" lemma="ל" partOfSpeech="prep" gloss="None">לָ֔ךְ</w>
       </wg>
     </wg>
@@ -328,17 +328,17 @@
   <sentence n="1215835">
     <milestone unit="verse" id="Obad.1.5">Obad.1.5</milestone>
     <p>הֲלֹ֖וא יַשְׁאִ֥ירוּ עֹלֵלֹֽות׃ </p>
-    <wg n="487302" class="xYq0">
-      <wg n="827426" class="InrP">
+    <wg n="487302" level="clause" class="x-yiqtol-null clause">
+      <wg n="827426" level="phrase" class="Interrogative phrase">
         <w n="298246" lemma="הֲ" partOfSpeech="inrg" gloss="None">הֲ</w>
       </wg>
-      <wg n="827427" class="NegP">
+      <wg n="827427" level="phrase" class="Negative phrase">
         <w n="298247" lemma="לֹוא" partOfSpeech="nega" gloss="None">לֹ֖וא</w>
       </wg>
-      <wg n="827428" class="VP">
+      <wg n="827428" level="phrase" class="Verbal phrase">
         <w n="298248" lemma="שְׁאִיר" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="hif" gloss="None">יַשְׁאִ֥ירוּ</w>
       </wg>
-      <wg n="827429" class="NP">
+      <wg n="827429" level="phrase" class="Nominal phrase">
         <w n="298249" lemma="עֹלֵל" partOfSpeech="subs" number="pl" gender="f" state="a" gloss="None">עֹלֵלֹֽות</w>
       </wg>
     </wg>
@@ -346,14 +346,14 @@
   <sentence n="1215836">
     <milestone unit="verse" id="Obad.1.6">Obad.1.6</milestone>
     <p>אֵ֚יךְ נֶחְפְּשׂ֣וּ עֵשָׂ֔ו </p>
-    <wg n="487303" class="xQtX">
-      <wg n="827430" class="InrP">
+    <wg n="487303" level="clause" class="x-qatal-X clause">
+      <wg n="827430" level="phrase" class="Interrogative phrase">
         <w n="298250" lemma="אֵיךְ" partOfSpeech="inrg" gloss="None">אֵ֚יךְ</w>
       </wg>
-      <wg n="827431" class="VP">
+      <wg n="827431" level="phrase" class="Verbal phrase">
         <w n="298251" lemma="חְפְּשׂ" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="nif" gloss="None">נֶחְפְּשׂ֣וּ</w>
       </wg>
-      <wg n="827432" class="PrNP">
+      <wg n="827432" level="phrase" class="Proper-noun phrase">
         <w n="298252" lemma="עֵשָׂו" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">עֵשָׂ֔ו</w>
       </wg>
     </wg>
@@ -361,11 +361,11 @@
   <sentence n="1215837">
     <milestone unit="verse" id="Obad.1.6">Obad.1.6</milestone>
     <p>נִבְע֖וּ מַצְפֻּנָֽיו׃ </p>
-    <wg n="487304" class="ZQtX">
-      <wg n="827433" class="VP">
+    <wg n="487304" level="clause" class="Zero-qatal-X clause">
+      <wg n="827433" level="phrase" class="Verbal phrase">
         <w n="298253" lemma="בְע" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="nif" gloss="None">נִבְע֖וּ</w>
       </wg>
-      <wg n="827434" class="NP">
+      <wg n="827434" level="phrase" class="Nominal phrase">
         <w n="298254" lemma="מַצְפֻּן" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">מַצְפֻּנָֽיו</w>
       </wg>
     </wg>
@@ -373,16 +373,16 @@
   <sentence n="1215838">
     <milestone unit="verse" id="Obad.1.7">Obad.1.7</milestone>
     <p>עַֽד־הַגְּב֣וּל שִׁלְּח֗וּךָ כֹּ֚ל אַנְשֵׁ֣י בְרִיתֶ֔ךָ </p>
-    <wg n="487305" class="xQtX">
-      <wg n="827435" class="PP">
+    <wg n="487305" level="clause" class="x-qatal-X clause">
+      <wg n="827435" level="phrase" class="Prepositional phrase">
         <w n="298255" lemma="עַד" partOfSpeech="prep" gloss="None">עַֽד</w>
         <w n="298256" lemma="הַ" partOfSpeech="art" gloss="None">הַ</w>
         <w n="298257" lemma="גְּבוּל" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">גְּב֣וּל</w>
       </wg>
-      <wg n="827436" class="VP">
+      <wg n="827436" level="phrase" class="Verbal phrase">
         <w n="298258" lemma="שִׁלְּח" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="piel" gloss="None">שִׁלְּח֗וּךָ</w>
       </wg>
-      <wg n="827437" class="NP">
+      <wg n="827437" level="phrase" class="Nominal phrase">
         <w n="298259" lemma="כֹּל" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">כֹּ֚ל</w>
         <w n="298260" lemma="אַנְשׁ" partOfSpeech="subs" number="pl" gender="m" state="c" gloss="None">אַנְשֵׁ֣י</w>
         <w n="298261" lemma="בְרִית" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">בְרִיתֶ֔ךָ</w>
@@ -392,8 +392,8 @@
   <sentence n="1215839">
     <milestone unit="verse" id="Obad.1.7">Obad.1.7</milestone>
     <p>הִשִּׁיא֛וּךָ </p>
-    <wg n="487306" class="ZQt0">
-      <wg n="827438" class="VP">
+    <wg n="487306" level="clause" class="Zero-qatal-null clause">
+      <wg n="827438" level="phrase" class="Verbal phrase">
         <w n="298262" lemma="שִּׁיא" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="hif" gloss="None">הִשִּׁיא֛וּךָ</w>
       </wg>
     </wg>
@@ -401,14 +401,14 @@
   <sentence n="1215840">
     <milestone unit="verse" id="Obad.1.7">Obad.1.7</milestone>
     <p>יָכְל֥וּ לְךָ֖ אַנְשֵׁ֣י שְׁלֹמֶ֑ךָ </p>
-    <wg n="487307" class="ZQtX">
-      <wg n="827439" class="VP">
+    <wg n="487307" level="clause" class="Zero-qatal-X clause">
+      <wg n="827439" level="phrase" class="Verbal phrase">
         <w n="298263" lemma="יָכְל" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">יָכְל֥וּ</w>
       </wg>
-      <wg n="827440" class="PP">
+      <wg n="827440" level="phrase" class="Prepositional phrase">
         <w n="298264" lemma="ל" partOfSpeech="prep" gloss="None">לְךָ֖</w>
       </wg>
-      <wg n="827441" class="NP">
+      <wg n="827441" level="phrase" class="Nominal phrase">
         <w n="298265" lemma="אַנְשׁ" partOfSpeech="subs" number="pl" gender="m" state="c" gloss="None">אַנְשֵׁ֣י</w>
         <w n="298266" lemma="שְׁלֹם" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">שְׁלֹמֶ֑ךָ</w>
       </wg>
@@ -417,17 +417,17 @@
   <sentence n="1215841">
     <milestone unit="verse" id="Obad.1.7">Obad.1.7</milestone>
     <p>לַחְמְךָ֗ יָשִׂ֤ימוּ מָזֹור֙ תַּחְתֶּ֔יךָ </p>
-    <wg n="487308" class="XYqt">
-      <wg n="827442" class="NP">
+    <wg n="487308" level="clause" class="X-yiqtol clause">
+      <wg n="827442" level="phrase" class="Nominal phrase">
         <w n="298267" lemma="לַחְם" partOfSpeech="subs" number="sg" state="a" gloss="None">לַחְמְךָ֗</w>
       </wg>
-      <wg n="827443" class="VP">
+      <wg n="827443" level="phrase" class="Verbal phrase">
         <w n="298268" lemma="שִׂים" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal" gloss="None">יָשִׂ֤ימוּ</w>
       </wg>
-      <wg n="827444" class="NP">
+      <wg n="827444" level="phrase" class="Nominal phrase">
         <w n="298269" lemma="מָזֹור" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">מָזֹור֙</w>
       </wg>
-      <wg n="827445" class="PP">
+      <wg n="827445" level="phrase" class="Prepositional phrase">
         <w n="298270" lemma="תַּחְתּ" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">תַּחְתֶּ֔יךָ</w>
       </wg>
     </wg>
@@ -435,14 +435,14 @@
   <sentence n="1215842">
     <milestone unit="verse" id="Obad.1.7">Obad.1.7</milestone>
     <p>אֵ֥ין תְּבוּנָ֖ה בֹּֽו׃ </p>
-    <wg n="487309" class="NmCl">
-      <wg n="827446" class="NegP">
+    <wg n="487309" level="clause" class="Nominal clause">
+      <wg n="827446" level="phrase" class="Negative phrase">
         <w n="298271" lemma="אֵין" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">אֵ֥ין</w>
       </wg>
-      <wg n="827447" class="NP">
+      <wg n="827447" level="phrase" class="Nominal phrase">
         <w n="298272" lemma="תְּבוּן" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">תְּבוּנָ֖ה</w>
       </wg>
-      <wg n="827448" class="PP">
+      <wg n="827448" level="phrase" class="Prepositional phrase">
         <w n="298273" lemma="בּ" partOfSpeech="prep" gloss="None">בֹּֽו</w>
       </wg>
     </wg>
@@ -450,14 +450,14 @@
   <sentence n="1215843">
     <milestone unit="verse" id="Obad.1.8">Obad.1.8</milestone>
     <p>הֲלֹ֛וא בַּיֹּ֥ום הַה֖וּא </p>
-    <wg n="487310" class="NmCl">
-      <wg n="827449" class="InrP">
+    <wg n="487310" level="clause" class="Nominal clause">
+      <wg n="827449" level="phrase" class="Interrogative phrase">
         <w n="298274" lemma="הֲ" partOfSpeech="inrg" gloss="None">הֲ</w>
       </wg>
-      <wg n="827450" class="NegP">
+      <wg n="827450" level="phrase" class="Negative phrase">
         <w n="298275" lemma="לֹוא" partOfSpeech="nega" gloss="None">לֹ֛וא</w>
       </wg>
-      <wg n="827451" class="PP">
+      <wg n="827451" level="phrase" class="Prepositional phrase">
         <w n="298276" lemma="בַּ" partOfSpeech="prep" gloss="None">בַּ</w>
         <w n="298277" partOfSpeech="art" gloss="None"></w>
         <w n="298278" lemma="יֹּום" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">יֹּ֥ום</w>
@@ -469,8 +469,8 @@
   <sentence n="1215844">
     <milestone unit="verse" id="Obad.1.8">Obad.1.8</milestone>
     <p>נְאֻם יְהוָ֑ה </p>
-    <wg n="487311" class="MSyn">
-      <wg n="827452" class="NP">
+    <wg n="487311" level="clause" class="Macrosyntactic sign">
+      <wg n="827452" level="phrase" class="Nominal phrase">
         <w n="298281" lemma="נְאֻם" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">נְאֻם</w>
         <w n="298282" lemma="יְהוָה" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יְהוָ֑ה</w>
       </wg>
@@ -479,29 +479,29 @@
   <sentence n="1215845">
     <milestone unit="verse" id="Obad.1.8">Obad.1.8</milestone>
     <p>וְהַאֲבַדְתִּ֤י חֲכָמִים֙ מֵֽאֱדֹ֔ום וּתְבוּנָ֖ה מֵהַ֥ר עֵשָֽׂו׃ </p>
-    <wg n="487312" class="WQt0">
-      <wg n="827453" class="CP">
+    <wg n="487312" level="clause" class="We-qatal-null clause">
+      <wg n="827453" level="phrase" class="Conjunctive phrase">
         <w n="298283" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827454" class="VP">
+      <wg n="827454" level="phrase" class="Verbal phrase">
         <w n="298284" lemma="אֲבַדְ" partOfSpeech="verb" person="1" number="sg" tense="perf" stem="hif" gloss="None">הַאֲבַדְתִּ֤י</w>
       </wg>
-      <wg n="827455" class="NP">
+      <wg n="827455" level="phrase" class="Nominal phrase">
         <w n="298285" lemma="חֲכָם" partOfSpeech="adjv" number="pl" gender="m" state="a" gloss="None">חֲכָמִים֙</w>
       </wg>
-      <wg n="827456" class="PP">
+      <wg n="827456" level="phrase" class="Prepositional phrase">
         <w n="298286" lemma="מֵ" partOfSpeech="prep" gloss="None">מֵֽ</w>
         <w n="298287" lemma="אֱדֹום" partOfSpeech="nmpr" number="sg" state="a" gloss="None">אֱדֹ֔ום</w>
       </wg>
     </wg>
-    <wg n="487313" class="Ellp">
-      <wg n="827457" class="CP">
+    <wg n="487313" level="clause" class="Ellipsis">
+      <wg n="827457" level="phrase" class="Conjunctive phrase">
         <w n="298288" lemma="וּ" partOfSpeech="conj" gloss="None">וּ</w>
       </wg>
-      <wg n="827458" class="NP">
+      <wg n="827458" level="phrase" class="Nominal phrase">
         <w n="298289" lemma="תְבוּן" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">תְבוּנָ֖ה</w>
       </wg>
-      <wg n="827459" class="PP">
+      <wg n="827459" level="phrase" class="Prepositional phrase">
         <w n="298290" lemma="מֵ" partOfSpeech="prep" gloss="None">מֵ</w>
         <w n="298291" lemma="הַר" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">הַ֥ר</w>
         <w n="298292" lemma="עֵשָׂו" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">עֵשָֽׂו</w>
@@ -511,14 +511,14 @@
   <sentence n="1215846">
     <milestone unit="verse" id="Obad.1.9">Obad.1.9</milestone>
     <p>וְחַתּ֥וּ גִבֹּורֶ֖יךָ </p>
-    <wg n="487314" class="WQtX">
-      <wg n="827460" class="CP">
+    <wg n="487314" level="clause" class="We-qatal-X clause">
+      <wg n="827460" level="phrase" class="Conjunctive phrase">
         <w n="298293" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827461" class="VP">
+      <wg n="827461" level="phrase" class="Verbal phrase">
         <w n="298294" lemma="חַתּ" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">חַתּ֥וּ</w>
       </wg>
-      <wg n="827462" class="NP">
+      <wg n="827462" level="phrase" class="Nominal phrase">
         <w n="298295" lemma="גִבֹּור" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">גִבֹּורֶ֖יךָ</w>
       </wg>
     </wg>
@@ -526,25 +526,25 @@
   <sentence n="1215847">
     <milestone unit="verse" id="Obad.1.9">Obad.1.9</milestone>
     <p>תֵּימָ֑ן לְמַ֧עַן יִכָּֽרֶת־אִ֛ישׁ מֵהַ֥ר עֵשָׂ֖ו מִקָּֽטֶל׃ </p>
-    <wg n="487315" class="Voct">
-      <wg n="827463" class="PrNP">
+    <wg n="487315" level="clause" class="Vocative clause">
+      <wg n="827463" level="phrase" class="Proper-noun phrase">
         <w n="298296" lemma="תֵּימָן" partOfSpeech="nmpr" number="sg" state="a" gloss="None">תֵּימָ֑ן</w>
       </wg>
     </wg>
-    <wg n="487316" class="xYqX" role="Adju">
-      <wg n="827464" class="CP">
+    <wg n="487316" level="clause" class="x-yiqtol-X clause" role="Adjunctive clause">
+      <wg n="827464" level="phrase" class="Conjunctive phrase">
         <w n="298297" lemma="לְמַעַן" partOfSpeech="prep" gloss="None">לְמַ֧עַן</w>
       </wg>
-      <wg n="827465" class="VP">
+      <wg n="827465" level="phrase" class="Verbal phrase">
         <w n="298298" lemma="כָּרֶת" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="nif" gloss="None">יִכָּֽרֶת</w>
       </wg>
-      <wg n="827466" class="NP">
+      <wg n="827466" level="phrase" class="Nominal phrase">
         <w n="298299" lemma="אִישׁ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">אִ֛ישׁ</w>
         <w n="298300" lemma="מֵ" partOfSpeech="prep" gloss="None">מֵ</w>
         <w n="298301" lemma="הַר" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">הַ֥ר</w>
         <w n="298302" lemma="עֵשָׂו" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">עֵשָׂ֖ו</w>
       </wg>
-      <wg n="827467" class="PP">
+      <wg n="827467" level="phrase" class="Prepositional phrase">
         <w n="298303" lemma="מִ" partOfSpeech="prep" gloss="None">מִ</w>
         <w n="298304" lemma="קָּטֶל" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">קָּֽטֶל</w>
       </wg>
@@ -553,17 +553,17 @@
   <sentence n="1215848">
     <milestone unit="verse" id="Obad.1.10">Obad.1.10</milestone>
     <p>מֵחֲמַ֛ס אָחִ֥יךָ יַעֲקֹ֖ב תְּכַסְּךָ֣ בוּשָׁ֑ה </p>
-    <wg n="487317" class="xYqX">
-      <wg n="827468" class="PP">
+    <wg n="487317" level="clause" class="x-yiqtol-X clause">
+      <wg n="827468" level="phrase" class="Prepositional phrase">
         <w n="298305" lemma="מֵ" partOfSpeech="prep" gloss="None">מֵ</w>
         <w n="298306" lemma="חֲמַס" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">חֲמַ֛ס</w>
         <w n="298307" lemma="אָח" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">אָחִ֥יךָ</w>
         <w n="298308" lemma="יַעֲקֹב" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יַעֲקֹ֖ב</w>
       </wg>
-      <wg n="827469" class="VP">
+      <wg n="827469" level="phrase" class="Verbal phrase">
         <w n="298309" lemma="כַסּ" partOfSpeech="verb" person="3" number="sg" gender="f" tense="impf" stem="piel" gloss="None">תְּכַסְּךָ֣</w>
       </wg>
-      <wg n="827470" class="NP">
+      <wg n="827470" level="phrase" class="Nominal phrase">
         <w n="298310" lemma="בוּשׁ" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">בוּשָׁ֑ה</w>
       </wg>
     </wg>
@@ -571,14 +571,14 @@
   <sentence n="1215849">
     <milestone unit="verse" id="Obad.1.10">Obad.1.10</milestone>
     <p>וְנִכְרַ֖תָּ לְעֹולָֽם׃ </p>
-    <wg n="487318" class="WQt0">
-      <wg n="827471" class="CP">
+    <wg n="487318" level="clause" class="We-qatal-null clause">
+      <wg n="827471" level="phrase" class="Conjunctive phrase">
         <w n="298311" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827472" class="VP">
+      <wg n="827472" level="phrase" class="Verbal phrase">
         <w n="298312" lemma="כְרַ" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="nif" gloss="None">נִכְרַ֖תָּ</w>
       </wg>
-      <wg n="827473" class="PP">
+      <wg n="827473" level="phrase" class="Prepositional phrase">
         <w n="298313" lemma="לְ" partOfSpeech="prep" gloss="None">לְ</w>
         <w n="298314" lemma="עֹולָם" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">עֹולָֽם</w>
       </wg>
@@ -587,71 +587,71 @@
   <sentence n="1215850">
     <milestone unit="verse" id="Obad.1.11">Obad.1.11</milestone>
     <p>בְּיֹום֙ עֲמָֽדְךָ֣ מִנֶּ֔גֶד בְּיֹ֛ום שְׁבֹ֥ות זָרִ֖ים חֵילֹ֑ו וְנָכְרִ֞ים בָּ֣אוּ שְׁעָרָ֗יו וְעַל־יְרוּשָׁלִַ֨ם֙ יַדּ֣וּ גֹורָ֔ל גַּם־אַתָּ֖ה כְּאַחַ֥ד מֵהֶֽם׃ </p>
-    <wg n="487319" class="NmCl">
-      <wg n="827474" class="PP">
+    <wg n="487319" level="clause" class="Nominal clause">
+      <wg n="827474" level="phrase" class="Prepositional phrase">
         <w n="298315" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298316" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹום֙</w>
       </wg>
-      <wg n="827477" class="PP">
+      <wg n="827477" level="phrase" class="Prepositional phrase">
         <w n="298320" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298321" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹ֛ום</w>
       </wg>
-      <wg n="827489" class="PPrP">
+      <wg n="827489" level="phrase" class="Personal pronoun phrase">
         <w n="298334" lemma="גַּם" partOfSpeech="advb" gloss="None">גַּם</w>
         <w n="298335" lemma="אַתָּה" partOfSpeech="prps" person="2" number="sg" gender="m" gloss="None">אַתָּ֖ה</w>
       </wg>
-      <wg n="827490" class="PP">
+      <wg n="827490" level="phrase" class="Prepositional phrase">
         <w n="298336" lemma="כְּ" partOfSpeech="prep" gloss="None">כְּ</w>
         <w n="298337" lemma="אַחַד" partOfSpeech="subs" number="sg" state="c" gloss="None">אַחַ֥ד</w>
         <w n="298338" lemma="מֵ" partOfSpeech="prep" gloss="None">מֵהֶֽם</w>
       </wg>
     </wg>
-    <wg n="487320" class="InfC" role="RgRc">
-      <wg n="827475" class="VP">
+    <wg n="487320" level="clause" class="Infinitive construct clause" role="Regens/rectum connection">
+      <wg n="827475" level="phrase" class="Verbal phrase">
         <w n="298317" lemma="עֲמָד" partOfSpeech="verb" tense="infc" stem="qal" state="a" gloss="None">עֲמָֽדְךָ֣</w>
       </wg>
-      <wg n="827476" class="PP">
+      <wg n="827476" level="phrase" class="Prepositional phrase">
         <w n="298318" lemma="מִ" partOfSpeech="prep" gloss="None">מִ</w>
         <w n="298319" lemma="נֶּגֶד" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">נֶּ֔גֶד</w>
       </wg>
     </wg>
-    <wg n="487321" class="InfC" role="RgRc">
-      <wg n="827478" class="VP">
+    <wg n="487321" level="clause" class="Infinitive construct clause" role="Regens/rectum connection">
+      <wg n="827478" level="phrase" class="Verbal phrase">
         <w n="298322" lemma="שְׁב" partOfSpeech="verb" tense="infc" stem="qal" state="c" gloss="None">שְׁבֹ֥ות</w>
       </wg>
-      <wg n="827479" class="NP">
+      <wg n="827479" level="phrase" class="Nominal phrase">
         <w n="298323" lemma="זָר" partOfSpeech="adjv" number="pl" gender="m" state="a" gloss="None">זָרִ֖ים</w>
       </wg>
-      <wg n="827480" class="NP">
+      <wg n="827480" level="phrase" class="Nominal phrase">
         <w n="298324" lemma="חֵיל" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">חֵילֹ֑ו</w>
       </wg>
     </wg>
-    <wg n="487322" class="WXQt" role="Coor">
-      <wg n="827481" class="CP">
+    <wg n="487322" level="clause" class="We-X-qatal clause" role="Coordinated clause">
+      <wg n="827481" level="phrase" class="Conjunctive phrase">
         <w n="298325" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827482" class="NP">
+      <wg n="827482" level="phrase" class="Nominal phrase">
         <w n="298326" lemma="נָכְר" partOfSpeech="adjv" number="pl" gender="m" state="a" gloss="None">נָכְרִ֞ים</w>
       </wg>
-      <wg n="827483" class="VP">
+      <wg n="827483" level="phrase" class="Verbal phrase">
         <w n="298327" lemma="בָּא" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">בָּ֣אוּ</w>
       </wg>
-      <wg n="827484" class="NP">
+      <wg n="827484" level="phrase" class="Nominal phrase">
         <w n="298328" lemma="שׁער" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">שׁערו</w>
       </wg>
     </wg>
-    <wg n="487323" class="WxQ0" role="Coor">
-      <wg n="827485" class="CP">
+    <wg n="487323" level="clause" class="We-x-qatal-null clause" role="Coordinated clause">
+      <wg n="827485" level="phrase" class="Conjunctive phrase">
         <w n="298329" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827486" class="PP">
+      <wg n="827486" level="phrase" class="Prepositional phrase">
         <w n="298330" lemma="עַל" partOfSpeech="prep" gloss="None">עַל</w>
         <w n="298331" lemma="יְרוּשָׁלִַם" partOfSpeech="nmpr" number="sg" state="a" gloss="None">יְרוּשָׁלִַ֨ם֙</w>
       </wg>
-      <wg n="827487" class="VP">
+      <wg n="827487" level="phrase" class="Verbal phrase">
         <w n="298332" lemma="יַדּ" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">יַדּ֣וּ</w>
       </wg>
-      <wg n="827488" class="NP">
+      <wg n="827488" level="phrase" class="Nominal phrase">
         <w n="298333" lemma="גֹורָל" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">גֹורָ֔ל</w>
       </wg>
     </wg>
@@ -659,17 +659,17 @@
   <sentence n="1215851">
     <milestone unit="verse" id="Obad.1.12">Obad.1.12</milestone>
     <p>וְאַל־תֵּ֤רֶא בְיֹום־אָחִ֨יךָ֙ בְּיֹ֣ום נָכְרֹ֔ו </p>
-    <wg n="487324" class="WxY0">
-      <wg n="827491" class="CP">
+    <wg n="487324" level="clause" class="We-x-yiqtol-null clause">
+      <wg n="827491" level="phrase" class="Conjunctive phrase">
         <w n="298339" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827492" class="NegP">
+      <wg n="827492" level="phrase" class="Negative phrase">
         <w n="298340" lemma="אַל" partOfSpeech="nega" gloss="None">אַל</w>
       </wg>
-      <wg n="827493" class="VP">
+      <wg n="827493" level="phrase" class="Verbal phrase">
         <w n="298341" lemma="רֶא" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="qal" gloss="None">תֵּ֤רֶא</w>
       </wg>
-      <wg n="827494" class="PP">
+      <wg n="827494" level="phrase" class="Prepositional phrase">
         <w n="298342" lemma="בְ" partOfSpeech="prep" gloss="None">בְ</w>
         <w n="298343" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹום</w>
         <w n="298344" lemma="אָח" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">אָחִ֨יךָ֙</w>
@@ -682,28 +682,28 @@
   <sentence n="1215852">
     <milestone unit="verse" id="Obad.1.12">Obad.1.12</milestone>
     <p>וְאַל־תִּשְׂמַ֥ח לִבְנֵֽי־יְהוּדָ֖ה בְּיֹ֣ום אָבְדָ֑ם </p>
-    <wg n="487325" class="WxY0">
-      <wg n="827495" class="CP">
+    <wg n="487325" level="clause" class="We-x-yiqtol-null clause">
+      <wg n="827495" level="phrase" class="Conjunctive phrase">
         <w n="298348" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827496" class="NegP">
+      <wg n="827496" level="phrase" class="Negative phrase">
         <w n="298349" lemma="אַל" partOfSpeech="nega" gloss="None">אַל</w>
       </wg>
-      <wg n="827497" class="VP">
+      <wg n="827497" level="phrase" class="Verbal phrase">
         <w n="298350" lemma="שְׂמַח" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="qal" gloss="None">תִּשְׂמַ֥ח</w>
       </wg>
-      <wg n="827498" class="PP">
+      <wg n="827498" level="phrase" class="Prepositional phrase">
         <w n="298351" lemma="לִ" partOfSpeech="prep" gloss="None">לִ</w>
         <w n="298352" lemma="בְן" partOfSpeech="subs" number="pl" gender="m" state="c" gloss="None">בְנֵֽי</w>
         <w n="298353" lemma="יְהוּדָה" partOfSpeech="nmpr" number="sg" state="a" gloss="None">יְהוּדָ֖ה</w>
       </wg>
-      <wg n="827499" class="PP">
+      <wg n="827499" level="phrase" class="Prepositional phrase">
         <w n="298354" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298355" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹ֣ום</w>
       </wg>
     </wg>
-    <wg n="487326" class="InfC" role="RgRc">
-      <wg n="827500" class="VP">
+    <wg n="487326" level="clause" class="Infinitive construct clause" role="Regens/rectum connection">
+      <wg n="827500" level="phrase" class="Verbal phrase">
         <w n="298356" lemma="אָבְד" partOfSpeech="verb" tense="infc" stem="qal" state="a" gloss="None">אָבְדָ֑ם</w>
       </wg>
     </wg>
@@ -711,20 +711,20 @@
   <sentence n="1215853">
     <milestone unit="verse" id="Obad.1.12">Obad.1.12</milestone>
     <p>וְאַל־תַּגְדֵּ֥ל פִּ֖יךָ בְּיֹ֥ום צָרָֽה׃ </p>
-    <wg n="487327" class="WxY0">
-      <wg n="827501" class="CP">
+    <wg n="487327" level="clause" class="We-x-yiqtol-null clause">
+      <wg n="827501" level="phrase" class="Conjunctive phrase">
         <w n="298357" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827502" class="NegP">
+      <wg n="827502" level="phrase" class="Negative phrase">
         <w n="298358" lemma="אַל" partOfSpeech="nega" gloss="None">אַל</w>
       </wg>
-      <wg n="827503" class="VP">
+      <wg n="827503" level="phrase" class="Verbal phrase">
         <w n="298359" lemma="גְדֵּל" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="hif" gloss="None">תַּגְדֵּ֥ל</w>
       </wg>
-      <wg n="827504" class="NP">
+      <wg n="827504" level="phrase" class="Nominal phrase">
         <w n="298360" lemma="פִּי" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">פִּ֖יךָ</w>
       </wg>
-      <wg n="827505" class="PP">
+      <wg n="827505" level="phrase" class="Prepositional phrase">
         <w n="298361" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298362" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹ֥ום</w>
         <w n="298363" lemma="צָר" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">צָרָֽה</w>
@@ -734,19 +734,19 @@
   <sentence n="1215854">
     <milestone unit="verse" id="Obad.1.13">Obad.1.13</milestone>
     <p>אַל־תָּבֹ֤וא בְשַֽׁעַר־עַמִּי֙ בְּיֹ֣ום אֵידָ֔ם </p>
-    <wg n="487328" class="xYq0">
-      <wg n="827506" class="NegP">
+    <wg n="487328" level="clause" class="x-yiqtol-null clause">
+      <wg n="827506" level="phrase" class="Negative phrase">
         <w n="298364" lemma="אַל" partOfSpeech="nega" gloss="None">אַל</w>
       </wg>
-      <wg n="827507" class="VP">
+      <wg n="827507" level="phrase" class="Verbal phrase">
         <w n="298365" lemma="בֹוא" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="qal" gloss="None">תָּבֹ֤וא</w>
       </wg>
-      <wg n="827508" class="PP">
+      <wg n="827508" level="phrase" class="Prepositional phrase">
         <w n="298366" lemma="בְ" partOfSpeech="prep" gloss="None">בְ</w>
         <w n="298367" lemma="שַׁעַר" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">שַֽׁעַר</w>
         <w n="298368" lemma="עַםּ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">עַמִּי֙</w>
       </wg>
-      <wg n="827509" class="PP">
+      <wg n="827509" level="phrase" class="Prepositional phrase">
         <w n="298369" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298370" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹ֣ום</w>
         <w n="298371" lemma="אֵיד" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">אֵידָ֔ם</w>
@@ -756,22 +756,22 @@
   <sentence n="1215855">
     <milestone unit="verse" id="Obad.1.13">Obad.1.13</milestone>
     <p>אַל־תֵּ֧רֶא גַם־אַתָּ֛ה בְּרָעָתֹ֖ו בְּיֹ֣ום אֵידֹ֑ו </p>
-    <wg n="487329" class="xYqX">
-      <wg n="827510" class="NegP">
+    <wg n="487329" level="clause" class="x-yiqtol-X clause">
+      <wg n="827510" level="phrase" class="Negative phrase">
         <w n="298372" lemma="אַל" partOfSpeech="nega" gloss="None">אַל</w>
       </wg>
-      <wg n="827511" class="VP">
+      <wg n="827511" level="phrase" class="Verbal phrase">
         <w n="298373" lemma="רֶא" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="qal" gloss="None">תֵּ֧רֶא</w>
       </wg>
-      <wg n="827512" class="PPrP">
+      <wg n="827512" level="phrase" class="Personal pronoun phrase">
         <w n="298374" lemma="גַם" partOfSpeech="advb" gloss="None">גַם</w>
         <w n="298375" lemma="אַתָּה" partOfSpeech="prps" person="2" number="sg" gender="m" gloss="None">אַתָּ֛ה</w>
       </wg>
-      <wg n="827513" class="PP">
+      <wg n="827513" level="phrase" class="Prepositional phrase">
         <w n="298376" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298377" lemma="רָע" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">רָעָתֹ֖ו</w>
       </wg>
-      <wg n="827514" class="PP">
+      <wg n="827514" level="phrase" class="Prepositional phrase">
         <w n="298378" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298379" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹ֣ום</w>
         <w n="298380" lemma="אֵיד" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">אֵידֹ֑ו</w>
@@ -781,21 +781,21 @@
   <sentence n="1215856">
     <milestone unit="verse" id="Obad.1.13">Obad.1.13</milestone>
     <p>וְאַל־תִּשְׁלַ֥חְנָה בְחֵילֹ֖ו בְּיֹ֥ום אֵידֹֽו׃ </p>
-    <wg n="487330" class="WxY0">
-      <wg n="827515" class="CP">
+    <wg n="487330" level="clause" class="We-x-yiqtol-null clause">
+      <wg n="827515" level="phrase" class="Conjunctive phrase">
         <w n="298381" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827516" class="NegP">
+      <wg n="827516" level="phrase" class="Negative phrase">
         <w n="298382" lemma="אַל" partOfSpeech="nega" gloss="None">אַל</w>
       </wg>
-      <wg n="827517" class="VP">
+      <wg n="827517" level="phrase" class="Verbal phrase">
         <w n="298383" lemma="שְׁלַחְ" partOfSpeech="verb" person="2" number="pl" gender="f" tense="impf" stem="qal" gloss="None">תִּשְׁלַ֥חְנָה</w>
       </wg>
-      <wg n="827518" class="PP">
+      <wg n="827518" level="phrase" class="Prepositional phrase">
         <w n="298384" lemma="בְ" partOfSpeech="prep" gloss="None">בְ</w>
         <w n="298385" lemma="חֵיל" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">חֵילֹ֖ו</w>
       </wg>
-      <wg n="827519" class="PP">
+      <wg n="827519" level="phrase" class="Prepositional phrase">
         <w n="298386" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298387" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹ֥ום</w>
         <w n="298388" lemma="אֵיד" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">אֵידֹֽו</w>
@@ -805,28 +805,28 @@
   <sentence n="1215857">
     <milestone unit="verse" id="Obad.1.14">Obad.1.14</milestone>
     <p>וְאַֽל־תַּעֲמֹד֙ עַל־הַפֶּ֔רֶק לְהַכְרִ֖ית אֶת־פְּלִיטָ֑יו </p>
-    <wg n="487331" class="WxY0">
-      <wg n="827520" class="CP">
+    <wg n="487331" level="clause" class="We-x-yiqtol-null clause">
+      <wg n="827520" level="phrase" class="Conjunctive phrase">
         <w n="298389" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827521" class="NegP">
+      <wg n="827521" level="phrase" class="Negative phrase">
         <w n="298390" lemma="אַל" partOfSpeech="nega" gloss="None">אַֽל</w>
       </wg>
-      <wg n="827522" class="VP">
+      <wg n="827522" level="phrase" class="Verbal phrase">
         <w n="298391" lemma="עֲמֹד" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="qal" gloss="None">תַּעֲמֹד֙</w>
       </wg>
-      <wg n="827523" class="PP">
+      <wg n="827523" level="phrase" class="Prepositional phrase">
         <w n="298392" lemma="עַל" partOfSpeech="prep" gloss="None">עַל</w>
         <w n="298393" lemma="הַ" partOfSpeech="art" gloss="None">הַ</w>
         <w n="298394" lemma="פֶּרֶק" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">פֶּ֔רֶק</w>
       </wg>
     </wg>
-    <wg n="487332" class="InfC" role="Adju">
-      <wg n="827524" class="VP">
+    <wg n="487332" level="clause" class="Infinitive construct clause" role="Adjunctive clause">
+      <wg n="827524" level="phrase" class="Verbal phrase">
         <w n="298395" lemma="לְ" partOfSpeech="prep" gloss="None">לְ</w>
         <w n="298396" lemma="כְרִית" partOfSpeech="verb" tense="infc" stem="hif" state="a" gloss="None">הַכְרִ֖ית</w>
       </wg>
-      <wg n="827525" class="PP">
+      <wg n="827525" level="phrase" class="Prepositional phrase">
         <w n="298397" lemma="אֶת" partOfSpeech="prep" gloss="None">אֶת</w>
         <w n="298398" lemma="פְּלִיט" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">פְּלִיטָ֑יו</w>
       </wg>
@@ -835,20 +835,20 @@
   <sentence n="1215858">
     <milestone unit="verse" id="Obad.1.14">Obad.1.14</milestone>
     <p>וְאַל־תַּסְגֵּ֥ר שְׂרִידָ֖יו בְּיֹ֥ום צָרָֽה׃ </p>
-    <wg n="487333" class="WxY0">
-      <wg n="827526" class="CP">
+    <wg n="487333" level="clause" class="We-x-yiqtol-null clause">
+      <wg n="827526" level="phrase" class="Conjunctive phrase">
         <w n="298399" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827527" class="NegP">
+      <wg n="827527" level="phrase" class="Negative phrase">
         <w n="298400" lemma="אַל" partOfSpeech="nega" gloss="None">אַל</w>
       </wg>
-      <wg n="827528" class="VP">
+      <wg n="827528" level="phrase" class="Verbal phrase">
         <w n="298401" lemma="סְגֵּר" partOfSpeech="verb" person="2" number="sg" gender="m" tense="impf" stem="hif" gloss="None">תַּסְגֵּ֥ר</w>
       </wg>
-      <wg n="827529" class="NP">
+      <wg n="827529" level="phrase" class="Nominal phrase">
         <w n="298402" lemma="שְׂרִיד" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">שְׂרִידָ֖יו</w>
       </wg>
-      <wg n="827530" class="PP">
+      <wg n="827530" level="phrase" class="Prepositional phrase">
         <w n="298403" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298404" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹ֥ום</w>
         <w n="298405" lemma="צָר" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">צָרָֽה</w>
@@ -858,14 +858,14 @@
   <sentence n="1215859">
     <milestone unit="verse" id="Obad.1.15">Obad.1.15</milestone>
     <p>כִּֽי־קָרֹ֥וב יֹום־יְהוָ֖ה עַל־כָּל־הַגֹּויִ֑ם </p>
-    <wg n="487334" class="AjCl">
-      <wg n="827531" class="CP">
+    <wg n="487334" level="clause" class="Adjective clause">
+      <wg n="827531" level="phrase" class="Conjunctive phrase">
         <w n="298406" lemma="כִּי" partOfSpeech="conj" gloss="None">כִּֽי</w>
       </wg>
-      <wg n="827532" class="AdjP">
+      <wg n="827532" level="phrase" class="Adjective phrase">
         <w n="298407" lemma="קָרֹוב" partOfSpeech="adjv" number="sg" gender="m" state="a" gloss="None">קָרֹ֥וב</w>
       </wg>
-      <wg n="827533" class="NP">
+      <wg n="827533" level="phrase" class="Nominal phrase">
         <w n="298408" lemma="יֹום" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">יֹום</w>
         <w n="298409" lemma="יְהוָה" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יְהוָ֖ה</w>
         <w n="298410" lemma="עַל" partOfSpeech="prep" gloss="None">עַל</w>
@@ -878,20 +878,20 @@
   <sentence n="1215860">
     <milestone unit="verse" id="Obad.1.15">Obad.1.15</milestone>
     <p>כַּאֲשֶׁ֤ר עָשִׂ֨יתָ֙ יֵעָ֣שֶׂה לָּ֔ךְ </p>
-    <wg n="487335" class="xQt0" role="Adju">
-      <wg n="827534" class="CP">
+    <wg n="487335" level="clause" class="x-qatal-null clause" role="Adjunctive clause">
+      <wg n="827534" level="phrase" class="Conjunctive phrase">
         <w n="298414" lemma="כַּ" partOfSpeech="prep" gloss="None">כַּ</w>
         <w n="298415" lemma="אֲשֶׁר" partOfSpeech="conj" gloss="None">אֲשֶׁ֤ר</w>
       </wg>
-      <wg n="827535" class="VP">
+      <wg n="827535" level="phrase" class="Verbal phrase">
         <w n="298416" lemma="עָשִׂי" partOfSpeech="verb" person="2" number="sg" gender="m" tense="perf" stem="qal" gloss="None">עָשִׂ֨יתָ֙</w>
       </wg>
     </wg>
-    <wg n="487336" class="xYq0">
-      <wg n="827536" class="VP">
+    <wg n="487336" level="clause" class="x-yiqtol-null clause">
+      <wg n="827536" level="phrase" class="Verbal phrase">
         <w n="298417" lemma="עָשֶׂה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="nif" gloss="None">יֵעָ֣שֶׂה</w>
       </wg>
-      <wg n="827537" class="PP">
+      <wg n="827537" level="phrase" class="Prepositional phrase">
         <w n="298418" lemma="לּ" partOfSpeech="prep" gloss="None">לָּ֔ךְ</w>
       </wg>
     </wg>
@@ -899,14 +899,14 @@
   <sentence n="1215861">
     <milestone unit="verse" id="Obad.1.15">Obad.1.15</milestone>
     <p>גְּמֻלְךָ֖ יָשׁ֥וּב בְּרֹאשֶֽׁךָ׃ </p>
-    <wg n="487337" class="XYqt">
-      <wg n="827538" class="NP">
+    <wg n="487337" level="clause" class="X-yiqtol clause">
+      <wg n="827538" level="phrase" class="Nominal phrase">
         <w n="298419" lemma="גְּמֻלְ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">גְּמֻלְךָ֖</w>
       </wg>
-      <wg n="827539" class="VP">
+      <wg n="827539" level="phrase" class="Verbal phrase">
         <w n="298420" lemma="שׁוּב" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal" gloss="None">יָשׁ֥וּב</w>
       </wg>
-      <wg n="827540" class="PP">
+      <wg n="827540" level="phrase" class="Prepositional phrase">
         <w n="298421" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298422" lemma="רֹאשׁ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">רֹאשֶֽׁךָ</w>
       </wg>
@@ -915,31 +915,31 @@
   <sentence n="1215862">
     <milestone unit="verse" id="Obad.1.16">Obad.1.16</milestone>
     <p>כִּ֗י כַּֽאֲשֶׁ֤ר שְׁתִיתֶם֙ עַל־הַ֣ר קָדְשִׁ֔י יִשְׁתּ֥וּ כָֽל־הַגֹּויִ֖ם תָּמִ֑יד </p>
-    <wg n="487338" class="xYqX">
-      <wg n="827541" class="CP">
+    <wg n="487338" level="clause" class="x-yiqtol-X clause">
+      <wg n="827541" level="phrase" class="Conjunctive phrase">
         <w n="298423" lemma="כִּי" partOfSpeech="conj" gloss="None">כִּ֗י</w>
       </wg>
-      <wg n="827545" class="VP">
+      <wg n="827545" level="phrase" class="Verbal phrase">
         <w n="298430" lemma="שְׁתּ" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal" gloss="None">יִשְׁתּ֥וּ</w>
       </wg>
-      <wg n="827546" class="NP">
+      <wg n="827546" level="phrase" class="Nominal phrase">
         <w n="298431" lemma="כָל" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">כָֽל</w>
         <w n="298432" lemma="הַ" partOfSpeech="art" gloss="None">הַ</w>
         <w n="298433" lemma="גֹּוי" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">גֹּויִ֖ם</w>
       </wg>
-      <wg n="827547" class="AdvP">
+      <wg n="827547" level="phrase" class="Adverbial phrase">
         <w n="298434" lemma="תָּמִיד" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">תָּמִ֑יד</w>
       </wg>
     </wg>
-    <wg n="487339" class="xQt0" role="Adju">
-      <wg n="827542" class="CP">
+    <wg n="487339" level="clause" class="x-qatal-null clause" role="Adjunctive clause">
+      <wg n="827542" level="phrase" class="Conjunctive phrase">
         <w n="298424" lemma="כַּ" partOfSpeech="prep" gloss="None">כַּֽ</w>
         <w n="298425" lemma="אֲשֶׁר" partOfSpeech="conj" gloss="None">אֲשֶׁ֤ר</w>
       </wg>
-      <wg n="827543" class="VP">
+      <wg n="827543" level="phrase" class="Verbal phrase">
         <w n="298426" lemma="שְׁתִי" partOfSpeech="verb" person="2" number="pl" gender="m" tense="perf" stem="qal" gloss="None">שְׁתִיתֶם֙</w>
       </wg>
-      <wg n="827544" class="PP">
+      <wg n="827544" level="phrase" class="Prepositional phrase">
         <w n="298427" lemma="עַל" partOfSpeech="prep" gloss="None">עַל</w>
         <w n="298428" lemma="הַר" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">הַ֣ר</w>
         <w n="298429" lemma="קָדְשׁ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">קָדְשִׁ֔י</w>
@@ -949,11 +949,11 @@
   <sentence n="1215863">
     <milestone unit="verse" id="Obad.1.16">Obad.1.16</milestone>
     <p>וְשָׁת֣וּ </p>
-    <wg n="487340" class="WQt0">
-      <wg n="827548" class="CP">
+    <wg n="487340" level="clause" class="We-qatal-null clause">
+      <wg n="827548" level="phrase" class="Conjunctive phrase">
         <w n="298435" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827549" class="VP">
+      <wg n="827549" level="phrase" class="Verbal phrase">
         <w n="298436" lemma="שָׁת" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">שָׁת֣וּ</w>
       </wg>
     </wg>
@@ -961,11 +961,11 @@
   <sentence n="1215864">
     <milestone unit="verse" id="Obad.1.16">Obad.1.16</milestone>
     <p>וְלָע֔וּ </p>
-    <wg n="487341" class="WQt0">
-      <wg n="827550" class="CP">
+    <wg n="487341" level="clause" class="We-qatal-null clause">
+      <wg n="827550" level="phrase" class="Conjunctive phrase">
         <w n="298437" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827551" class="VP">
+      <wg n="827551" level="phrase" class="Verbal phrase">
         <w n="298438" lemma="לָע" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">לָע֔וּ</w>
       </wg>
     </wg>
@@ -973,22 +973,22 @@
   <sentence n="1215865">
     <milestone unit="verse" id="Obad.1.16">Obad.1.16</milestone>
     <p>וְהָי֖וּ כְּלֹ֥וא הָיֽוּ׃ </p>
-    <wg n="487342" class="WQt0">
-      <wg n="827552" class="CP">
+    <wg n="487342" level="clause" class="We-qatal-null clause">
+      <wg n="827552" level="phrase" class="Conjunctive phrase">
         <w n="298439" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827553" class="VP">
+      <wg n="827553" level="phrase" class="Verbal phrase">
         <w n="298440" lemma="הָי" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">הָי֖וּ</w>
       </wg>
     </wg>
-    <wg n="487343" class="xQt0" role="Cmpl">
-      <wg n="827554" class="CP">
+    <wg n="487343" level="clause" class="x-qatal-null clause" role="Complement clause">
+      <wg n="827554" level="phrase" class="Conjunctive phrase">
         <w n="298441" lemma="כְּ" partOfSpeech="prep" gloss="None">כְּ</w>
       </wg>
-      <wg n="827555" class="NegP">
+      <wg n="827555" level="phrase" class="Negative phrase">
         <w n="298442" lemma="לֹוא" partOfSpeech="nega" gloss="None">לֹ֥וא</w>
       </wg>
-      <wg n="827556" class="VP">
+      <wg n="827556" level="phrase" class="Verbal phrase">
         <w n="298443" lemma="הָי" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">הָיֽוּ</w>
       </wg>
     </wg>
@@ -996,19 +996,19 @@
   <sentence n="1215866">
     <milestone unit="verse" id="Obad.1.17">Obad.1.17</milestone>
     <p>וּבְהַ֥ר צִיֹּ֛ון תִּהְיֶ֥ה פְלֵיטָ֖ה </p>
-    <wg n="487344" class="WxYX">
-      <wg n="827557" class="CP">
+    <wg n="487344" level="clause" class="We-x-yiqtol-X clause">
+      <wg n="827557" level="phrase" class="Conjunctive phrase">
         <w n="298444" lemma="וּ" partOfSpeech="conj" gloss="None">וּ</w>
       </wg>
-      <wg n="827558" class="PP">
+      <wg n="827558" level="phrase" class="Prepositional phrase">
         <w n="298445" lemma="בְ" partOfSpeech="prep" gloss="None">בְ</w>
         <w n="298446" lemma="הַר" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">הַ֥ר</w>
         <w n="298447" lemma="צִיֹּון" partOfSpeech="nmpr" number="sg" state="a" gloss="None">צִיֹּ֛ון</w>
       </wg>
-      <wg n="827559" class="VP">
+      <wg n="827559" level="phrase" class="Verbal phrase">
         <w n="298448" lemma="הְיֶה" partOfSpeech="verb" person="3" number="sg" gender="f" tense="impf" stem="qal" gloss="None">תִּהְיֶ֥ה</w>
       </wg>
-      <wg n="827560" class="NP">
+      <wg n="827560" level="phrase" class="Nominal phrase">
         <w n="298449" lemma="פְלֵיט" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">פְלֵיטָ֖ה</w>
       </wg>
     </wg>
@@ -1016,14 +1016,14 @@
   <sentence n="1215867">
     <milestone unit="verse" id="Obad.1.17">Obad.1.17</milestone>
     <p>וְהָ֣יָה קֹ֑דֶשׁ </p>
-    <wg n="487345" class="WQt0">
-      <wg n="827561" class="CP">
+    <wg n="487345" level="clause" class="We-qatal-null clause">
+      <wg n="827561" level="phrase" class="Conjunctive phrase">
         <w n="298450" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827562" class="VP">
+      <wg n="827562" level="phrase" class="Verbal phrase">
         <w n="298451" lemma="הָיָה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal" gloss="None">הָ֣יָה</w>
       </wg>
-      <wg n="827563" class="NP">
+      <wg n="827563" level="phrase" class="Nominal phrase">
         <w n="298452" lemma="קֹדֶשׁ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">קֹ֑דֶשׁ</w>
       </wg>
     </wg>
@@ -1031,18 +1031,18 @@
   <sentence n="1215868">
     <milestone unit="verse" id="Obad.1.17">Obad.1.17</milestone>
     <p>וְיָֽרְשׁוּ֙ בֵּ֣ית יַֽעֲקֹ֔ב אֵ֖ת מֹורָֽשֵׁיהֶם׃ </p>
-    <wg n="487346" class="WQtX">
-      <wg n="827564" class="CP">
+    <wg n="487346" level="clause" class="We-qatal-X clause">
+      <wg n="827564" level="phrase" class="Conjunctive phrase">
         <w n="298453" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827565" class="VP">
+      <wg n="827565" level="phrase" class="Verbal phrase">
         <w n="298454" lemma="יָרְשׁ" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">יָֽרְשׁוּ֙</w>
       </wg>
-      <wg n="827566" class="NP">
+      <wg n="827566" level="phrase" class="Nominal phrase">
         <w n="298455" lemma="בֵּית" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">בֵּ֣ית</w>
         <w n="298456" lemma="יַעֲקֹב" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יַֽעֲקֹ֔ב</w>
       </wg>
-      <wg n="827567" class="PP">
+      <wg n="827567" level="phrase" class="Prepositional phrase">
         <w n="298457" lemma="אֵת" partOfSpeech="prep" gloss="None">אֵ֖ת</w>
         <w n="298458" lemma="מֹורָשׁ" partOfSpeech="subs" number="pl" gender="m" state="a" gloss="None">מֹורָֽשֵׁיהֶם</w>
       </wg>
@@ -1051,42 +1051,42 @@
   <sentence n="1215869">
     <milestone unit="verse" id="Obad.1.18">Obad.1.18</milestone>
     <p>וְהָיָה֩ בֵית־יַעֲקֹ֨ב אֵ֜שׁ וּבֵ֧ית יֹוסֵ֣ף לֶהָבָ֗ה וּבֵ֤ית עֵשָׂו֙ לְקַ֔שׁ </p>
-    <wg n="487347" class="WQtX">
-      <wg n="827568" class="CP">
+    <wg n="487347" level="clause" class="We-qatal-X clause">
+      <wg n="827568" level="phrase" class="Conjunctive phrase">
         <w n="298459" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827569" class="VP">
+      <wg n="827569" level="phrase" class="Verbal phrase">
         <w n="298460" lemma="הָיָה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="qal" gloss="None">הָיָה֩</w>
       </wg>
-      <wg n="827570" class="NP">
+      <wg n="827570" level="phrase" class="Nominal phrase">
         <w n="298461" lemma="בֵית" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">בֵית</w>
         <w n="298462" lemma="יַעֲקֹב" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יַעֲקֹ֨ב</w>
       </wg>
-      <wg n="827571" class="NP">
+      <wg n="827571" level="phrase" class="Nominal phrase">
         <w n="298463" lemma="אֵשׁ" partOfSpeech="subs" number="sg" state="a" gloss="None">אֵ֜שׁ</w>
       </wg>
     </wg>
-    <wg n="487348" class="Ellp">
-      <wg n="827572" class="CP">
+    <wg n="487348" level="clause" class="Ellipsis">
+      <wg n="827572" level="phrase" class="Conjunctive phrase">
         <w n="298464" lemma="וּ" partOfSpeech="conj" gloss="None">וּ</w>
       </wg>
-      <wg n="827573" class="NP">
+      <wg n="827573" level="phrase" class="Nominal phrase">
         <w n="298465" lemma="בֵית" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">בֵ֧ית</w>
         <w n="298466" lemma="יֹוסֵף" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יֹוסֵ֣ף</w>
       </wg>
-      <wg n="827574" class="NP">
+      <wg n="827574" level="phrase" class="Nominal phrase">
         <w n="298467" lemma="לֶהָב" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">לֶהָבָ֗ה</w>
       </wg>
     </wg>
-    <wg n="487349" class="Ellp">
-      <wg n="827575" class="CP">
+    <wg n="487349" level="clause" class="Ellipsis">
+      <wg n="827575" level="phrase" class="Conjunctive phrase">
         <w n="298468" lemma="וּ" partOfSpeech="conj" gloss="None">וּ</w>
       </wg>
-      <wg n="827576" class="NP">
+      <wg n="827576" level="phrase" class="Nominal phrase">
         <w n="298469" lemma="בֵית" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">בֵ֤ית</w>
         <w n="298470" lemma="עֵשָׂו" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">עֵשָׂו֙</w>
       </wg>
-      <wg n="827577" class="PP">
+      <wg n="827577" level="phrase" class="Prepositional phrase">
         <w n="298471" lemma="לְ" partOfSpeech="prep" gloss="None">לְ</w>
         <w n="298472" lemma="קַשׁ" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">קַ֔שׁ</w>
       </wg>
@@ -1095,14 +1095,14 @@
   <sentence n="1215870">
     <milestone unit="verse" id="Obad.1.18">Obad.1.18</milestone>
     <p>וְדָלְק֥וּ בָהֶ֖ם </p>
-    <wg n="487350" class="WQt0">
-      <wg n="827578" class="CP">
+    <wg n="487350" level="clause" class="We-qatal-null clause">
+      <wg n="827578" level="phrase" class="Conjunctive phrase">
         <w n="298473" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827579" class="VP">
+      <wg n="827579" level="phrase" class="Verbal phrase">
         <w n="298474" lemma="דָלְק" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">דָלְק֥וּ</w>
       </wg>
-      <wg n="827580" class="PP">
+      <wg n="827580" level="phrase" class="Prepositional phrase">
         <w n="298475" lemma="ב" partOfSpeech="prep" gloss="None">בָהֶ֖ם</w>
       </wg>
     </wg>
@@ -1110,11 +1110,11 @@
   <sentence n="1215871">
     <milestone unit="verse" id="Obad.1.18">Obad.1.18</milestone>
     <p>וַאֲכָל֑וּם </p>
-    <wg n="487351" class="WQt0">
-      <wg n="827581" class="CP">
+    <wg n="487351" level="clause" class="We-qatal-null clause">
+      <wg n="827581" level="phrase" class="Conjunctive phrase">
         <w n="298476" lemma="וַ" partOfSpeech="conj" gloss="None">וַ</w>
       </wg>
-      <wg n="827582" class="VP">
+      <wg n="827582" level="phrase" class="Verbal phrase">
         <w n="298477" lemma="אֲכָל" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">אֲכָל֑וּם</w>
       </wg>
     </wg>
@@ -1122,20 +1122,20 @@
   <sentence n="1215872">
     <milestone unit="verse" id="Obad.1.18">Obad.1.18</milestone>
     <p>וְלֹֽא־יִהְיֶ֤ה שָׂרִיד֙ לְבֵ֣ית עֵשָׂ֔ו </p>
-    <wg n="487352" class="WxYX">
-      <wg n="827583" class="CP">
+    <wg n="487352" level="clause" class="We-x-yiqtol-X clause">
+      <wg n="827583" level="phrase" class="Conjunctive phrase">
         <w n="298478" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827584" class="NegP">
+      <wg n="827584" level="phrase" class="Negative phrase">
         <w n="298479" lemma="לֹא" partOfSpeech="nega" gloss="None">לֹֽא</w>
       </wg>
-      <wg n="827585" class="VP">
+      <wg n="827585" level="phrase" class="Verbal phrase">
         <w n="298480" lemma="הְיֶה" partOfSpeech="verb" person="3" number="sg" gender="m" tense="impf" stem="qal" gloss="None">יִהְיֶ֤ה</w>
       </wg>
-      <wg n="827586" class="NP">
+      <wg n="827586" level="phrase" class="Nominal phrase">
         <w n="298481" lemma="שָׂרִיד" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">שָׂרִיד֙</w>
       </wg>
-      <wg n="827587" class="PP">
+      <wg n="827587" level="phrase" class="Prepositional phrase">
         <w n="298482" lemma="לְ" partOfSpeech="prep" gloss="None">לְ</w>
         <w n="298483" lemma="בֵית" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">בֵ֣ית</w>
         <w n="298484" lemma="עֵשָׂו" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">עֵשָׂ֔ו</w>
@@ -1145,14 +1145,14 @@
   <sentence n="1215873">
     <milestone unit="verse" id="Obad.1.18">Obad.1.18</milestone>
     <p>כִּ֥י יְהוָ֖ה דִּבֵּֽר׃ </p>
-    <wg n="487353" class="XQtl">
-      <wg n="827588" class="CP">
+    <wg n="487353" level="clause" class="X-qatal clause">
+      <wg n="827588" level="phrase" class="Conjunctive phrase">
         <w n="298485" lemma="כִּי" partOfSpeech="conj" gloss="None">כִּ֥י</w>
       </wg>
-      <wg n="827589" class="PrNP">
+      <wg n="827589" level="phrase" class="Proper-noun phrase">
         <w n="298486" lemma="יְהוָה" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יְהוָ֖ה</w>
       </wg>
-      <wg n="827590" class="VP">
+      <wg n="827590" level="phrase" class="Verbal phrase">
         <w n="298487" lemma="דִּבֵּר" partOfSpeech="verb" person="3" number="sg" gender="m" tense="perf" stem="piel" gloss="None">דִּבֵּֽר</w>
       </wg>
     </wg>
@@ -1160,32 +1160,32 @@
   <sentence n="1215874">
     <milestone unit="verse" id="Obad.1.19">Obad.1.19</milestone>
     <p>וְיָרְשׁ֨וּ הַנֶּ֜גֶב אֶת־הַ֣ר עֵשָׂ֗ו וְהַשְּׁפֵלָה֙ אֶת־פְּלִשְׁתִּ֔ים </p>
-    <wg n="487354" class="WQtX">
-      <wg n="827591" class="CP">
+    <wg n="487354" level="clause" class="We-qatal-X clause">
+      <wg n="827591" level="phrase" class="Conjunctive phrase">
         <w n="298488" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827592" class="VP">
+      <wg n="827592" level="phrase" class="Verbal phrase">
         <w n="298489" lemma="יָרְשׁ" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">יָרְשׁ֨וּ</w>
       </wg>
-      <wg n="827593" class="PrNP">
+      <wg n="827593" level="phrase" class="Proper-noun phrase">
         <w n="298490" lemma="הַ" partOfSpeech="art" gloss="None">הַ</w>
         <w n="298491" lemma="נֶּגֶב" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">נֶּ֜גֶב</w>
       </wg>
-      <wg n="827594" class="PP">
+      <wg n="827594" level="phrase" class="Prepositional phrase">
         <w n="298492" lemma="אֶת" partOfSpeech="prep" gloss="None">אֶת</w>
         <w n="298493" lemma="הַר" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">הַ֣ר</w>
         <w n="298494" lemma="עֵשָׂו" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">עֵשָׂ֗ו</w>
       </wg>
     </wg>
-    <wg n="487355" class="Ellp">
-      <wg n="827595" class="CP">
+    <wg n="487355" level="clause" class="Ellipsis">
+      <wg n="827595" level="phrase" class="Conjunctive phrase">
         <w n="298495" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827596" class="PrNP">
+      <wg n="827596" level="phrase" class="Proper-noun phrase">
         <w n="298496" lemma="הַ" partOfSpeech="art" gloss="None">הַ</w>
         <w n="298497" lemma="שְּׁפֵלָה" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">שְּׁפֵלָה֙</w>
       </wg>
-      <wg n="827597" class="PP">
+      <wg n="827597" level="phrase" class="Prepositional phrase">
         <w n="298498" lemma="אֶת" partOfSpeech="prep" gloss="None">אֶת</w>
         <w n="298499" lemma="פְּלִשְׁתּ" partOfSpeech="adjv" number="pl" gender="m" state="a" gloss="None">פְּלִשְׁתִּ֔ים</w>
       </wg>
@@ -1194,14 +1194,14 @@
   <sentence n="1215875">
     <milestone unit="verse" id="Obad.1.19">Obad.1.19</milestone>
     <p>וְיָרְשׁוּ֙ אֶת־שְׂדֵ֣ה אֶפְרַ֔יִם וְאֵ֖ת שְׂדֵ֣ה שֹׁמְרֹ֑ון וּבִנְיָמִ֖ן אֶת־הַגִּלְעָֽד׃ </p>
-    <wg n="487356" class="WQt0">
-      <wg n="827598" class="CP">
+    <wg n="487356" level="clause" class="We-qatal-null clause">
+      <wg n="827598" level="phrase" class="Conjunctive phrase">
         <w n="298500" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827599" class="VP">
+      <wg n="827599" level="phrase" class="Verbal phrase">
         <w n="298501" lemma="יָרְשׁ" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">יָרְשׁוּ֙</w>
       </wg>
-      <wg n="827600" class="PP">
+      <wg n="827600" level="phrase" class="Prepositional phrase">
         <w n="298502" lemma="אֶת" partOfSpeech="prep" gloss="None">אֶת</w>
         <w n="298503" lemma="שְׂדֵה" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">שְׂדֵ֣ה</w>
         <w n="298504" lemma="אֶפְרַיִם" partOfSpeech="nmpr" number="sg" state="a" gloss="None">אֶפְרַ֔יִם</w>
@@ -1211,14 +1211,14 @@
         <w n="298508" lemma="שֹׁמְרֹון" partOfSpeech="nmpr" number="sg" state="a" gloss="None">שֹׁמְרֹ֑ון</w>
       </wg>
     </wg>
-    <wg n="487357" class="Ellp">
-      <wg n="827601" class="CP">
+    <wg n="487357" level="clause" class="Ellipsis">
+      <wg n="827601" level="phrase" class="Conjunctive phrase">
         <w n="298509" lemma="וּ" partOfSpeech="conj" gloss="None">וּ</w>
       </wg>
-      <wg n="827602" class="PrNP">
+      <wg n="827602" level="phrase" class="Proper-noun phrase">
         <w n="298510" lemma="בִנְיָמִן" partOfSpeech="nmpr" number="sg" state="a" gloss="None">בִנְיָמִ֖ן</w>
       </wg>
-      <wg n="827603" class="PP">
+      <wg n="827603" level="phrase" class="Prepositional phrase">
         <w n="298511" lemma="אֶת" partOfSpeech="prep" gloss="None">אֶת</w>
         <w n="298512" lemma="הַ" partOfSpeech="art" gloss="None">הַ</w>
         <w n="298513" lemma="גִּלְעָד" partOfSpeech="nmpr" number="sg" state="a" gloss="None">גִּלְעָֽד</w>
@@ -1228,11 +1228,11 @@
   <sentence n="1215876">
     <milestone unit="verse" id="Obad.1.20">Obad.1.20</milestone>
     <p>וְגָלֻ֣ת הַֽחֵל־הַ֠זֶּה לִבְנֵ֨י יִשְׂרָאֵ֤ל אֲשֶֽׁר־כְּנַעֲנִים֙ עַד־צָ֣רְפַ֔ת </p>
-    <wg n="487358" class="Ellp">
-      <wg n="827604" class="CP">
+    <wg n="487358" level="clause" class="Ellipsis">
+      <wg n="827604" level="phrase" class="Conjunctive phrase">
         <w n="298514" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827605" class="NP">
+      <wg n="827605" level="phrase" class="Nominal phrase">
         <w n="298515" lemma="גָלֻת" partOfSpeech="subs" number="sg" gender="f" state="c" gloss="None">גָלֻ֣ת</w>
         <w n="298516" lemma="הַ" partOfSpeech="art" gloss="None">הַֽ</w>
         <w n="298517" lemma="חֵל" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">חֵל</w>
@@ -1242,16 +1242,16 @@
         <w n="298521" lemma="בְן" partOfSpeech="subs" number="pl" gender="m" state="c" gloss="None">בְנֵ֨י</w>
         <w n="298522" lemma="יִשְׂרָאֵל" partOfSpeech="nmpr" number="sg" state="a" gloss="None">יִשְׂרָאֵ֤ל</w>
       </wg>
-      <wg n="827608" class="PP">
+      <wg n="827608" level="phrase" class="Prepositional phrase">
         <w n="298525" lemma="עַד" partOfSpeech="prep" gloss="None">עַד</w>
         <w n="298526" lemma="צָרְפַת" partOfSpeech="nmpr" number="sg" state="a" gloss="None">צָ֣רְפַ֔ת</w>
       </wg>
     </wg>
-    <wg n="487359" class="NmCl" role="Attr">
-      <wg n="827606" class="CP">
+    <wg n="487359" level="clause" class="Nominal clause" role="Attributive clause">
+      <wg n="827606" level="phrase" class="Conjunctive phrase">
         <w n="298523" lemma="אֲשֶׁר" partOfSpeech="conj" gloss="None">אֲשֶֽׁר</w>
       </wg>
-      <wg n="827607" class="NP">
+      <wg n="827607" level="phrase" class="Nominal phrase">
         <w n="298524" lemma="כְּנַעֲן" partOfSpeech="adjv" number="pl" gender="m" state="a" gloss="None">כְּנַעֲנִים֙</w>
       </wg>
     </wg>
@@ -1259,29 +1259,29 @@
   <sentence n="1215877">
     <milestone unit="verse" id="Obad.1.20">Obad.1.20</milestone>
     <p>וְגָלֻ֥ת יְרוּשָׁלִַ֖ם אֲשֶׁ֣ר בִּסְפָרַ֑ד יִֽרְשׁ֕וּ אֵ֖ת עָרֵ֥י הַנֶּֽגֶב׃ </p>
-    <wg n="487360" class="WXYq">
-      <wg n="827609" class="CP">
+    <wg n="487360" level="clause" class="We-X-yiqtol clause">
+      <wg n="827609" level="phrase" class="Conjunctive phrase">
         <w n="298527" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827610" class="NP">
+      <wg n="827610" level="phrase" class="Nominal phrase">
         <w n="298528" lemma="גָלֻת" partOfSpeech="subs" number="sg" gender="f" state="c" gloss="None">גָלֻ֥ת</w>
         <w n="298529" lemma="יְרוּשָׁלִַם" partOfSpeech="nmpr" number="sg" state="a" gloss="None">יְרוּשָׁלִַ֖ם</w>
       </wg>
-      <wg n="827613" class="VP">
+      <wg n="827613" level="phrase" class="Verbal phrase">
         <w n="298533" lemma="רְשׁ" partOfSpeech="verb" person="3" number="pl" gender="m" tense="impf" stem="qal" gloss="None">יִֽרְשׁ֕וּ</w>
       </wg>
-      <wg n="827614" class="PP">
+      <wg n="827614" level="phrase" class="Prepositional phrase">
         <w n="298534" lemma="אֵת" partOfSpeech="prep" gloss="None">אֵ֖ת</w>
         <w n="298535" lemma="עָר" partOfSpeech="subs" number="pl" gender="f" state="c" gloss="None">עָרֵ֥י</w>
         <w n="298536" lemma="הַ" partOfSpeech="art" gloss="None">הַ</w>
         <w n="298537" lemma="נֶּגֶב" partOfSpeech="subs" number="sg" gender="m" state="a" gloss="None">נֶּֽגֶב</w>
       </wg>
     </wg>
-    <wg n="487361" class="NmCl" role="Attr">
-      <wg n="827611" class="CP">
+    <wg n="487361" level="clause" class="Nominal clause" role="Attributive clause">
+      <wg n="827611" level="phrase" class="Conjunctive phrase">
         <w n="298530" lemma="אֲשֶׁר" partOfSpeech="conj" gloss="None">אֲשֶׁ֣ר</w>
       </wg>
-      <wg n="827612" class="PP">
+      <wg n="827612" level="phrase" class="Prepositional phrase">
         <w n="298531" lemma="בִּ" partOfSpeech="prep" gloss="None">בִּ</w>
         <w n="298532" lemma="סְפָרַד" partOfSpeech="nmpr" number="sg" state="a" gloss="None">סְפָרַ֑ד</w>
       </wg>
@@ -1290,28 +1290,28 @@
   <sentence n="1215878">
     <milestone unit="verse" id="Obad.1.21">Obad.1.21</milestone>
     <p>וְעָל֤וּ מֹֽושִׁעִים֙ בְּהַ֣ר צִיֹּ֔ון לִשְׁפֹּ֖ט אֶת־הַ֣ר עֵשָׂ֑ו </p>
-    <wg n="487362" class="WQtX">
-      <wg n="827615" class="CP">
+    <wg n="487362" level="clause" class="We-qatal-X clause">
+      <wg n="827615" level="phrase" class="Conjunctive phrase">
         <w n="298538" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827616" class="VP">
+      <wg n="827616" level="phrase" class="Verbal phrase">
         <w n="298539" lemma="עָל" partOfSpeech="verb" person="3" number="pl" tense="perf" stem="qal" gloss="None">עָל֤וּ</w>
       </wg>
-      <wg n="827617" class="NP">
+      <wg n="827617" level="phrase" class="Nominal phrase">
         <w n="298540" lemma="ושִׁע" partOfSpeech="verb" number="pl" gender="m" tense="ptca" stem="hif" state="a" gloss="None">מֹֽושִׁעִים֙</w>
       </wg>
-      <wg n="827618" class="PP">
+      <wg n="827618" level="phrase" class="Prepositional phrase">
         <w n="298541" lemma="בְּ" partOfSpeech="prep" gloss="None">בְּ</w>
         <w n="298542" lemma="הַר" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">הַ֣ר</w>
         <w n="298543" lemma="צִיֹּון" partOfSpeech="nmpr" number="sg" state="a" gloss="None">צִיֹּ֔ון</w>
       </wg>
     </wg>
-    <wg n="487363" class="InfC" role="Adju">
-      <wg n="827619" class="VP">
+    <wg n="487363" level="clause" class="Infinitive construct clause" role="Adjunctive clause">
+      <wg n="827619" level="phrase" class="Verbal phrase">
         <w n="298544" lemma="לִ" partOfSpeech="prep" gloss="None">לִ</w>
         <w n="298545" lemma="שְׁפֹּט" partOfSpeech="verb" tense="infc" stem="qal" state="a" gloss="None">שְׁפֹּ֖ט</w>
       </wg>
-      <wg n="827620" class="PP">
+      <wg n="827620" level="phrase" class="Prepositional phrase">
         <w n="298546" lemma="אֶת" partOfSpeech="prep" gloss="None">אֶת</w>
         <w n="298547" lemma="הַר" partOfSpeech="subs" number="sg" gender="m" state="c" gloss="None">הַ֣ר</w>
         <w n="298548" lemma="עֵשָׂו" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">עֵשָׂ֑ו</w>
@@ -1321,18 +1321,18 @@
   <sentence n="1215879">
     <milestone unit="verse" id="Obad.1.21">Obad.1.21</milestone>
     <p>וְהָיְתָ֥ה לַֽיהוָ֖ה הַמְּלוּכָֽה׃ </p>
-    <wg n="487364" class="WQtX">
-      <wg n="827621" class="CP">
+    <wg n="487364" level="clause" class="We-qatal-X clause">
+      <wg n="827621" level="phrase" class="Conjunctive phrase">
         <w n="298549" lemma="וְ" partOfSpeech="conj" gloss="None">וְ</w>
       </wg>
-      <wg n="827622" class="VP">
+      <wg n="827622" level="phrase" class="Verbal phrase">
         <w n="298550" lemma="הָי" partOfSpeech="verb" person="3" number="sg" gender="f" tense="perf" stem="qal" gloss="None">הָיְתָ֥ה</w>
       </wg>
-      <wg n="827623" class="PP">
+      <wg n="827623" level="phrase" class="Prepositional phrase">
         <w n="298551" lemma="לַ" partOfSpeech="prep" gloss="None">לַֽ</w>
         <w n="298552" lemma="יהוָה" partOfSpeech="nmpr" number="sg" gender="m" state="a" gloss="None">יהוָ֖ה</w>
       </wg>
-      <wg n="827624" class="NP">
+      <wg n="827624" level="phrase" class="Nominal phrase">
         <w n="298553" lemma="הַ" partOfSpeech="art" gloss="None">הַ</w>
         <w n="298554" lemma="מְּלוּך" partOfSpeech="subs" number="sg" gender="f" state="a" gloss="None">מְּלוּכָֽה</w>
       </wg>
